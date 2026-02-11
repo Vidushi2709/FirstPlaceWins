@@ -1,8 +1,8 @@
 import pandas as pd
 import random
 
-INPUT_FILE = "question_base.csv"
-OUTPUT_FILE = "questions_shuffled.csv"
+INPUT_FILE = "data/question_base.csv"
+OUTPUT_FILE = "data/questions_shuffled.csv"
 N_SHUFFLES = 12
 RANDOM_SEED = 42
 

@@ -7,8 +7,8 @@ from datetime import datetime
 from dotenv import load_dotenv
 
 # CONFIG
-INPUT_FILE = "questions_shuffled.csv"
-OUTPUT_FILE = "results.csv"
+INPUT_FILE = "data/questions_shuffled.csv"
+OUTPUT_FILE = "data/results.csv"
 TEMPERATURE = 0
 MAX_TOKENS = 5
 SLEEP_SECONDS = 1.2

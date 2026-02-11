@@ -77,12 +77,12 @@ This project asks:
 
 ## Method ^_____^
 
-1. Start with `question_base.csv`
+1. Start with `data/question_base.csv`
 2. Shuffle answer order
 3. Keep content identical
 4. Query model
 5. Record selected position
-6. Store in `results.csv`
+6. Store in `data/results.csv`
 
 Only order changes.
 
@@ -95,11 +95,12 @@ Nothing else.
 ```
 FirstPlaceWins/
 │
-├── question_base.csv          # Original questions
+├── data/
+│   ├── question_base.csv      # Original questions
+│   ├── questions_shuffled.csv # Shuffled variants
+│   └── results.csv            # Collected selections
 ├── shuffle.py                 # Generates permutations
-├── questions_shuffled.csv     # Shuffled variants
 ├── query_llm.py               # Model querying script
-├── results.csv                # Collected selections
 ├── position_bias.ipynb        # Analysis notebook
 ├── .env                       # API keys (not committed)
 └── .gitignore
@@ -108,19 +109,19 @@ FirstPlaceWins/
 Pipeline:
 
 ```
-question_base.csv
+data/question_base.csv
         │
         ▼
      shuffle.py
         │
         ▼
-questions_shuffled.csv
+data/questions_shuffled.csv
         │
         ▼
      query_llm.py
         │
         ▼
-      results.csv
+    data/results.csv
         │
         ▼
  position_bias.ipynb
