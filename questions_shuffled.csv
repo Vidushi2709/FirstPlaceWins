@@ -1,0 +1,2400 @@
+question_id,task_type,question_text,shuffle_id,option_label,option_text,option_position
+Q01,objective_high,What is the capital of Australia?,1,A,Canberra,1
+Q01,objective_high,What is the capital of Australia?,1,B,Melbourne,2
+Q01,objective_high,What is the capital of Australia?,1,C,Perth,3
+Q01,objective_high,What is the capital of Australia?,1,D,Sydney,4
+Q01,objective_high,What is the capital of Australia?,2,A,Perth,1
+Q01,objective_high,What is the capital of Australia?,2,B,Canberra,2
+Q01,objective_high,What is the capital of Australia?,2,C,Sydney,3
+Q01,objective_high,What is the capital of Australia?,2,D,Melbourne,4
+Q01,objective_high,What is the capital of Australia?,3,A,Melbourne,1
+Q01,objective_high,What is the capital of Australia?,3,B,Perth,2
+Q01,objective_high,What is the capital of Australia?,3,C,Canberra,3
+Q01,objective_high,What is the capital of Australia?,3,D,Sydney,4
+Q01,objective_high,What is the capital of Australia?,4,A,Melbourne,1
+Q01,objective_high,What is the capital of Australia?,4,B,Canberra,2
+Q01,objective_high,What is the capital of Australia?,4,C,Sydney,3
+Q01,objective_high,What is the capital of Australia?,4,D,Perth,4
+Q01,objective_high,What is the capital of Australia?,5,A,Melbourne,1
+Q01,objective_high,What is the capital of Australia?,5,B,Canberra,2
+Q01,objective_high,What is the capital of Australia?,5,C,Perth,3
+Q01,objective_high,What is the capital of Australia?,5,D,Sydney,4
+Q01,objective_high,What is the capital of Australia?,6,A,Melbourne,1
+Q01,objective_high,What is the capital of Australia?,6,B,Perth,2
+Q01,objective_high,What is the capital of Australia?,6,C,Canberra,3
+Q01,objective_high,What is the capital of Australia?,6,D,Sydney,4
+Q01,objective_high,What is the capital of Australia?,7,A,Canberra,1
+Q01,objective_high,What is the capital of Australia?,7,B,Melbourne,2
+Q01,objective_high,What is the capital of Australia?,7,C,Sydney,3
+Q01,objective_high,What is the capital of Australia?,7,D,Perth,4
+Q01,objective_high,What is the capital of Australia?,8,A,Melbourne,1
+Q01,objective_high,What is the capital of Australia?,8,B,Perth,2
+Q01,objective_high,What is the capital of Australia?,8,C,Sydney,3
+Q01,objective_high,What is the capital of Australia?,8,D,Canberra,4
+Q01,objective_high,What is the capital of Australia?,9,A,Sydney,1
+Q01,objective_high,What is the capital of Australia?,9,B,Canberra,2
+Q01,objective_high,What is the capital of Australia?,9,C,Melbourne,3
+Q01,objective_high,What is the capital of Australia?,9,D,Perth,4
+Q01,objective_high,What is the capital of Australia?,10,A,Canberra,1
+Q01,objective_high,What is the capital of Australia?,10,B,Perth,2
+Q01,objective_high,What is the capital of Australia?,10,C,Sydney,3
+Q01,objective_high,What is the capital of Australia?,10,D,Melbourne,4
+Q01,objective_high,What is the capital of Australia?,11,A,Canberra,1
+Q01,objective_high,What is the capital of Australia?,11,B,Melbourne,2
+Q01,objective_high,What is the capital of Australia?,11,C,Perth,3
+Q01,objective_high,What is the capital of Australia?,11,D,Sydney,4
+Q01,objective_high,What is the capital of Australia?,12,A,Perth,1
+Q01,objective_high,What is the capital of Australia?,12,B,Canberra,2
+Q01,objective_high,What is the capital of Australia?,12,C,Melbourne,3
+Q01,objective_high,What is the capital of Australia?,12,D,Sydney,4
+Q02,objective_high,Which planet is known as the Red Planet?,1,A,Saturn,1
+Q02,objective_high,Which planet is known as the Red Planet?,1,B,Mars,2
+Q02,objective_high,Which planet is known as the Red Planet?,1,C,Venus,3
+Q02,objective_high,Which planet is known as the Red Planet?,1,D,Jupiter,4
+Q02,objective_high,Which planet is known as the Red Planet?,2,A,Jupiter,1
+Q02,objective_high,Which planet is known as the Red Planet?,2,B,Saturn,2
+Q02,objective_high,Which planet is known as the Red Planet?,2,C,Mars,3
+Q02,objective_high,Which planet is known as the Red Planet?,2,D,Venus,4
+Q02,objective_high,Which planet is known as the Red Planet?,3,A,Venus,1
+Q02,objective_high,Which planet is known as the Red Planet?,3,B,Mars,2
+Q02,objective_high,Which planet is known as the Red Planet?,3,C,Saturn,3
+Q02,objective_high,Which planet is known as the Red Planet?,3,D,Jupiter,4
+Q02,objective_high,Which planet is known as the Red Planet?,4,A,Saturn,1
+Q02,objective_high,Which planet is known as the Red Planet?,4,B,Venus,2
+Q02,objective_high,Which planet is known as the Red Planet?,4,C,Jupiter,3
+Q02,objective_high,Which planet is known as the Red Planet?,4,D,Mars,4
+Q02,objective_high,Which planet is known as the Red Planet?,5,A,Mars,1
+Q02,objective_high,Which planet is known as the Red Planet?,5,B,Saturn,2
+Q02,objective_high,Which planet is known as the Red Planet?,5,C,Jupiter,3
+Q02,objective_high,Which planet is known as the Red Planet?,5,D,Venus,4
+Q02,objective_high,Which planet is known as the Red Planet?,6,A,Mars,1
+Q02,objective_high,Which planet is known as the Red Planet?,6,B,Saturn,2
+Q02,objective_high,Which planet is known as the Red Planet?,6,C,Venus,3
+Q02,objective_high,Which planet is known as the Red Planet?,6,D,Jupiter,4
+Q02,objective_high,Which planet is known as the Red Planet?,7,A,Saturn,1
+Q02,objective_high,Which planet is known as the Red Planet?,7,B,Jupiter,2
+Q02,objective_high,Which planet is known as the Red Planet?,7,C,Mars,3
+Q02,objective_high,Which planet is known as the Red Planet?,7,D,Venus,4
+Q02,objective_high,Which planet is known as the Red Planet?,8,A,Venus,1
+Q02,objective_high,Which planet is known as the Red Planet?,8,B,Mars,2
+Q02,objective_high,Which planet is known as the Red Planet?,8,C,Jupiter,3
+Q02,objective_high,Which planet is known as the Red Planet?,8,D,Saturn,4
+Q02,objective_high,Which planet is known as the Red Planet?,9,A,Venus,1
+Q02,objective_high,Which planet is known as the Red Planet?,9,B,Jupiter,2
+Q02,objective_high,Which planet is known as the Red Planet?,9,C,Saturn,3
+Q02,objective_high,Which planet is known as the Red Planet?,9,D,Mars,4
+Q02,objective_high,Which planet is known as the Red Planet?,10,A,Venus,1
+Q02,objective_high,Which planet is known as the Red Planet?,10,B,Saturn,2
+Q02,objective_high,Which planet is known as the Red Planet?,10,C,Jupiter,3
+Q02,objective_high,Which planet is known as the Red Planet?,10,D,Mars,4
+Q02,objective_high,Which planet is known as the Red Planet?,11,A,Mars,1
+Q02,objective_high,Which planet is known as the Red Planet?,11,B,Saturn,2
+Q02,objective_high,Which planet is known as the Red Planet?,11,C,Jupiter,3
+Q02,objective_high,Which planet is known as the Red Planet?,11,D,Venus,4
+Q02,objective_high,Which planet is known as the Red Planet?,12,A,Jupiter,1
+Q02,objective_high,Which planet is known as the Red Planet?,12,B,Saturn,2
+Q02,objective_high,Which planet is known as the Red Planet?,12,C,Venus,3
+Q02,objective_high,Which planet is known as the Red Planet?,12,D,Mars,4
+Q03,objective_high,What does HTTP stand for?,1,A,Hyperlink Transfer Program,1
+Q03,objective_high,What does HTTP stand for?,1,B,HyperText Transfer Protocol,2
+Q03,objective_high,What does HTTP stand for?,1,C,High Text Transmission Process,3
+Q03,objective_high,What does HTTP stand for?,1,D,Host Text Transport Protocol,4
+Q03,objective_high,What does HTTP stand for?,2,A,High Text Transmission Process,1
+Q03,objective_high,What does HTTP stand for?,2,B,Host Text Transport Protocol,2
+Q03,objective_high,What does HTTP stand for?,2,C,HyperText Transfer Protocol,3
+Q03,objective_high,What does HTTP stand for?,2,D,Hyperlink Transfer Program,4
+Q03,objective_high,What does HTTP stand for?,3,A,Host Text Transport Protocol,1
+Q03,objective_high,What does HTTP stand for?,3,B,Hyperlink Transfer Program,2
+Q03,objective_high,What does HTTP stand for?,3,C,High Text Transmission Process,3
+Q03,objective_high,What does HTTP stand for?,3,D,HyperText Transfer Protocol,4
+Q03,objective_high,What does HTTP stand for?,4,A,High Text Transmission Process,1
+Q03,objective_high,What does HTTP stand for?,4,B,Host Text Transport Protocol,2
+Q03,objective_high,What does HTTP stand for?,4,C,HyperText Transfer Protocol,3
+Q03,objective_high,What does HTTP stand for?,4,D,Hyperlink Transfer Program,4
+Q03,objective_high,What does HTTP stand for?,5,A,Host Text Transport Protocol,1
+Q03,objective_high,What does HTTP stand for?,5,B,High Text Transmission Process,2
+Q03,objective_high,What does HTTP stand for?,5,C,HyperText Transfer Protocol,3
+Q03,objective_high,What does HTTP stand for?,5,D,Hyperlink Transfer Program,4
+Q03,objective_high,What does HTTP stand for?,6,A,HyperText Transfer Protocol,1
+Q03,objective_high,What does HTTP stand for?,6,B,High Text Transmission Process,2
+Q03,objective_high,What does HTTP stand for?,6,C,Hyperlink Transfer Program,3
+Q03,objective_high,What does HTTP stand for?,6,D,Host Text Transport Protocol,4
+Q03,objective_high,What does HTTP stand for?,7,A,Hyperlink Transfer Program,1
+Q03,objective_high,What does HTTP stand for?,7,B,HyperText Transfer Protocol,2
+Q03,objective_high,What does HTTP stand for?,7,C,Host Text Transport Protocol,3
+Q03,objective_high,What does HTTP stand for?,7,D,High Text Transmission Process,4
+Q03,objective_high,What does HTTP stand for?,8,A,HyperText Transfer Protocol,1
+Q03,objective_high,What does HTTP stand for?,8,B,Host Text Transport Protocol,2
+Q03,objective_high,What does HTTP stand for?,8,C,Hyperlink Transfer Program,3
+Q03,objective_high,What does HTTP stand for?,8,D,High Text Transmission Process,4
+Q03,objective_high,What does HTTP stand for?,9,A,HyperText Transfer Protocol,1
+Q03,objective_high,What does HTTP stand for?,9,B,High Text Transmission Process,2
+Q03,objective_high,What does HTTP stand for?,9,C,Hyperlink Transfer Program,3
+Q03,objective_high,What does HTTP stand for?,9,D,Host Text Transport Protocol,4
+Q03,objective_high,What does HTTP stand for?,10,A,High Text Transmission Process,1
+Q03,objective_high,What does HTTP stand for?,10,B,Host Text Transport Protocol,2
+Q03,objective_high,What does HTTP stand for?,10,C,HyperText Transfer Protocol,3
+Q03,objective_high,What does HTTP stand for?,10,D,Hyperlink Transfer Program,4
+Q03,objective_high,What does HTTP stand for?,11,A,High Text Transmission Process,1
+Q03,objective_high,What does HTTP stand for?,11,B,Hyperlink Transfer Program,2
+Q03,objective_high,What does HTTP stand for?,11,C,HyperText Transfer Protocol,3
+Q03,objective_high,What does HTTP stand for?,11,D,Host Text Transport Protocol,4
+Q03,objective_high,What does HTTP stand for?,12,A,High Text Transmission Process,1
+Q03,objective_high,What does HTTP stand for?,12,B,Hyperlink Transfer Program,2
+Q03,objective_high,What does HTTP stand for?,12,C,Host Text Transport Protocol,3
+Q03,objective_high,What does HTTP stand for?,12,D,HyperText Transfer Protocol,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,1,A,Carbon dioxide,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,1,B,Oxygen,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,1,C,Nitrogen,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,1,D,Hydrogen,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,2,A,Oxygen,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,2,B,Nitrogen,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,2,C,Carbon dioxide,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,2,D,Hydrogen,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,3,A,Carbon dioxide,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,3,B,Oxygen,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,3,C,Hydrogen,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,3,D,Nitrogen,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,4,A,Hydrogen,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,4,B,Carbon dioxide,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,4,C,Nitrogen,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,4,D,Oxygen,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,5,A,Hydrogen,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,5,B,Carbon dioxide,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,5,C,Oxygen,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,5,D,Nitrogen,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,6,A,Nitrogen,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,6,B,Carbon dioxide,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,6,C,Oxygen,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,6,D,Hydrogen,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,7,A,Hydrogen,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,7,B,Carbon dioxide,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,7,C,Nitrogen,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,7,D,Oxygen,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,8,A,Hydrogen,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,8,B,Oxygen,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,8,C,Nitrogen,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,8,D,Carbon dioxide,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,9,A,Carbon dioxide,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,9,B,Oxygen,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,9,C,Hydrogen,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,9,D,Nitrogen,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,10,A,Nitrogen,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,10,B,Oxygen,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,10,C,Hydrogen,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,10,D,Carbon dioxide,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,11,A,Hydrogen,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,11,B,Carbon dioxide,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,11,C,Nitrogen,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,11,D,Oxygen,4
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,12,A,Carbon dioxide,1
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,12,B,Nitrogen,2
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,12,C,Oxygen,3
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,12,D,Hydrogen,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,1,A,Charles Dickens,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,1,B,William Shakespeare,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,1,C,Christopher Marlowe,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,1,D,Jane Austen,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,2,A,Christopher Marlowe,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,2,B,Jane Austen,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,2,C,Charles Dickens,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,2,D,William Shakespeare,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,3,A,Charles Dickens,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,3,B,Christopher Marlowe,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,3,C,Jane Austen,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,3,D,William Shakespeare,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,4,A,Christopher Marlowe,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,4,B,Charles Dickens,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,4,C,Jane Austen,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,4,D,William Shakespeare,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,5,A,William Shakespeare,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,5,B,Charles Dickens,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,5,C,Jane Austen,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,5,D,Christopher Marlowe,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,6,A,William Shakespeare,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,6,B,Jane Austen,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,6,C,Charles Dickens,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,6,D,Christopher Marlowe,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,7,A,Charles Dickens,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,7,B,William Shakespeare,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,7,C,Jane Austen,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,7,D,Christopher Marlowe,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,8,A,William Shakespeare,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,8,B,Charles Dickens,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,8,C,Christopher Marlowe,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,8,D,Jane Austen,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,9,A,William Shakespeare,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,9,B,Christopher Marlowe,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,9,C,Jane Austen,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,9,D,Charles Dickens,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,10,A,Christopher Marlowe,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,10,B,Jane Austen,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,10,C,Charles Dickens,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,10,D,William Shakespeare,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,11,A,Jane Austen,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,11,B,Charles Dickens,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,11,C,Christopher Marlowe,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,11,D,William Shakespeare,4
+Q05,objective_high,Who wrote the play Romeo and Juliet?,12,A,Charles Dickens,1
+Q05,objective_high,Who wrote the play Romeo and Juliet?,12,B,William Shakespeare,2
+Q05,objective_high,Who wrote the play Romeo and Juliet?,12,C,Jane Austen,3
+Q05,objective_high,Who wrote the play Romeo and Juliet?,12,D,Christopher Marlowe,4
+Q06,objective_high,What is the chemical symbol for gold?,1,A,Ag,1
+Q06,objective_high,What is the chemical symbol for gold?,1,B,Fe,2
+Q06,objective_high,What is the chemical symbol for gold?,1,C,Go,3
+Q06,objective_high,What is the chemical symbol for gold?,1,D,Au,4
+Q06,objective_high,What is the chemical symbol for gold?,2,A,Go,1
+Q06,objective_high,What is the chemical symbol for gold?,2,B,Fe,2
+Q06,objective_high,What is the chemical symbol for gold?,2,C,Au,3
+Q06,objective_high,What is the chemical symbol for gold?,2,D,Ag,4
+Q06,objective_high,What is the chemical symbol for gold?,3,A,Ag,1
+Q06,objective_high,What is the chemical symbol for gold?,3,B,Go,2
+Q06,objective_high,What is the chemical symbol for gold?,3,C,Au,3
+Q06,objective_high,What is the chemical symbol for gold?,3,D,Fe,4
+Q06,objective_high,What is the chemical symbol for gold?,4,A,Au,1
+Q06,objective_high,What is the chemical symbol for gold?,4,B,Ag,2
+Q06,objective_high,What is the chemical symbol for gold?,4,C,Go,3
+Q06,objective_high,What is the chemical symbol for gold?,4,D,Fe,4
+Q06,objective_high,What is the chemical symbol for gold?,5,A,Go,1
+Q06,objective_high,What is the chemical symbol for gold?,5,B,Au,2
+Q06,objective_high,What is the chemical symbol for gold?,5,C,Fe,3
+Q06,objective_high,What is the chemical symbol for gold?,5,D,Ag,4
+Q06,objective_high,What is the chemical symbol for gold?,6,A,Fe,1
+Q06,objective_high,What is the chemical symbol for gold?,6,B,Ag,2
+Q06,objective_high,What is the chemical symbol for gold?,6,C,Au,3
+Q06,objective_high,What is the chemical symbol for gold?,6,D,Go,4
+Q06,objective_high,What is the chemical symbol for gold?,7,A,Ag,1
+Q06,objective_high,What is the chemical symbol for gold?,7,B,Fe,2
+Q06,objective_high,What is the chemical symbol for gold?,7,C,Au,3
+Q06,objective_high,What is the chemical symbol for gold?,7,D,Go,4
+Q06,objective_high,What is the chemical symbol for gold?,8,A,Go,1
+Q06,objective_high,What is the chemical symbol for gold?,8,B,Ag,2
+Q06,objective_high,What is the chemical symbol for gold?,8,C,Fe,3
+Q06,objective_high,What is the chemical symbol for gold?,8,D,Au,4
+Q06,objective_high,What is the chemical symbol for gold?,9,A,Au,1
+Q06,objective_high,What is the chemical symbol for gold?,9,B,Go,2
+Q06,objective_high,What is the chemical symbol for gold?,9,C,Ag,3
+Q06,objective_high,What is the chemical symbol for gold?,9,D,Fe,4
+Q06,objective_high,What is the chemical symbol for gold?,10,A,Ag,1
+Q06,objective_high,What is the chemical symbol for gold?,10,B,Au,2
+Q06,objective_high,What is the chemical symbol for gold?,10,C,Fe,3
+Q06,objective_high,What is the chemical symbol for gold?,10,D,Go,4
+Q06,objective_high,What is the chemical symbol for gold?,11,A,Fe,1
+Q06,objective_high,What is the chemical symbol for gold?,11,B,Ag,2
+Q06,objective_high,What is the chemical symbol for gold?,11,C,Go,3
+Q06,objective_high,What is the chemical symbol for gold?,11,D,Au,4
+Q06,objective_high,What is the chemical symbol for gold?,12,A,Ag,1
+Q06,objective_high,What is the chemical symbol for gold?,12,B,Go,2
+Q06,objective_high,What is the chemical symbol for gold?,12,C,Au,3
+Q06,objective_high,What is the chemical symbol for gold?,12,D,Fe,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,1,A,Australia,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,1,B,South America,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,1,C,Asia,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,1,D,Africa,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,2,A,Australia,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,2,B,Asia,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,2,C,South America,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,2,D,Africa,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,3,A,South America,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,3,B,Asia,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,3,C,Africa,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,3,D,Australia,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,4,A,Australia,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,4,B,South America,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,4,C,Africa,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,4,D,Asia,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,5,A,Africa,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,5,B,South America,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,5,C,Australia,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,5,D,Asia,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,6,A,Africa,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,6,B,Australia,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,6,C,South America,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,6,D,Asia,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,7,A,Asia,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,7,B,Australia,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,7,C,Africa,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,7,D,South America,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,8,A,Australia,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,8,B,Asia,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,8,C,South America,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,8,D,Africa,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,9,A,Australia,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,9,B,Asia,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,9,C,South America,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,9,D,Africa,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,10,A,Asia,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,10,B,Australia,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,10,C,Africa,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,10,D,South America,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,11,A,Asia,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,11,B,South America,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,11,C,Africa,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,11,D,Australia,4
+Q07,objective_high,Which continent is the Sahara Desert located on?,12,A,Australia,1
+Q07,objective_high,Which continent is the Sahara Desert located on?,12,B,South America,2
+Q07,objective_high,Which continent is the Sahara Desert located on?,12,C,Asia,3
+Q07,objective_high,Which continent is the Sahara Desert located on?,12,D,Africa,4
+Q08,objective_high,What is the largest mammal on Earth?,1,A,Hippopotamus,1
+Q08,objective_high,What is the largest mammal on Earth?,1,B,Giraffe,2
+Q08,objective_high,What is the largest mammal on Earth?,1,C,African elephant,3
+Q08,objective_high,What is the largest mammal on Earth?,1,D,Blue whale,4
+Q08,objective_high,What is the largest mammal on Earth?,2,A,Blue whale,1
+Q08,objective_high,What is the largest mammal on Earth?,2,B,Hippopotamus,2
+Q08,objective_high,What is the largest mammal on Earth?,2,C,African elephant,3
+Q08,objective_high,What is the largest mammal on Earth?,2,D,Giraffe,4
+Q08,objective_high,What is the largest mammal on Earth?,3,A,Blue whale,1
+Q08,objective_high,What is the largest mammal on Earth?,3,B,African elephant,2
+Q08,objective_high,What is the largest mammal on Earth?,3,C,Giraffe,3
+Q08,objective_high,What is the largest mammal on Earth?,3,D,Hippopotamus,4
+Q08,objective_high,What is the largest mammal on Earth?,4,A,Blue whale,1
+Q08,objective_high,What is the largest mammal on Earth?,4,B,Hippopotamus,2
+Q08,objective_high,What is the largest mammal on Earth?,4,C,Giraffe,3
+Q08,objective_high,What is the largest mammal on Earth?,4,D,African elephant,4
+Q08,objective_high,What is the largest mammal on Earth?,5,A,Hippopotamus,1
+Q08,objective_high,What is the largest mammal on Earth?,5,B,Giraffe,2
+Q08,objective_high,What is the largest mammal on Earth?,5,C,African elephant,3
+Q08,objective_high,What is the largest mammal on Earth?,5,D,Blue whale,4
+Q08,objective_high,What is the largest mammal on Earth?,6,A,Giraffe,1
+Q08,objective_high,What is the largest mammal on Earth?,6,B,African elephant,2
+Q08,objective_high,What is the largest mammal on Earth?,6,C,Hippopotamus,3
+Q08,objective_high,What is the largest mammal on Earth?,6,D,Blue whale,4
+Q08,objective_high,What is the largest mammal on Earth?,7,A,Hippopotamus,1
+Q08,objective_high,What is the largest mammal on Earth?,7,B,African elephant,2
+Q08,objective_high,What is the largest mammal on Earth?,7,C,Giraffe,3
+Q08,objective_high,What is the largest mammal on Earth?,7,D,Blue whale,4
+Q08,objective_high,What is the largest mammal on Earth?,8,A,Hippopotamus,1
+Q08,objective_high,What is the largest mammal on Earth?,8,B,Giraffe,2
+Q08,objective_high,What is the largest mammal on Earth?,8,C,Blue whale,3
+Q08,objective_high,What is the largest mammal on Earth?,8,D,African elephant,4
+Q08,objective_high,What is the largest mammal on Earth?,9,A,Hippopotamus,1
+Q08,objective_high,What is the largest mammal on Earth?,9,B,Blue whale,2
+Q08,objective_high,What is the largest mammal on Earth?,9,C,African elephant,3
+Q08,objective_high,What is the largest mammal on Earth?,9,D,Giraffe,4
+Q08,objective_high,What is the largest mammal on Earth?,10,A,African elephant,1
+Q08,objective_high,What is the largest mammal on Earth?,10,B,Giraffe,2
+Q08,objective_high,What is the largest mammal on Earth?,10,C,Hippopotamus,3
+Q08,objective_high,What is the largest mammal on Earth?,10,D,Blue whale,4
+Q08,objective_high,What is the largest mammal on Earth?,11,A,African elephant,1
+Q08,objective_high,What is the largest mammal on Earth?,11,B,Hippopotamus,2
+Q08,objective_high,What is the largest mammal on Earth?,11,C,Giraffe,3
+Q08,objective_high,What is the largest mammal on Earth?,11,D,Blue whale,4
+Q08,objective_high,What is the largest mammal on Earth?,12,A,Giraffe,1
+Q08,objective_high,What is the largest mammal on Earth?,12,B,African elephant,2
+Q08,objective_high,What is the largest mammal on Earth?,12,C,Blue whale,3
+Q08,objective_high,What is the largest mammal on Earth?,12,D,Hippopotamus,4
+Q09,objective_high,How many degrees are in a right angle?,1,A,120,1
+Q09,objective_high,How many degrees are in a right angle?,1,B,180,2
+Q09,objective_high,How many degrees are in a right angle?,1,C,90,3
+Q09,objective_high,How many degrees are in a right angle?,1,D,45,4
+Q09,objective_high,How many degrees are in a right angle?,2,A,90,1
+Q09,objective_high,How many degrees are in a right angle?,2,B,180,2
+Q09,objective_high,How many degrees are in a right angle?,2,C,120,3
+Q09,objective_high,How many degrees are in a right angle?,2,D,45,4
+Q09,objective_high,How many degrees are in a right angle?,3,A,180,1
+Q09,objective_high,How many degrees are in a right angle?,3,B,90,2
+Q09,objective_high,How many degrees are in a right angle?,3,C,45,3
+Q09,objective_high,How many degrees are in a right angle?,3,D,120,4
+Q09,objective_high,How many degrees are in a right angle?,4,A,120,1
+Q09,objective_high,How many degrees are in a right angle?,4,B,90,2
+Q09,objective_high,How many degrees are in a right angle?,4,C,180,3
+Q09,objective_high,How many degrees are in a right angle?,4,D,45,4
+Q09,objective_high,How many degrees are in a right angle?,5,A,180,1
+Q09,objective_high,How many degrees are in a right angle?,5,B,90,2
+Q09,objective_high,How many degrees are in a right angle?,5,C,45,3
+Q09,objective_high,How many degrees are in a right angle?,5,D,120,4
+Q09,objective_high,How many degrees are in a right angle?,6,A,90,1
+Q09,objective_high,How many degrees are in a right angle?,6,B,45,2
+Q09,objective_high,How many degrees are in a right angle?,6,C,180,3
+Q09,objective_high,How many degrees are in a right angle?,6,D,120,4
+Q09,objective_high,How many degrees are in a right angle?,7,A,90,1
+Q09,objective_high,How many degrees are in a right angle?,7,B,45,2
+Q09,objective_high,How many degrees are in a right angle?,7,C,180,3
+Q09,objective_high,How many degrees are in a right angle?,7,D,120,4
+Q09,objective_high,How many degrees are in a right angle?,8,A,120,1
+Q09,objective_high,How many degrees are in a right angle?,8,B,45,2
+Q09,objective_high,How many degrees are in a right angle?,8,C,180,3
+Q09,objective_high,How many degrees are in a right angle?,8,D,90,4
+Q09,objective_high,How many degrees are in a right angle?,9,A,90,1
+Q09,objective_high,How many degrees are in a right angle?,9,B,180,2
+Q09,objective_high,How many degrees are in a right angle?,9,C,120,3
+Q09,objective_high,How many degrees are in a right angle?,9,D,45,4
+Q09,objective_high,How many degrees are in a right angle?,10,A,180,1
+Q09,objective_high,How many degrees are in a right angle?,10,B,45,2
+Q09,objective_high,How many degrees are in a right angle?,10,C,90,3
+Q09,objective_high,How many degrees are in a right angle?,10,D,120,4
+Q09,objective_high,How many degrees are in a right angle?,11,A,180,1
+Q09,objective_high,How many degrees are in a right angle?,11,B,90,2
+Q09,objective_high,How many degrees are in a right angle?,11,C,45,3
+Q09,objective_high,How many degrees are in a right angle?,11,D,120,4
+Q09,objective_high,How many degrees are in a right angle?,12,A,120,1
+Q09,objective_high,How many degrees are in a right angle?,12,B,45,2
+Q09,objective_high,How many degrees are in a right angle?,12,C,90,3
+Q09,objective_high,How many degrees are in a right angle?,12,D,180,4
+Q10,objective_high,Which language is primarily used for Android app development?,1,A,Ruby,1
+Q10,objective_high,Which language is primarily used for Android app development?,1,B,Swift,2
+Q10,objective_high,Which language is primarily used for Android app development?,1,C,Kotlin,3
+Q10,objective_high,Which language is primarily used for Android app development?,1,D,Java,4
+Q10,objective_high,Which language is primarily used for Android app development?,2,A,Swift,1
+Q10,objective_high,Which language is primarily used for Android app development?,2,B,Ruby,2
+Q10,objective_high,Which language is primarily used for Android app development?,2,C,Java,3
+Q10,objective_high,Which language is primarily used for Android app development?,2,D,Kotlin,4
+Q10,objective_high,Which language is primarily used for Android app development?,3,A,Ruby,1
+Q10,objective_high,Which language is primarily used for Android app development?,3,B,Swift,2
+Q10,objective_high,Which language is primarily used for Android app development?,3,C,Java,3
+Q10,objective_high,Which language is primarily used for Android app development?,3,D,Kotlin,4
+Q10,objective_high,Which language is primarily used for Android app development?,4,A,Java,1
+Q10,objective_high,Which language is primarily used for Android app development?,4,B,Ruby,2
+Q10,objective_high,Which language is primarily used for Android app development?,4,C,Kotlin,3
+Q10,objective_high,Which language is primarily used for Android app development?,4,D,Swift,4
+Q10,objective_high,Which language is primarily used for Android app development?,5,A,Swift,1
+Q10,objective_high,Which language is primarily used for Android app development?,5,B,Java,2
+Q10,objective_high,Which language is primarily used for Android app development?,5,C,Kotlin,3
+Q10,objective_high,Which language is primarily used for Android app development?,5,D,Ruby,4
+Q10,objective_high,Which language is primarily used for Android app development?,6,A,Swift,1
+Q10,objective_high,Which language is primarily used for Android app development?,6,B,Kotlin,2
+Q10,objective_high,Which language is primarily used for Android app development?,6,C,Ruby,3
+Q10,objective_high,Which language is primarily used for Android app development?,6,D,Java,4
+Q10,objective_high,Which language is primarily used for Android app development?,7,A,Kotlin,1
+Q10,objective_high,Which language is primarily used for Android app development?,7,B,Ruby,2
+Q10,objective_high,Which language is primarily used for Android app development?,7,C,Swift,3
+Q10,objective_high,Which language is primarily used for Android app development?,7,D,Java,4
+Q10,objective_high,Which language is primarily used for Android app development?,8,A,Swift,1
+Q10,objective_high,Which language is primarily used for Android app development?,8,B,Kotlin,2
+Q10,objective_high,Which language is primarily used for Android app development?,8,C,Java,3
+Q10,objective_high,Which language is primarily used for Android app development?,8,D,Ruby,4
+Q10,objective_high,Which language is primarily used for Android app development?,9,A,Ruby,1
+Q10,objective_high,Which language is primarily used for Android app development?,9,B,Java,2
+Q10,objective_high,Which language is primarily used for Android app development?,9,C,Swift,3
+Q10,objective_high,Which language is primarily used for Android app development?,9,D,Kotlin,4
+Q10,objective_high,Which language is primarily used for Android app development?,10,A,Swift,1
+Q10,objective_high,Which language is primarily used for Android app development?,10,B,Ruby,2
+Q10,objective_high,Which language is primarily used for Android app development?,10,C,Java,3
+Q10,objective_high,Which language is primarily used for Android app development?,10,D,Kotlin,4
+Q10,objective_high,Which language is primarily used for Android app development?,11,A,Ruby,1
+Q10,objective_high,Which language is primarily used for Android app development?,11,B,Kotlin,2
+Q10,objective_high,Which language is primarily used for Android app development?,11,C,Swift,3
+Q10,objective_high,Which language is primarily used for Android app development?,11,D,Java,4
+Q10,objective_high,Which language is primarily used for Android app development?,12,A,Ruby,1
+Q10,objective_high,Which language is primarily used for Android app development?,12,B,Kotlin,2
+Q10,objective_high,Which language is primarily used for Android app development?,12,C,Java,3
+Q10,objective_high,Which language is primarily used for Android app development?,12,D,Swift,4
+Q11,objective_high,What is the boiling point of water at sea level?,1,A,110°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,1,B,90°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,1,C,120°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,1,D,100°C,4
+Q11,objective_high,What is the boiling point of water at sea level?,2,A,90°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,2,B,120°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,2,C,110°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,2,D,100°C,4
+Q11,objective_high,What is the boiling point of water at sea level?,3,A,100°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,3,B,90°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,3,C,110°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,3,D,120°C,4
+Q11,objective_high,What is the boiling point of water at sea level?,4,A,100°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,4,B,120°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,4,C,90°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,4,D,110°C,4
+Q11,objective_high,What is the boiling point of water at sea level?,5,A,110°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,5,B,100°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,5,C,90°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,5,D,120°C,4
+Q11,objective_high,What is the boiling point of water at sea level?,6,A,110°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,6,B,120°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,6,C,90°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,6,D,100°C,4
+Q11,objective_high,What is the boiling point of water at sea level?,7,A,120°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,7,B,90°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,7,C,100°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,7,D,110°C,4
+Q11,objective_high,What is the boiling point of water at sea level?,8,A,120°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,8,B,110°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,8,C,90°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,8,D,100°C,4
+Q11,objective_high,What is the boiling point of water at sea level?,9,A,90°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,9,B,110°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,9,C,100°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,9,D,120°C,4
+Q11,objective_high,What is the boiling point of water at sea level?,10,A,120°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,10,B,110°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,10,C,100°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,10,D,90°C,4
+Q11,objective_high,What is the boiling point of water at sea level?,11,A,90°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,11,B,100°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,11,C,110°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,11,D,120°C,4
+Q11,objective_high,What is the boiling point of water at sea level?,12,A,110°C,1
+Q11,objective_high,What is the boiling point of water at sea level?,12,B,100°C,2
+Q11,objective_high,What is the boiling point of water at sea level?,12,C,120°C,3
+Q11,objective_high,What is the boiling point of water at sea level?,12,D,90°C,4
+Q12,objective_high,Which organ pumps blood through the body?,1,A,Liver,1
+Q12,objective_high,Which organ pumps blood through the body?,1,B,Kidneys,2
+Q12,objective_high,Which organ pumps blood through the body?,1,C,Heart,3
+Q12,objective_high,Which organ pumps blood through the body?,1,D,Lungs,4
+Q12,objective_high,Which organ pumps blood through the body?,2,A,Heart,1
+Q12,objective_high,Which organ pumps blood through the body?,2,B,Lungs,2
+Q12,objective_high,Which organ pumps blood through the body?,2,C,Kidneys,3
+Q12,objective_high,Which organ pumps blood through the body?,2,D,Liver,4
+Q12,objective_high,Which organ pumps blood through the body?,3,A,Liver,1
+Q12,objective_high,Which organ pumps blood through the body?,3,B,Lungs,2
+Q12,objective_high,Which organ pumps blood through the body?,3,C,Kidneys,3
+Q12,objective_high,Which organ pumps blood through the body?,3,D,Heart,4
+Q12,objective_high,Which organ pumps blood through the body?,4,A,Lungs,1
+Q12,objective_high,Which organ pumps blood through the body?,4,B,Liver,2
+Q12,objective_high,Which organ pumps blood through the body?,4,C,Heart,3
+Q12,objective_high,Which organ pumps blood through the body?,4,D,Kidneys,4
+Q12,objective_high,Which organ pumps blood through the body?,5,A,Lungs,1
+Q12,objective_high,Which organ pumps blood through the body?,5,B,Liver,2
+Q12,objective_high,Which organ pumps blood through the body?,5,C,Heart,3
+Q12,objective_high,Which organ pumps blood through the body?,5,D,Kidneys,4
+Q12,objective_high,Which organ pumps blood through the body?,6,A,Kidneys,1
+Q12,objective_high,Which organ pumps blood through the body?,6,B,Lungs,2
+Q12,objective_high,Which organ pumps blood through the body?,6,C,Liver,3
+Q12,objective_high,Which organ pumps blood through the body?,6,D,Heart,4
+Q12,objective_high,Which organ pumps blood through the body?,7,A,Lungs,1
+Q12,objective_high,Which organ pumps blood through the body?,7,B,Kidneys,2
+Q12,objective_high,Which organ pumps blood through the body?,7,C,Heart,3
+Q12,objective_high,Which organ pumps blood through the body?,7,D,Liver,4
+Q12,objective_high,Which organ pumps blood through the body?,8,A,Kidneys,1
+Q12,objective_high,Which organ pumps blood through the body?,8,B,Liver,2
+Q12,objective_high,Which organ pumps blood through the body?,8,C,Lungs,3
+Q12,objective_high,Which organ pumps blood through the body?,8,D,Heart,4
+Q12,objective_high,Which organ pumps blood through the body?,9,A,Liver,1
+Q12,objective_high,Which organ pumps blood through the body?,9,B,Lungs,2
+Q12,objective_high,Which organ pumps blood through the body?,9,C,Kidneys,3
+Q12,objective_high,Which organ pumps blood through the body?,9,D,Heart,4
+Q12,objective_high,Which organ pumps blood through the body?,10,A,Kidneys,1
+Q12,objective_high,Which organ pumps blood through the body?,10,B,Lungs,2
+Q12,objective_high,Which organ pumps blood through the body?,10,C,Heart,3
+Q12,objective_high,Which organ pumps blood through the body?,10,D,Liver,4
+Q12,objective_high,Which organ pumps blood through the body?,11,A,Liver,1
+Q12,objective_high,Which organ pumps blood through the body?,11,B,Lungs,2
+Q12,objective_high,Which organ pumps blood through the body?,11,C,Kidneys,3
+Q12,objective_high,Which organ pumps blood through the body?,11,D,Heart,4
+Q12,objective_high,Which organ pumps blood through the body?,12,A,Liver,1
+Q12,objective_high,Which organ pumps blood through the body?,12,B,Kidneys,2
+Q12,objective_high,Which organ pumps blood through the body?,12,C,Lungs,3
+Q12,objective_high,Which organ pumps blood through the body?,12,D,Heart,4
+Q13,objective_high,What is the hardest natural substance?,1,A,Quartz,1
+Q13,objective_high,What is the hardest natural substance?,1,B,Granite,2
+Q13,objective_high,What is the hardest natural substance?,1,C,Iron,3
+Q13,objective_high,What is the hardest natural substance?,1,D,Diamond,4
+Q13,objective_high,What is the hardest natural substance?,2,A,Diamond,1
+Q13,objective_high,What is the hardest natural substance?,2,B,Iron,2
+Q13,objective_high,What is the hardest natural substance?,2,C,Quartz,3
+Q13,objective_high,What is the hardest natural substance?,2,D,Granite,4
+Q13,objective_high,What is the hardest natural substance?,3,A,Granite,1
+Q13,objective_high,What is the hardest natural substance?,3,B,Iron,2
+Q13,objective_high,What is the hardest natural substance?,3,C,Diamond,3
+Q13,objective_high,What is the hardest natural substance?,3,D,Quartz,4
+Q13,objective_high,What is the hardest natural substance?,4,A,Granite,1
+Q13,objective_high,What is the hardest natural substance?,4,B,Iron,2
+Q13,objective_high,What is the hardest natural substance?,4,C,Diamond,3
+Q13,objective_high,What is the hardest natural substance?,4,D,Quartz,4
+Q13,objective_high,What is the hardest natural substance?,5,A,Iron,1
+Q13,objective_high,What is the hardest natural substance?,5,B,Diamond,2
+Q13,objective_high,What is the hardest natural substance?,5,C,Quartz,3
+Q13,objective_high,What is the hardest natural substance?,5,D,Granite,4
+Q13,objective_high,What is the hardest natural substance?,6,A,Iron,1
+Q13,objective_high,What is the hardest natural substance?,6,B,Quartz,2
+Q13,objective_high,What is the hardest natural substance?,6,C,Diamond,3
+Q13,objective_high,What is the hardest natural substance?,6,D,Granite,4
+Q13,objective_high,What is the hardest natural substance?,7,A,Iron,1
+Q13,objective_high,What is the hardest natural substance?,7,B,Granite,2
+Q13,objective_high,What is the hardest natural substance?,7,C,Quartz,3
+Q13,objective_high,What is the hardest natural substance?,7,D,Diamond,4
+Q13,objective_high,What is the hardest natural substance?,8,A,Granite,1
+Q13,objective_high,What is the hardest natural substance?,8,B,Iron,2
+Q13,objective_high,What is the hardest natural substance?,8,C,Quartz,3
+Q13,objective_high,What is the hardest natural substance?,8,D,Diamond,4
+Q13,objective_high,What is the hardest natural substance?,9,A,Iron,1
+Q13,objective_high,What is the hardest natural substance?,9,B,Diamond,2
+Q13,objective_high,What is the hardest natural substance?,9,C,Granite,3
+Q13,objective_high,What is the hardest natural substance?,9,D,Quartz,4
+Q13,objective_high,What is the hardest natural substance?,10,A,Quartz,1
+Q13,objective_high,What is the hardest natural substance?,10,B,Diamond,2
+Q13,objective_high,What is the hardest natural substance?,10,C,Granite,3
+Q13,objective_high,What is the hardest natural substance?,10,D,Iron,4
+Q13,objective_high,What is the hardest natural substance?,11,A,Granite,1
+Q13,objective_high,What is the hardest natural substance?,11,B,Quartz,2
+Q13,objective_high,What is the hardest natural substance?,11,C,Iron,3
+Q13,objective_high,What is the hardest natural substance?,11,D,Diamond,4
+Q13,objective_high,What is the hardest natural substance?,12,A,Diamond,1
+Q13,objective_high,What is the hardest natural substance?,12,B,Quartz,2
+Q13,objective_high,What is the hardest natural substance?,12,C,Granite,3
+Q13,objective_high,What is the hardest natural substance?,12,D,Iron,4
+Q14,objective_high,Who painted the Mona Lisa?,1,A,Van Gogh,1
+Q14,objective_high,Who painted the Mona Lisa?,1,B,Michelangelo,2
+Q14,objective_high,Who painted the Mona Lisa?,1,C,Da Vinci,3
+Q14,objective_high,Who painted the Mona Lisa?,1,D,Picasso,4
+Q14,objective_high,Who painted the Mona Lisa?,2,A,Da Vinci,1
+Q14,objective_high,Who painted the Mona Lisa?,2,B,Michelangelo,2
+Q14,objective_high,Who painted the Mona Lisa?,2,C,Van Gogh,3
+Q14,objective_high,Who painted the Mona Lisa?,2,D,Picasso,4
+Q14,objective_high,Who painted the Mona Lisa?,3,A,Michelangelo,1
+Q14,objective_high,Who painted the Mona Lisa?,3,B,Da Vinci,2
+Q14,objective_high,Who painted the Mona Lisa?,3,C,Van Gogh,3
+Q14,objective_high,Who painted the Mona Lisa?,3,D,Picasso,4
+Q14,objective_high,Who painted the Mona Lisa?,4,A,Picasso,1
+Q14,objective_high,Who painted the Mona Lisa?,4,B,Da Vinci,2
+Q14,objective_high,Who painted the Mona Lisa?,4,C,Michelangelo,3
+Q14,objective_high,Who painted the Mona Lisa?,4,D,Van Gogh,4
+Q14,objective_high,Who painted the Mona Lisa?,5,A,Da Vinci,1
+Q14,objective_high,Who painted the Mona Lisa?,5,B,Picasso,2
+Q14,objective_high,Who painted the Mona Lisa?,5,C,Van Gogh,3
+Q14,objective_high,Who painted the Mona Lisa?,5,D,Michelangelo,4
+Q14,objective_high,Who painted the Mona Lisa?,6,A,Michelangelo,1
+Q14,objective_high,Who painted the Mona Lisa?,6,B,Picasso,2
+Q14,objective_high,Who painted the Mona Lisa?,6,C,Da Vinci,3
+Q14,objective_high,Who painted the Mona Lisa?,6,D,Van Gogh,4
+Q14,objective_high,Who painted the Mona Lisa?,7,A,Van Gogh,1
+Q14,objective_high,Who painted the Mona Lisa?,7,B,Picasso,2
+Q14,objective_high,Who painted the Mona Lisa?,7,C,Da Vinci,3
+Q14,objective_high,Who painted the Mona Lisa?,7,D,Michelangelo,4
+Q14,objective_high,Who painted the Mona Lisa?,8,A,Da Vinci,1
+Q14,objective_high,Who painted the Mona Lisa?,8,B,Picasso,2
+Q14,objective_high,Who painted the Mona Lisa?,8,C,Van Gogh,3
+Q14,objective_high,Who painted the Mona Lisa?,8,D,Michelangelo,4
+Q14,objective_high,Who painted the Mona Lisa?,9,A,Michelangelo,1
+Q14,objective_high,Who painted the Mona Lisa?,9,B,Van Gogh,2
+Q14,objective_high,Who painted the Mona Lisa?,9,C,Da Vinci,3
+Q14,objective_high,Who painted the Mona Lisa?,9,D,Picasso,4
+Q14,objective_high,Who painted the Mona Lisa?,10,A,Michelangelo,1
+Q14,objective_high,Who painted the Mona Lisa?,10,B,Van Gogh,2
+Q14,objective_high,Who painted the Mona Lisa?,10,C,Da Vinci,3
+Q14,objective_high,Who painted the Mona Lisa?,10,D,Picasso,4
+Q14,objective_high,Who painted the Mona Lisa?,11,A,Da Vinci,1
+Q14,objective_high,Who painted the Mona Lisa?,11,B,Van Gogh,2
+Q14,objective_high,Who painted the Mona Lisa?,11,C,Michelangelo,3
+Q14,objective_high,Who painted the Mona Lisa?,11,D,Picasso,4
+Q14,objective_high,Who painted the Mona Lisa?,12,A,Da Vinci,1
+Q14,objective_high,Who painted the Mona Lisa?,12,B,Michelangelo,2
+Q14,objective_high,Who painted the Mona Lisa?,12,C,Van Gogh,3
+Q14,objective_high,Who painted the Mona Lisa?,12,D,Picasso,4
+Q15,objective_high,What is the square root of 144?,1,A,10,1
+Q15,objective_high,What is the square root of 144?,1,B,11,2
+Q15,objective_high,What is the square root of 144?,1,C,13,3
+Q15,objective_high,What is the square root of 144?,1,D,12,4
+Q15,objective_high,What is the square root of 144?,2,A,10,1
+Q15,objective_high,What is the square root of 144?,2,B,12,2
+Q15,objective_high,What is the square root of 144?,2,C,13,3
+Q15,objective_high,What is the square root of 144?,2,D,11,4
+Q15,objective_high,What is the square root of 144?,3,A,13,1
+Q15,objective_high,What is the square root of 144?,3,B,11,2
+Q15,objective_high,What is the square root of 144?,3,C,12,3
+Q15,objective_high,What is the square root of 144?,3,D,10,4
+Q15,objective_high,What is the square root of 144?,4,A,10,1
+Q15,objective_high,What is the square root of 144?,4,B,12,2
+Q15,objective_high,What is the square root of 144?,4,C,13,3
+Q15,objective_high,What is the square root of 144?,4,D,11,4
+Q15,objective_high,What is the square root of 144?,5,A,11,1
+Q15,objective_high,What is the square root of 144?,5,B,10,2
+Q15,objective_high,What is the square root of 144?,5,C,13,3
+Q15,objective_high,What is the square root of 144?,5,D,12,4
+Q15,objective_high,What is the square root of 144?,6,A,13,1
+Q15,objective_high,What is the square root of 144?,6,B,12,2
+Q15,objective_high,What is the square root of 144?,6,C,10,3
+Q15,objective_high,What is the square root of 144?,6,D,11,4
+Q15,objective_high,What is the square root of 144?,7,A,11,1
+Q15,objective_high,What is the square root of 144?,7,B,10,2
+Q15,objective_high,What is the square root of 144?,7,C,12,3
+Q15,objective_high,What is the square root of 144?,7,D,13,4
+Q15,objective_high,What is the square root of 144?,8,A,12,1
+Q15,objective_high,What is the square root of 144?,8,B,13,2
+Q15,objective_high,What is the square root of 144?,8,C,10,3
+Q15,objective_high,What is the square root of 144?,8,D,11,4
+Q15,objective_high,What is the square root of 144?,9,A,10,1
+Q15,objective_high,What is the square root of 144?,9,B,12,2
+Q15,objective_high,What is the square root of 144?,9,C,11,3
+Q15,objective_high,What is the square root of 144?,9,D,13,4
+Q15,objective_high,What is the square root of 144?,10,A,11,1
+Q15,objective_high,What is the square root of 144?,10,B,12,2
+Q15,objective_high,What is the square root of 144?,10,C,10,3
+Q15,objective_high,What is the square root of 144?,10,D,13,4
+Q15,objective_high,What is the square root of 144?,11,A,12,1
+Q15,objective_high,What is the square root of 144?,11,B,10,2
+Q15,objective_high,What is the square root of 144?,11,C,11,3
+Q15,objective_high,What is the square root of 144?,11,D,13,4
+Q15,objective_high,What is the square root of 144?,12,A,12,1
+Q15,objective_high,What is the square root of 144?,12,B,10,2
+Q15,objective_high,What is the square root of 144?,12,C,11,3
+Q15,objective_high,What is the square root of 144?,12,D,13,4
+Q16,objective_high,Which element has atomic number 1?,1,A,Helium,1
+Q16,objective_high,Which element has atomic number 1?,1,B,Carbon,2
+Q16,objective_high,Which element has atomic number 1?,1,C,Oxygen,3
+Q16,objective_high,Which element has atomic number 1?,1,D,Hydrogen,4
+Q16,objective_high,Which element has atomic number 1?,2,A,Oxygen,1
+Q16,objective_high,Which element has atomic number 1?,2,B,Helium,2
+Q16,objective_high,Which element has atomic number 1?,2,C,Hydrogen,3
+Q16,objective_high,Which element has atomic number 1?,2,D,Carbon,4
+Q16,objective_high,Which element has atomic number 1?,3,A,Hydrogen,1
+Q16,objective_high,Which element has atomic number 1?,3,B,Oxygen,2
+Q16,objective_high,Which element has atomic number 1?,3,C,Helium,3
+Q16,objective_high,Which element has atomic number 1?,3,D,Carbon,4
+Q16,objective_high,Which element has atomic number 1?,4,A,Hydrogen,1
+Q16,objective_high,Which element has atomic number 1?,4,B,Helium,2
+Q16,objective_high,Which element has atomic number 1?,4,C,Oxygen,3
+Q16,objective_high,Which element has atomic number 1?,4,D,Carbon,4
+Q16,objective_high,Which element has atomic number 1?,5,A,Helium,1
+Q16,objective_high,Which element has atomic number 1?,5,B,Hydrogen,2
+Q16,objective_high,Which element has atomic number 1?,5,C,Oxygen,3
+Q16,objective_high,Which element has atomic number 1?,5,D,Carbon,4
+Q16,objective_high,Which element has atomic number 1?,6,A,Hydrogen,1
+Q16,objective_high,Which element has atomic number 1?,6,B,Helium,2
+Q16,objective_high,Which element has atomic number 1?,6,C,Carbon,3
+Q16,objective_high,Which element has atomic number 1?,6,D,Oxygen,4
+Q16,objective_high,Which element has atomic number 1?,7,A,Hydrogen,1
+Q16,objective_high,Which element has atomic number 1?,7,B,Carbon,2
+Q16,objective_high,Which element has atomic number 1?,7,C,Oxygen,3
+Q16,objective_high,Which element has atomic number 1?,7,D,Helium,4
+Q16,objective_high,Which element has atomic number 1?,8,A,Carbon,1
+Q16,objective_high,Which element has atomic number 1?,8,B,Oxygen,2
+Q16,objective_high,Which element has atomic number 1?,8,C,Hydrogen,3
+Q16,objective_high,Which element has atomic number 1?,8,D,Helium,4
+Q16,objective_high,Which element has atomic number 1?,9,A,Hydrogen,1
+Q16,objective_high,Which element has atomic number 1?,9,B,Helium,2
+Q16,objective_high,Which element has atomic number 1?,9,C,Carbon,3
+Q16,objective_high,Which element has atomic number 1?,9,D,Oxygen,4
+Q16,objective_high,Which element has atomic number 1?,10,A,Carbon,1
+Q16,objective_high,Which element has atomic number 1?,10,B,Hydrogen,2
+Q16,objective_high,Which element has atomic number 1?,10,C,Oxygen,3
+Q16,objective_high,Which element has atomic number 1?,10,D,Helium,4
+Q16,objective_high,Which element has atomic number 1?,11,A,Carbon,1
+Q16,objective_high,Which element has atomic number 1?,11,B,Oxygen,2
+Q16,objective_high,Which element has atomic number 1?,11,C,Helium,3
+Q16,objective_high,Which element has atomic number 1?,11,D,Hydrogen,4
+Q16,objective_high,Which element has atomic number 1?,12,A,Helium,1
+Q16,objective_high,Which element has atomic number 1?,12,B,Carbon,2
+Q16,objective_high,Which element has atomic number 1?,12,C,Oxygen,3
+Q16,objective_high,Which element has atomic number 1?,12,D,Hydrogen,4
+Q17,objective_high,What is the largest ocean?,1,A,Atlantic,1
+Q17,objective_high,What is the largest ocean?,1,B,Pacific,2
+Q17,objective_high,What is the largest ocean?,1,C,Indian,3
+Q17,objective_high,What is the largest ocean?,1,D,Arctic,4
+Q17,objective_high,What is the largest ocean?,2,A,Arctic,1
+Q17,objective_high,What is the largest ocean?,2,B,Pacific,2
+Q17,objective_high,What is the largest ocean?,2,C,Indian,3
+Q17,objective_high,What is the largest ocean?,2,D,Atlantic,4
+Q17,objective_high,What is the largest ocean?,3,A,Arctic,1
+Q17,objective_high,What is the largest ocean?,3,B,Pacific,2
+Q17,objective_high,What is the largest ocean?,3,C,Indian,3
+Q17,objective_high,What is the largest ocean?,3,D,Atlantic,4
+Q17,objective_high,What is the largest ocean?,4,A,Indian,1
+Q17,objective_high,What is the largest ocean?,4,B,Pacific,2
+Q17,objective_high,What is the largest ocean?,4,C,Arctic,3
+Q17,objective_high,What is the largest ocean?,4,D,Atlantic,4
+Q17,objective_high,What is the largest ocean?,5,A,Indian,1
+Q17,objective_high,What is the largest ocean?,5,B,Arctic,2
+Q17,objective_high,What is the largest ocean?,5,C,Pacific,3
+Q17,objective_high,What is the largest ocean?,5,D,Atlantic,4
+Q17,objective_high,What is the largest ocean?,6,A,Indian,1
+Q17,objective_high,What is the largest ocean?,6,B,Pacific,2
+Q17,objective_high,What is the largest ocean?,6,C,Arctic,3
+Q17,objective_high,What is the largest ocean?,6,D,Atlantic,4
+Q17,objective_high,What is the largest ocean?,7,A,Arctic,1
+Q17,objective_high,What is the largest ocean?,7,B,Pacific,2
+Q17,objective_high,What is the largest ocean?,7,C,Atlantic,3
+Q17,objective_high,What is the largest ocean?,7,D,Indian,4
+Q17,objective_high,What is the largest ocean?,8,A,Indian,1
+Q17,objective_high,What is the largest ocean?,8,B,Pacific,2
+Q17,objective_high,What is the largest ocean?,8,C,Arctic,3
+Q17,objective_high,What is the largest ocean?,8,D,Atlantic,4
+Q17,objective_high,What is the largest ocean?,9,A,Atlantic,1
+Q17,objective_high,What is the largest ocean?,9,B,Indian,2
+Q17,objective_high,What is the largest ocean?,9,C,Arctic,3
+Q17,objective_high,What is the largest ocean?,9,D,Pacific,4
+Q17,objective_high,What is the largest ocean?,10,A,Indian,1
+Q17,objective_high,What is the largest ocean?,10,B,Pacific,2
+Q17,objective_high,What is the largest ocean?,10,C,Atlantic,3
+Q17,objective_high,What is the largest ocean?,10,D,Arctic,4
+Q17,objective_high,What is the largest ocean?,11,A,Arctic,1
+Q17,objective_high,What is the largest ocean?,11,B,Atlantic,2
+Q17,objective_high,What is the largest ocean?,11,C,Pacific,3
+Q17,objective_high,What is the largest ocean?,11,D,Indian,4
+Q17,objective_high,What is the largest ocean?,12,A,Pacific,1
+Q17,objective_high,What is the largest ocean?,12,B,Arctic,2
+Q17,objective_high,What is the largest ocean?,12,C,Indian,3
+Q17,objective_high,What is the largest ocean?,12,D,Atlantic,4
+Q18,objective_high,What year did World War II end?,1,A,1944,1
+Q18,objective_high,What year did World War II end?,1,B,1943,2
+Q18,objective_high,What year did World War II end?,1,C,1945,3
+Q18,objective_high,What year did World War II end?,1,D,1946,4
+Q18,objective_high,What year did World War II end?,2,A,1944,1
+Q18,objective_high,What year did World War II end?,2,B,1946,2
+Q18,objective_high,What year did World War II end?,2,C,1945,3
+Q18,objective_high,What year did World War II end?,2,D,1943,4
+Q18,objective_high,What year did World War II end?,3,A,1946,1
+Q18,objective_high,What year did World War II end?,3,B,1944,2
+Q18,objective_high,What year did World War II end?,3,C,1945,3
+Q18,objective_high,What year did World War II end?,3,D,1943,4
+Q18,objective_high,What year did World War II end?,4,A,1944,1
+Q18,objective_high,What year did World War II end?,4,B,1946,2
+Q18,objective_high,What year did World War II end?,4,C,1945,3
+Q18,objective_high,What year did World War II end?,4,D,1943,4
+Q18,objective_high,What year did World War II end?,5,A,1943,1
+Q18,objective_high,What year did World War II end?,5,B,1944,2
+Q18,objective_high,What year did World War II end?,5,C,1946,3
+Q18,objective_high,What year did World War II end?,5,D,1945,4
+Q18,objective_high,What year did World War II end?,6,A,1946,1
+Q18,objective_high,What year did World War II end?,6,B,1944,2
+Q18,objective_high,What year did World War II end?,6,C,1943,3
+Q18,objective_high,What year did World War II end?,6,D,1945,4
+Q18,objective_high,What year did World War II end?,7,A,1946,1
+Q18,objective_high,What year did World War II end?,7,B,1945,2
+Q18,objective_high,What year did World War II end?,7,C,1944,3
+Q18,objective_high,What year did World War II end?,7,D,1943,4
+Q18,objective_high,What year did World War II end?,8,A,1946,1
+Q18,objective_high,What year did World War II end?,8,B,1945,2
+Q18,objective_high,What year did World War II end?,8,C,1944,3
+Q18,objective_high,What year did World War II end?,8,D,1943,4
+Q18,objective_high,What year did World War II end?,9,A,1944,1
+Q18,objective_high,What year did World War II end?,9,B,1943,2
+Q18,objective_high,What year did World War II end?,9,C,1945,3
+Q18,objective_high,What year did World War II end?,9,D,1946,4
+Q18,objective_high,What year did World War II end?,10,A,1945,1
+Q18,objective_high,What year did World War II end?,10,B,1944,2
+Q18,objective_high,What year did World War II end?,10,C,1943,3
+Q18,objective_high,What year did World War II end?,10,D,1946,4
+Q18,objective_high,What year did World War II end?,11,A,1943,1
+Q18,objective_high,What year did World War II end?,11,B,1945,2
+Q18,objective_high,What year did World War II end?,11,C,1944,3
+Q18,objective_high,What year did World War II end?,11,D,1946,4
+Q18,objective_high,What year did World War II end?,12,A,1946,1
+Q18,objective_high,What year did World War II end?,12,B,1943,2
+Q18,objective_high,What year did World War II end?,12,C,1944,3
+Q18,objective_high,What year did World War II end?,12,D,1945,4
+Q19,objective_high,Which device measures temperature?,1,A,Anemometer,1
+Q19,objective_high,Which device measures temperature?,1,B,Hygrometer,2
+Q19,objective_high,Which device measures temperature?,1,C,Thermometer,3
+Q19,objective_high,Which device measures temperature?,1,D,Barometer,4
+Q19,objective_high,Which device measures temperature?,2,A,Barometer,1
+Q19,objective_high,Which device measures temperature?,2,B,Hygrometer,2
+Q19,objective_high,Which device measures temperature?,2,C,Anemometer,3
+Q19,objective_high,Which device measures temperature?,2,D,Thermometer,4
+Q19,objective_high,Which device measures temperature?,3,A,Anemometer,1
+Q19,objective_high,Which device measures temperature?,3,B,Thermometer,2
+Q19,objective_high,Which device measures temperature?,3,C,Barometer,3
+Q19,objective_high,Which device measures temperature?,3,D,Hygrometer,4
+Q19,objective_high,Which device measures temperature?,4,A,Anemometer,1
+Q19,objective_high,Which device measures temperature?,4,B,Thermometer,2
+Q19,objective_high,Which device measures temperature?,4,C,Barometer,3
+Q19,objective_high,Which device measures temperature?,4,D,Hygrometer,4
+Q19,objective_high,Which device measures temperature?,5,A,Barometer,1
+Q19,objective_high,Which device measures temperature?,5,B,Hygrometer,2
+Q19,objective_high,Which device measures temperature?,5,C,Anemometer,3
+Q19,objective_high,Which device measures temperature?,5,D,Thermometer,4
+Q19,objective_high,Which device measures temperature?,6,A,Barometer,1
+Q19,objective_high,Which device measures temperature?,6,B,Anemometer,2
+Q19,objective_high,Which device measures temperature?,6,C,Thermometer,3
+Q19,objective_high,Which device measures temperature?,6,D,Hygrometer,4
+Q19,objective_high,Which device measures temperature?,7,A,Thermometer,1
+Q19,objective_high,Which device measures temperature?,7,B,Anemometer,2
+Q19,objective_high,Which device measures temperature?,7,C,Hygrometer,3
+Q19,objective_high,Which device measures temperature?,7,D,Barometer,4
+Q19,objective_high,Which device measures temperature?,8,A,Hygrometer,1
+Q19,objective_high,Which device measures temperature?,8,B,Thermometer,2
+Q19,objective_high,Which device measures temperature?,8,C,Anemometer,3
+Q19,objective_high,Which device measures temperature?,8,D,Barometer,4
+Q19,objective_high,Which device measures temperature?,9,A,Thermometer,1
+Q19,objective_high,Which device measures temperature?,9,B,Barometer,2
+Q19,objective_high,Which device measures temperature?,9,C,Hygrometer,3
+Q19,objective_high,Which device measures temperature?,9,D,Anemometer,4
+Q19,objective_high,Which device measures temperature?,10,A,Barometer,1
+Q19,objective_high,Which device measures temperature?,10,B,Thermometer,2
+Q19,objective_high,Which device measures temperature?,10,C,Hygrometer,3
+Q19,objective_high,Which device measures temperature?,10,D,Anemometer,4
+Q19,objective_high,Which device measures temperature?,11,A,Thermometer,1
+Q19,objective_high,Which device measures temperature?,11,B,Hygrometer,2
+Q19,objective_high,Which device measures temperature?,11,C,Barometer,3
+Q19,objective_high,Which device measures temperature?,11,D,Anemometer,4
+Q19,objective_high,Which device measures temperature?,12,A,Anemometer,1
+Q19,objective_high,Which device measures temperature?,12,B,Thermometer,2
+Q19,objective_high,Which device measures temperature?,12,C,Barometer,3
+Q19,objective_high,Which device measures temperature?,12,D,Hygrometer,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,1,A,USA,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,1,B,Australia,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,1,C,Indonesia,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,1,D,South Africa,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,2,A,USA,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,2,B,South Africa,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,2,C,Australia,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,2,D,Indonesia,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,3,A,USA,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,3,B,South Africa,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,3,C,Australia,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,3,D,Indonesia,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,4,A,USA,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,4,B,South Africa,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,4,C,Indonesia,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,4,D,Australia,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,5,A,USA,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,5,B,Indonesia,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,5,C,South Africa,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,5,D,Australia,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,6,A,Indonesia,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,6,B,Australia,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,6,C,USA,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,6,D,South Africa,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,7,A,South Africa,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,7,B,Indonesia,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,7,C,USA,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,7,D,Australia,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,8,A,Australia,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,8,B,Indonesia,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,8,C,USA,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,8,D,South Africa,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,9,A,USA,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,9,B,South Africa,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,9,C,Indonesia,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,9,D,Australia,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,10,A,Australia,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,10,B,South Africa,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,10,C,Indonesia,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,10,D,USA,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,11,A,Australia,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,11,B,USA,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,11,C,Indonesia,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,11,D,South Africa,4
+Q20,objective_high,Which country is home to the Great Barrier Reef?,12,A,South Africa,1
+Q20,objective_high,Which country is home to the Great Barrier Reef?,12,B,Indonesia,2
+Q20,objective_high,Which country is home to the Great Barrier Reef?,12,C,USA,3
+Q20,objective_high,Which country is home to the Great Barrier Reef?,12,D,Australia,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,1,A,Volcanic activity,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,1,B,Solar flares,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,1,C,Cloud feedbacks,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,1,D,Earth’s orbit,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,2,A,Volcanic activity,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,2,B,Cloud feedbacks,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,2,C,Solar flares,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,2,D,Earth’s orbit,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,3,A,Volcanic activity,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,3,B,Earth’s orbit,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,3,C,Cloud feedbacks,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,3,D,Solar flares,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,4,A,Cloud feedbacks,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,4,B,Solar flares,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,4,C,Volcanic activity,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,4,D,Earth’s orbit,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,5,A,Earth’s orbit,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,5,B,Cloud feedbacks,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,5,C,Volcanic activity,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,5,D,Solar flares,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,6,A,Solar flares,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,6,B,Earth’s orbit,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,6,C,Volcanic activity,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,6,D,Cloud feedbacks,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,7,A,Earth’s orbit,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,7,B,Volcanic activity,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,7,C,Solar flares,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,7,D,Cloud feedbacks,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,8,A,Volcanic activity,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,8,B,Earth’s orbit,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,8,C,Cloud feedbacks,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,8,D,Solar flares,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,9,A,Earth’s orbit,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,9,B,Solar flares,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,9,C,Cloud feedbacks,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,9,D,Volcanic activity,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,10,A,Volcanic activity,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,10,B,Earth’s orbit,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,10,C,Solar flares,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,10,D,Cloud feedbacks,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,11,A,Volcanic activity,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,11,B,Cloud feedbacks,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,11,C,Earth’s orbit,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,11,D,Solar flares,4
+Q21,objective_low,Which factor most directly influences climate sensitivity?,12,A,Cloud feedbacks,1
+Q21,objective_low,Which factor most directly influences climate sensitivity?,12,B,Earth’s orbit,2
+Q21,objective_low,Which factor most directly influences climate sensitivity?,12,C,Volcanic activity,3
+Q21,objective_low,Which factor most directly influences climate sensitivity?,12,D,Solar flares,4
+Q22,objective_low,What most limits neural network generalization?,1,A,Model depth,1
+Q22,objective_low,What most limits neural network generalization?,1,B,Overfitting,2
+Q22,objective_low,What most limits neural network generalization?,1,C,Hardware speed,3
+Q22,objective_low,What most limits neural network generalization?,1,D,Training time,4
+Q22,objective_low,What most limits neural network generalization?,2,A,Overfitting,1
+Q22,objective_low,What most limits neural network generalization?,2,B,Model depth,2
+Q22,objective_low,What most limits neural network generalization?,2,C,Hardware speed,3
+Q22,objective_low,What most limits neural network generalization?,2,D,Training time,4
+Q22,objective_low,What most limits neural network generalization?,3,A,Overfitting,1
+Q22,objective_low,What most limits neural network generalization?,3,B,Training time,2
+Q22,objective_low,What most limits neural network generalization?,3,C,Hardware speed,3
+Q22,objective_low,What most limits neural network generalization?,3,D,Model depth,4
+Q22,objective_low,What most limits neural network generalization?,4,A,Overfitting,1
+Q22,objective_low,What most limits neural network generalization?,4,B,Model depth,2
+Q22,objective_low,What most limits neural network generalization?,4,C,Hardware speed,3
+Q22,objective_low,What most limits neural network generalization?,4,D,Training time,4
+Q22,objective_low,What most limits neural network generalization?,5,A,Hardware speed,1
+Q22,objective_low,What most limits neural network generalization?,5,B,Training time,2
+Q22,objective_low,What most limits neural network generalization?,5,C,Model depth,3
+Q22,objective_low,What most limits neural network generalization?,5,D,Overfitting,4
+Q22,objective_low,What most limits neural network generalization?,6,A,Overfitting,1
+Q22,objective_low,What most limits neural network generalization?,6,B,Training time,2
+Q22,objective_low,What most limits neural network generalization?,6,C,Hardware speed,3
+Q22,objective_low,What most limits neural network generalization?,6,D,Model depth,4
+Q22,objective_low,What most limits neural network generalization?,7,A,Model depth,1
+Q22,objective_low,What most limits neural network generalization?,7,B,Training time,2
+Q22,objective_low,What most limits neural network generalization?,7,C,Overfitting,3
+Q22,objective_low,What most limits neural network generalization?,7,D,Hardware speed,4
+Q22,objective_low,What most limits neural network generalization?,8,A,Overfitting,1
+Q22,objective_low,What most limits neural network generalization?,8,B,Hardware speed,2
+Q22,objective_low,What most limits neural network generalization?,8,C,Model depth,3
+Q22,objective_low,What most limits neural network generalization?,8,D,Training time,4
+Q22,objective_low,What most limits neural network generalization?,9,A,Model depth,1
+Q22,objective_low,What most limits neural network generalization?,9,B,Overfitting,2
+Q22,objective_low,What most limits neural network generalization?,9,C,Hardware speed,3
+Q22,objective_low,What most limits neural network generalization?,9,D,Training time,4
+Q22,objective_low,What most limits neural network generalization?,10,A,Overfitting,1
+Q22,objective_low,What most limits neural network generalization?,10,B,Training time,2
+Q22,objective_low,What most limits neural network generalization?,10,C,Model depth,3
+Q22,objective_low,What most limits neural network generalization?,10,D,Hardware speed,4
+Q22,objective_low,What most limits neural network generalization?,11,A,Overfitting,1
+Q22,objective_low,What most limits neural network generalization?,11,B,Model depth,2
+Q22,objective_low,What most limits neural network generalization?,11,C,Hardware speed,3
+Q22,objective_low,What most limits neural network generalization?,11,D,Training time,4
+Q22,objective_low,What most limits neural network generalization?,12,A,Overfitting,1
+Q22,objective_low,What most limits neural network generalization?,12,B,Training time,2
+Q22,objective_low,What most limits neural network generalization?,12,C,Model depth,3
+Q22,objective_low,What most limits neural network generalization?,12,D,Hardware speed,4
+Q23,objective_low,Which factor most affects battery degradation?,1,A,Processor speed,1
+Q23,objective_low,Which factor most affects battery degradation?,1,B,Charge cycles,2
+Q23,objective_low,Which factor most affects battery degradation?,1,C,App usage,3
+Q23,objective_low,Which factor most affects battery degradation?,1,D,Screen brightness,4
+Q23,objective_low,Which factor most affects battery degradation?,2,A,Screen brightness,1
+Q23,objective_low,Which factor most affects battery degradation?,2,B,Processor speed,2
+Q23,objective_low,Which factor most affects battery degradation?,2,C,App usage,3
+Q23,objective_low,Which factor most affects battery degradation?,2,D,Charge cycles,4
+Q23,objective_low,Which factor most affects battery degradation?,3,A,Charge cycles,1
+Q23,objective_low,Which factor most affects battery degradation?,3,B,Screen brightness,2
+Q23,objective_low,Which factor most affects battery degradation?,3,C,App usage,3
+Q23,objective_low,Which factor most affects battery degradation?,3,D,Processor speed,4
+Q23,objective_low,Which factor most affects battery degradation?,4,A,Processor speed,1
+Q23,objective_low,Which factor most affects battery degradation?,4,B,Screen brightness,2
+Q23,objective_low,Which factor most affects battery degradation?,4,C,Charge cycles,3
+Q23,objective_low,Which factor most affects battery degradation?,4,D,App usage,4
+Q23,objective_low,Which factor most affects battery degradation?,5,A,Charge cycles,1
+Q23,objective_low,Which factor most affects battery degradation?,5,B,Screen brightness,2
+Q23,objective_low,Which factor most affects battery degradation?,5,C,App usage,3
+Q23,objective_low,Which factor most affects battery degradation?,5,D,Processor speed,4
+Q23,objective_low,Which factor most affects battery degradation?,6,A,Charge cycles,1
+Q23,objective_low,Which factor most affects battery degradation?,6,B,Screen brightness,2
+Q23,objective_low,Which factor most affects battery degradation?,6,C,App usage,3
+Q23,objective_low,Which factor most affects battery degradation?,6,D,Processor speed,4
+Q23,objective_low,Which factor most affects battery degradation?,7,A,Screen brightness,1
+Q23,objective_low,Which factor most affects battery degradation?,7,B,Processor speed,2
+Q23,objective_low,Which factor most affects battery degradation?,7,C,Charge cycles,3
+Q23,objective_low,Which factor most affects battery degradation?,7,D,App usage,4
+Q23,objective_low,Which factor most affects battery degradation?,8,A,Charge cycles,1
+Q23,objective_low,Which factor most affects battery degradation?,8,B,Screen brightness,2
+Q23,objective_low,Which factor most affects battery degradation?,8,C,Processor speed,3
+Q23,objective_low,Which factor most affects battery degradation?,8,D,App usage,4
+Q23,objective_low,Which factor most affects battery degradation?,9,A,Screen brightness,1
+Q23,objective_low,Which factor most affects battery degradation?,9,B,App usage,2
+Q23,objective_low,Which factor most affects battery degradation?,9,C,Charge cycles,3
+Q23,objective_low,Which factor most affects battery degradation?,9,D,Processor speed,4
+Q23,objective_low,Which factor most affects battery degradation?,10,A,App usage,1
+Q23,objective_low,Which factor most affects battery degradation?,10,B,Charge cycles,2
+Q23,objective_low,Which factor most affects battery degradation?,10,C,Processor speed,3
+Q23,objective_low,Which factor most affects battery degradation?,10,D,Screen brightness,4
+Q23,objective_low,Which factor most affects battery degradation?,11,A,Screen brightness,1
+Q23,objective_low,Which factor most affects battery degradation?,11,B,Charge cycles,2
+Q23,objective_low,Which factor most affects battery degradation?,11,C,App usage,3
+Q23,objective_low,Which factor most affects battery degradation?,11,D,Processor speed,4
+Q23,objective_low,Which factor most affects battery degradation?,12,A,Charge cycles,1
+Q23,objective_low,Which factor most affects battery degradation?,12,B,Processor speed,2
+Q23,objective_low,Which factor most affects battery degradation?,12,C,App usage,3
+Q23,objective_low,Which factor most affects battery degradation?,12,D,Screen brightness,4
+Q24,objective_low,What contributes most to inflation in the short term?,1,A,Population growth,1
+Q24,objective_low,What contributes most to inflation in the short term?,1,B,Consumer confidence,2
+Q24,objective_low,What contributes most to inflation in the short term?,1,C,Money supply,3
+Q24,objective_low,What contributes most to inflation in the short term?,1,D,Productivity gains,4
+Q24,objective_low,What contributes most to inflation in the short term?,2,A,Productivity gains,1
+Q24,objective_low,What contributes most to inflation in the short term?,2,B,Consumer confidence,2
+Q24,objective_low,What contributes most to inflation in the short term?,2,C,Money supply,3
+Q24,objective_low,What contributes most to inflation in the short term?,2,D,Population growth,4
+Q24,objective_low,What contributes most to inflation in the short term?,3,A,Money supply,1
+Q24,objective_low,What contributes most to inflation in the short term?,3,B,Population growth,2
+Q24,objective_low,What contributes most to inflation in the short term?,3,C,Consumer confidence,3
+Q24,objective_low,What contributes most to inflation in the short term?,3,D,Productivity gains,4
+Q24,objective_low,What contributes most to inflation in the short term?,4,A,Consumer confidence,1
+Q24,objective_low,What contributes most to inflation in the short term?,4,B,Money supply,2
+Q24,objective_low,What contributes most to inflation in the short term?,4,C,Population growth,3
+Q24,objective_low,What contributes most to inflation in the short term?,4,D,Productivity gains,4
+Q24,objective_low,What contributes most to inflation in the short term?,5,A,Money supply,1
+Q24,objective_low,What contributes most to inflation in the short term?,5,B,Productivity gains,2
+Q24,objective_low,What contributes most to inflation in the short term?,5,C,Population growth,3
+Q24,objective_low,What contributes most to inflation in the short term?,5,D,Consumer confidence,4
+Q24,objective_low,What contributes most to inflation in the short term?,6,A,Money supply,1
+Q24,objective_low,What contributes most to inflation in the short term?,6,B,Productivity gains,2
+Q24,objective_low,What contributes most to inflation in the short term?,6,C,Consumer confidence,3
+Q24,objective_low,What contributes most to inflation in the short term?,6,D,Population growth,4
+Q24,objective_low,What contributes most to inflation in the short term?,7,A,Productivity gains,1
+Q24,objective_low,What contributes most to inflation in the short term?,7,B,Population growth,2
+Q24,objective_low,What contributes most to inflation in the short term?,7,C,Consumer confidence,3
+Q24,objective_low,What contributes most to inflation in the short term?,7,D,Money supply,4
+Q24,objective_low,What contributes most to inflation in the short term?,8,A,Money supply,1
+Q24,objective_low,What contributes most to inflation in the short term?,8,B,Population growth,2
+Q24,objective_low,What contributes most to inflation in the short term?,8,C,Consumer confidence,3
+Q24,objective_low,What contributes most to inflation in the short term?,8,D,Productivity gains,4
+Q24,objective_low,What contributes most to inflation in the short term?,9,A,Productivity gains,1
+Q24,objective_low,What contributes most to inflation in the short term?,9,B,Population growth,2
+Q24,objective_low,What contributes most to inflation in the short term?,9,C,Consumer confidence,3
+Q24,objective_low,What contributes most to inflation in the short term?,9,D,Money supply,4
+Q24,objective_low,What contributes most to inflation in the short term?,10,A,Productivity gains,1
+Q24,objective_low,What contributes most to inflation in the short term?,10,B,Money supply,2
+Q24,objective_low,What contributes most to inflation in the short term?,10,C,Consumer confidence,3
+Q24,objective_low,What contributes most to inflation in the short term?,10,D,Population growth,4
+Q24,objective_low,What contributes most to inflation in the short term?,11,A,Money supply,1
+Q24,objective_low,What contributes most to inflation in the short term?,11,B,Population growth,2
+Q24,objective_low,What contributes most to inflation in the short term?,11,C,Productivity gains,3
+Q24,objective_low,What contributes most to inflation in the short term?,11,D,Consumer confidence,4
+Q24,objective_low,What contributes most to inflation in the short term?,12,A,Money supply,1
+Q24,objective_low,What contributes most to inflation in the short term?,12,B,Consumer confidence,2
+Q24,objective_low,What contributes most to inflation in the short term?,12,C,Productivity gains,3
+Q24,objective_low,What contributes most to inflation in the short term?,12,D,Population growth,4
+Q25,objective_low,What most improves model robustness?,1,A,Ensembling,1
+Q25,objective_low,What most improves model robustness?,1,B,Regularization,2
+Q25,objective_low,What most improves model robustness?,1,C,Faster optimization,3
+Q25,objective_low,What most improves model robustness?,1,D,More data,4
+Q25,objective_low,What most improves model robustness?,2,A,More data,1
+Q25,objective_low,What most improves model robustness?,2,B,Ensembling,2
+Q25,objective_low,What most improves model robustness?,2,C,Faster optimization,3
+Q25,objective_low,What most improves model robustness?,2,D,Regularization,4
+Q25,objective_low,What most improves model robustness?,3,A,Regularization,1
+Q25,objective_low,What most improves model robustness?,3,B,Ensembling,2
+Q25,objective_low,What most improves model robustness?,3,C,More data,3
+Q25,objective_low,What most improves model robustness?,3,D,Faster optimization,4
+Q25,objective_low,What most improves model robustness?,4,A,Faster optimization,1
+Q25,objective_low,What most improves model robustness?,4,B,More data,2
+Q25,objective_low,What most improves model robustness?,4,C,Ensembling,3
+Q25,objective_low,What most improves model robustness?,4,D,Regularization,4
+Q25,objective_low,What most improves model robustness?,5,A,Regularization,1
+Q25,objective_low,What most improves model robustness?,5,B,More data,2
+Q25,objective_low,What most improves model robustness?,5,C,Faster optimization,3
+Q25,objective_low,What most improves model robustness?,5,D,Ensembling,4
+Q25,objective_low,What most improves model robustness?,6,A,Regularization,1
+Q25,objective_low,What most improves model robustness?,6,B,Ensembling,2
+Q25,objective_low,What most improves model robustness?,6,C,More data,3
+Q25,objective_low,What most improves model robustness?,6,D,Faster optimization,4
+Q25,objective_low,What most improves model robustness?,7,A,Ensembling,1
+Q25,objective_low,What most improves model robustness?,7,B,Faster optimization,2
+Q25,objective_low,What most improves model robustness?,7,C,Regularization,3
+Q25,objective_low,What most improves model robustness?,7,D,More data,4
+Q25,objective_low,What most improves model robustness?,8,A,More data,1
+Q25,objective_low,What most improves model robustness?,8,B,Ensembling,2
+Q25,objective_low,What most improves model robustness?,8,C,Faster optimization,3
+Q25,objective_low,What most improves model robustness?,8,D,Regularization,4
+Q25,objective_low,What most improves model robustness?,9,A,More data,1
+Q25,objective_low,What most improves model robustness?,9,B,Faster optimization,2
+Q25,objective_low,What most improves model robustness?,9,C,Regularization,3
+Q25,objective_low,What most improves model robustness?,9,D,Ensembling,4
+Q25,objective_low,What most improves model robustness?,10,A,Ensembling,1
+Q25,objective_low,What most improves model robustness?,10,B,Regularization,2
+Q25,objective_low,What most improves model robustness?,10,C,More data,3
+Q25,objective_low,What most improves model robustness?,10,D,Faster optimization,4
+Q25,objective_low,What most improves model robustness?,11,A,Ensembling,1
+Q25,objective_low,What most improves model robustness?,11,B,More data,2
+Q25,objective_low,What most improves model robustness?,11,C,Faster optimization,3
+Q25,objective_low,What most improves model robustness?,11,D,Regularization,4
+Q25,objective_low,What most improves model robustness?,12,A,Ensembling,1
+Q25,objective_low,What most improves model robustness?,12,B,Faster optimization,2
+Q25,objective_low,What most improves model robustness?,12,C,More data,3
+Q25,objective_low,What most improves model robustness?,12,D,Regularization,4
+Q26,objective_low,What primarily determines internet latency?,1,A,Distance to server,1
+Q26,objective_low,What primarily determines internet latency?,1,B,Screen resolution,2
+Q26,objective_low,What primarily determines internet latency?,1,C,Browser type,3
+Q26,objective_low,What primarily determines internet latency?,1,D,Keyboard speed,4
+Q26,objective_low,What primarily determines internet latency?,2,A,Keyboard speed,1
+Q26,objective_low,What primarily determines internet latency?,2,B,Screen resolution,2
+Q26,objective_low,What primarily determines internet latency?,2,C,Browser type,3
+Q26,objective_low,What primarily determines internet latency?,2,D,Distance to server,4
+Q26,objective_low,What primarily determines internet latency?,3,A,Screen resolution,1
+Q26,objective_low,What primarily determines internet latency?,3,B,Browser type,2
+Q26,objective_low,What primarily determines internet latency?,3,C,Distance to server,3
+Q26,objective_low,What primarily determines internet latency?,3,D,Keyboard speed,4
+Q26,objective_low,What primarily determines internet latency?,4,A,Distance to server,1
+Q26,objective_low,What primarily determines internet latency?,4,B,Screen resolution,2
+Q26,objective_low,What primarily determines internet latency?,4,C,Browser type,3
+Q26,objective_low,What primarily determines internet latency?,4,D,Keyboard speed,4
+Q26,objective_low,What primarily determines internet latency?,5,A,Distance to server,1
+Q26,objective_low,What primarily determines internet latency?,5,B,Screen resolution,2
+Q26,objective_low,What primarily determines internet latency?,5,C,Browser type,3
+Q26,objective_low,What primarily determines internet latency?,5,D,Keyboard speed,4
+Q26,objective_low,What primarily determines internet latency?,6,A,Keyboard speed,1
+Q26,objective_low,What primarily determines internet latency?,6,B,Distance to server,2
+Q26,objective_low,What primarily determines internet latency?,6,C,Screen resolution,3
+Q26,objective_low,What primarily determines internet latency?,6,D,Browser type,4
+Q26,objective_low,What primarily determines internet latency?,7,A,Screen resolution,1
+Q26,objective_low,What primarily determines internet latency?,7,B,Browser type,2
+Q26,objective_low,What primarily determines internet latency?,7,C,Distance to server,3
+Q26,objective_low,What primarily determines internet latency?,7,D,Keyboard speed,4
+Q26,objective_low,What primarily determines internet latency?,8,A,Keyboard speed,1
+Q26,objective_low,What primarily determines internet latency?,8,B,Screen resolution,2
+Q26,objective_low,What primarily determines internet latency?,8,C,Browser type,3
+Q26,objective_low,What primarily determines internet latency?,8,D,Distance to server,4
+Q26,objective_low,What primarily determines internet latency?,9,A,Screen resolution,1
+Q26,objective_low,What primarily determines internet latency?,9,B,Distance to server,2
+Q26,objective_low,What primarily determines internet latency?,9,C,Browser type,3
+Q26,objective_low,What primarily determines internet latency?,9,D,Keyboard speed,4
+Q26,objective_low,What primarily determines internet latency?,10,A,Browser type,1
+Q26,objective_low,What primarily determines internet latency?,10,B,Screen resolution,2
+Q26,objective_low,What primarily determines internet latency?,10,C,Distance to server,3
+Q26,objective_low,What primarily determines internet latency?,10,D,Keyboard speed,4
+Q26,objective_low,What primarily determines internet latency?,11,A,Keyboard speed,1
+Q26,objective_low,What primarily determines internet latency?,11,B,Browser type,2
+Q26,objective_low,What primarily determines internet latency?,11,C,Distance to server,3
+Q26,objective_low,What primarily determines internet latency?,11,D,Screen resolution,4
+Q26,objective_low,What primarily determines internet latency?,12,A,Keyboard speed,1
+Q26,objective_low,What primarily determines internet latency?,12,B,Browser type,2
+Q26,objective_low,What primarily determines internet latency?,12,C,Screen resolution,3
+Q26,objective_low,What primarily determines internet latency?,12,D,Distance to server,4
+Q27,objective_low,What factor most affects CPU performance?,1,A,Cache size,1
+Q27,objective_low,What factor most affects CPU performance?,1,B,Instruction set,2
+Q27,objective_low,What factor most affects CPU performance?,1,C,Core count,3
+Q27,objective_low,What factor most affects CPU performance?,1,D,Clock speed,4
+Q27,objective_low,What factor most affects CPU performance?,2,A,Cache size,1
+Q27,objective_low,What factor most affects CPU performance?,2,B,Clock speed,2
+Q27,objective_low,What factor most affects CPU performance?,2,C,Core count,3
+Q27,objective_low,What factor most affects CPU performance?,2,D,Instruction set,4
+Q27,objective_low,What factor most affects CPU performance?,3,A,Instruction set,1
+Q27,objective_low,What factor most affects CPU performance?,3,B,Core count,2
+Q27,objective_low,What factor most affects CPU performance?,3,C,Cache size,3
+Q27,objective_low,What factor most affects CPU performance?,3,D,Clock speed,4
+Q27,objective_low,What factor most affects CPU performance?,4,A,Clock speed,1
+Q27,objective_low,What factor most affects CPU performance?,4,B,Cache size,2
+Q27,objective_low,What factor most affects CPU performance?,4,C,Instruction set,3
+Q27,objective_low,What factor most affects CPU performance?,4,D,Core count,4
+Q27,objective_low,What factor most affects CPU performance?,5,A,Instruction set,1
+Q27,objective_low,What factor most affects CPU performance?,5,B,Core count,2
+Q27,objective_low,What factor most affects CPU performance?,5,C,Cache size,3
+Q27,objective_low,What factor most affects CPU performance?,5,D,Clock speed,4
+Q27,objective_low,What factor most affects CPU performance?,6,A,Clock speed,1
+Q27,objective_low,What factor most affects CPU performance?,6,B,Cache size,2
+Q27,objective_low,What factor most affects CPU performance?,6,C,Instruction set,3
+Q27,objective_low,What factor most affects CPU performance?,6,D,Core count,4
+Q27,objective_low,What factor most affects CPU performance?,7,A,Cache size,1
+Q27,objective_low,What factor most affects CPU performance?,7,B,Instruction set,2
+Q27,objective_low,What factor most affects CPU performance?,7,C,Core count,3
+Q27,objective_low,What factor most affects CPU performance?,7,D,Clock speed,4
+Q27,objective_low,What factor most affects CPU performance?,8,A,Clock speed,1
+Q27,objective_low,What factor most affects CPU performance?,8,B,Instruction set,2
+Q27,objective_low,What factor most affects CPU performance?,8,C,Core count,3
+Q27,objective_low,What factor most affects CPU performance?,8,D,Cache size,4
+Q27,objective_low,What factor most affects CPU performance?,9,A,Instruction set,1
+Q27,objective_low,What factor most affects CPU performance?,9,B,Clock speed,2
+Q27,objective_low,What factor most affects CPU performance?,9,C,Core count,3
+Q27,objective_low,What factor most affects CPU performance?,9,D,Cache size,4
+Q27,objective_low,What factor most affects CPU performance?,10,A,Cache size,1
+Q27,objective_low,What factor most affects CPU performance?,10,B,Core count,2
+Q27,objective_low,What factor most affects CPU performance?,10,C,Clock speed,3
+Q27,objective_low,What factor most affects CPU performance?,10,D,Instruction set,4
+Q27,objective_low,What factor most affects CPU performance?,11,A,Core count,1
+Q27,objective_low,What factor most affects CPU performance?,11,B,Cache size,2
+Q27,objective_low,What factor most affects CPU performance?,11,C,Clock speed,3
+Q27,objective_low,What factor most affects CPU performance?,11,D,Instruction set,4
+Q27,objective_low,What factor most affects CPU performance?,12,A,Core count,1
+Q27,objective_low,What factor most affects CPU performance?,12,B,Cache size,2
+Q27,objective_low,What factor most affects CPU performance?,12,C,Instruction set,3
+Q27,objective_low,What factor most affects CPU performance?,12,D,Clock speed,4
+Q28,objective_low,What drives protein folding?,1,A,Van der Waals forces,1
+Q28,objective_low,What drives protein folding?,1,B,Ionic charges,2
+Q28,objective_low,What drives protein folding?,1,C,Hydrophobic effects,3
+Q28,objective_low,What drives protein folding?,1,D,Hydrogen bonds,4
+Q28,objective_low,What drives protein folding?,2,A,Van der Waals forces,1
+Q28,objective_low,What drives protein folding?,2,B,Hydrogen bonds,2
+Q28,objective_low,What drives protein folding?,2,C,Hydrophobic effects,3
+Q28,objective_low,What drives protein folding?,2,D,Ionic charges,4
+Q28,objective_low,What drives protein folding?,3,A,Hydrogen bonds,1
+Q28,objective_low,What drives protein folding?,3,B,Van der Waals forces,2
+Q28,objective_low,What drives protein folding?,3,C,Ionic charges,3
+Q28,objective_low,What drives protein folding?,3,D,Hydrophobic effects,4
+Q28,objective_low,What drives protein folding?,4,A,Van der Waals forces,1
+Q28,objective_low,What drives protein folding?,4,B,Ionic charges,2
+Q28,objective_low,What drives protein folding?,4,C,Hydrogen bonds,3
+Q28,objective_low,What drives protein folding?,4,D,Hydrophobic effects,4
+Q28,objective_low,What drives protein folding?,5,A,Van der Waals forces,1
+Q28,objective_low,What drives protein folding?,5,B,Hydrophobic effects,2
+Q28,objective_low,What drives protein folding?,5,C,Ionic charges,3
+Q28,objective_low,What drives protein folding?,5,D,Hydrogen bonds,4
+Q28,objective_low,What drives protein folding?,6,A,Ionic charges,1
+Q28,objective_low,What drives protein folding?,6,B,Hydrogen bonds,2
+Q28,objective_low,What drives protein folding?,6,C,Van der Waals forces,3
+Q28,objective_low,What drives protein folding?,6,D,Hydrophobic effects,4
+Q28,objective_low,What drives protein folding?,7,A,Hydrogen bonds,1
+Q28,objective_low,What drives protein folding?,7,B,Ionic charges,2
+Q28,objective_low,What drives protein folding?,7,C,Van der Waals forces,3
+Q28,objective_low,What drives protein folding?,7,D,Hydrophobic effects,4
+Q28,objective_low,What drives protein folding?,8,A,Ionic charges,1
+Q28,objective_low,What drives protein folding?,8,B,Hydrogen bonds,2
+Q28,objective_low,What drives protein folding?,8,C,Hydrophobic effects,3
+Q28,objective_low,What drives protein folding?,8,D,Van der Waals forces,4
+Q28,objective_low,What drives protein folding?,9,A,Ionic charges,1
+Q28,objective_low,What drives protein folding?,9,B,Hydrogen bonds,2
+Q28,objective_low,What drives protein folding?,9,C,Hydrophobic effects,3
+Q28,objective_low,What drives protein folding?,9,D,Van der Waals forces,4
+Q28,objective_low,What drives protein folding?,10,A,Van der Waals forces,1
+Q28,objective_low,What drives protein folding?,10,B,Ionic charges,2
+Q28,objective_low,What drives protein folding?,10,C,Hydrophobic effects,3
+Q28,objective_low,What drives protein folding?,10,D,Hydrogen bonds,4
+Q28,objective_low,What drives protein folding?,11,A,Hydrogen bonds,1
+Q28,objective_low,What drives protein folding?,11,B,Hydrophobic effects,2
+Q28,objective_low,What drives protein folding?,11,C,Van der Waals forces,3
+Q28,objective_low,What drives protein folding?,11,D,Ionic charges,4
+Q28,objective_low,What drives protein folding?,12,A,Hydrogen bonds,1
+Q28,objective_low,What drives protein folding?,12,B,Van der Waals forces,2
+Q28,objective_low,What drives protein folding?,12,C,Hydrophobic effects,3
+Q28,objective_low,What drives protein folding?,12,D,Ionic charges,4
+Q29,objective_low,What limits Moore’s Law today?,1,A,Economic cost,1
+Q29,objective_low,What limits Moore’s Law today?,1,B,Chip design,2
+Q29,objective_low,What limits Moore’s Law today?,1,C,Software inefficiency,3
+Q29,objective_low,What limits Moore’s Law today?,1,D,Quantum tunneling,4
+Q29,objective_low,What limits Moore’s Law today?,2,A,Chip design,1
+Q29,objective_low,What limits Moore’s Law today?,2,B,Quantum tunneling,2
+Q29,objective_low,What limits Moore’s Law today?,2,C,Software inefficiency,3
+Q29,objective_low,What limits Moore’s Law today?,2,D,Economic cost,4
+Q29,objective_low,What limits Moore’s Law today?,3,A,Economic cost,1
+Q29,objective_low,What limits Moore’s Law today?,3,B,Quantum tunneling,2
+Q29,objective_low,What limits Moore’s Law today?,3,C,Software inefficiency,3
+Q29,objective_low,What limits Moore’s Law today?,3,D,Chip design,4
+Q29,objective_low,What limits Moore’s Law today?,4,A,Software inefficiency,1
+Q29,objective_low,What limits Moore’s Law today?,4,B,Quantum tunneling,2
+Q29,objective_low,What limits Moore’s Law today?,4,C,Economic cost,3
+Q29,objective_low,What limits Moore’s Law today?,4,D,Chip design,4
+Q29,objective_low,What limits Moore’s Law today?,5,A,Quantum tunneling,1
+Q29,objective_low,What limits Moore’s Law today?,5,B,Software inefficiency,2
+Q29,objective_low,What limits Moore’s Law today?,5,C,Economic cost,3
+Q29,objective_low,What limits Moore’s Law today?,5,D,Chip design,4
+Q29,objective_low,What limits Moore’s Law today?,6,A,Chip design,1
+Q29,objective_low,What limits Moore’s Law today?,6,B,Economic cost,2
+Q29,objective_low,What limits Moore’s Law today?,6,C,Quantum tunneling,3
+Q29,objective_low,What limits Moore’s Law today?,6,D,Software inefficiency,4
+Q29,objective_low,What limits Moore’s Law today?,7,A,Quantum tunneling,1
+Q29,objective_low,What limits Moore’s Law today?,7,B,Software inefficiency,2
+Q29,objective_low,What limits Moore’s Law today?,7,C,Economic cost,3
+Q29,objective_low,What limits Moore’s Law today?,7,D,Chip design,4
+Q29,objective_low,What limits Moore’s Law today?,8,A,Quantum tunneling,1
+Q29,objective_low,What limits Moore’s Law today?,8,B,Economic cost,2
+Q29,objective_low,What limits Moore’s Law today?,8,C,Software inefficiency,3
+Q29,objective_low,What limits Moore’s Law today?,8,D,Chip design,4
+Q29,objective_low,What limits Moore’s Law today?,9,A,Quantum tunneling,1
+Q29,objective_low,What limits Moore’s Law today?,9,B,Software inefficiency,2
+Q29,objective_low,What limits Moore’s Law today?,9,C,Chip design,3
+Q29,objective_low,What limits Moore’s Law today?,9,D,Economic cost,4
+Q29,objective_low,What limits Moore’s Law today?,10,A,Software inefficiency,1
+Q29,objective_low,What limits Moore’s Law today?,10,B,Economic cost,2
+Q29,objective_low,What limits Moore’s Law today?,10,C,Quantum tunneling,3
+Q29,objective_low,What limits Moore’s Law today?,10,D,Chip design,4
+Q29,objective_low,What limits Moore’s Law today?,11,A,Quantum tunneling,1
+Q29,objective_low,What limits Moore’s Law today?,11,B,Economic cost,2
+Q29,objective_low,What limits Moore’s Law today?,11,C,Software inefficiency,3
+Q29,objective_low,What limits Moore’s Law today?,11,D,Chip design,4
+Q29,objective_low,What limits Moore’s Law today?,12,A,Software inefficiency,1
+Q29,objective_low,What limits Moore’s Law today?,12,B,Chip design,2
+Q29,objective_low,What limits Moore’s Law today?,12,C,Quantum tunneling,3
+Q29,objective_low,What limits Moore’s Law today?,12,D,Economic cost,4
+Q30,objective_low,What affects memory recall most?,1,A,Emotion,1
+Q30,objective_low,What affects memory recall most?,1,B,Context,2
+Q30,objective_low,What affects memory recall most?,1,C,Repetition,3
+Q30,objective_low,What affects memory recall most?,1,D,Sleep,4
+Q30,objective_low,What affects memory recall most?,2,A,Repetition,1
+Q30,objective_low,What affects memory recall most?,2,B,Sleep,2
+Q30,objective_low,What affects memory recall most?,2,C,Context,3
+Q30,objective_low,What affects memory recall most?,2,D,Emotion,4
+Q30,objective_low,What affects memory recall most?,3,A,Sleep,1
+Q30,objective_low,What affects memory recall most?,3,B,Emotion,2
+Q30,objective_low,What affects memory recall most?,3,C,Repetition,3
+Q30,objective_low,What affects memory recall most?,3,D,Context,4
+Q30,objective_low,What affects memory recall most?,4,A,Repetition,1
+Q30,objective_low,What affects memory recall most?,4,B,Context,2
+Q30,objective_low,What affects memory recall most?,4,C,Emotion,3
+Q30,objective_low,What affects memory recall most?,4,D,Sleep,4
+Q30,objective_low,What affects memory recall most?,5,A,Context,1
+Q30,objective_low,What affects memory recall most?,5,B,Sleep,2
+Q30,objective_low,What affects memory recall most?,5,C,Emotion,3
+Q30,objective_low,What affects memory recall most?,5,D,Repetition,4
+Q30,objective_low,What affects memory recall most?,6,A,Context,1
+Q30,objective_low,What affects memory recall most?,6,B,Sleep,2
+Q30,objective_low,What affects memory recall most?,6,C,Repetition,3
+Q30,objective_low,What affects memory recall most?,6,D,Emotion,4
+Q30,objective_low,What affects memory recall most?,7,A,Sleep,1
+Q30,objective_low,What affects memory recall most?,7,B,Emotion,2
+Q30,objective_low,What affects memory recall most?,7,C,Repetition,3
+Q30,objective_low,What affects memory recall most?,7,D,Context,4
+Q30,objective_low,What affects memory recall most?,8,A,Context,1
+Q30,objective_low,What affects memory recall most?,8,B,Sleep,2
+Q30,objective_low,What affects memory recall most?,8,C,Emotion,3
+Q30,objective_low,What affects memory recall most?,8,D,Repetition,4
+Q30,objective_low,What affects memory recall most?,9,A,Repetition,1
+Q30,objective_low,What affects memory recall most?,9,B,Context,2
+Q30,objective_low,What affects memory recall most?,9,C,Emotion,3
+Q30,objective_low,What affects memory recall most?,9,D,Sleep,4
+Q30,objective_low,What affects memory recall most?,10,A,Repetition,1
+Q30,objective_low,What affects memory recall most?,10,B,Emotion,2
+Q30,objective_low,What affects memory recall most?,10,C,Context,3
+Q30,objective_low,What affects memory recall most?,10,D,Sleep,4
+Q30,objective_low,What affects memory recall most?,11,A,Emotion,1
+Q30,objective_low,What affects memory recall most?,11,B,Sleep,2
+Q30,objective_low,What affects memory recall most?,11,C,Context,3
+Q30,objective_low,What affects memory recall most?,11,D,Repetition,4
+Q30,objective_low,What affects memory recall most?,12,A,Context,1
+Q30,objective_low,What affects memory recall most?,12,B,Emotion,2
+Q30,objective_low,What affects memory recall most?,12,C,Repetition,3
+Q30,objective_low,What affects memory recall most?,12,D,Sleep,4
+Q31,subjective,Which programming language is best for beginners?,1,A,JavaScript,1
+Q31,subjective,Which programming language is best for beginners?,1,C,C++,3
+Q31,subjective,Which programming language is best for beginners?,1,D,Java,4
+Q31,subjective,Which programming language is best for beginners?,2,A,Python,1
+Q31,subjective,Which programming language is best for beginners?,2,B,Java,2
+Q31,subjective,Which programming language is best for beginners?,2,C,C++,3
+Q31,subjective,Which programming language is best for beginners?,2,D,JavaScript,4
+Q31,subjective,Which programming language is best for beginners?,3,A,Java,1
+Q31,subjective,Which programming language is best for beginners?,3,B,C++,2
+Q31,subjective,Which programming language is best for beginners?,3,C,Python,3
+Q31,subjective,Which programming language is best for beginners?,3,D,JavaScript,4
+Q31,subjective,Which programming language is best for beginners?,4,A,C++,1
+Q31,subjective,Which programming language is best for beginners?,4,B,Java,2
+Q31,subjective,Which programming language is best for beginners?,4,C,JavaScript,3
+Q31,subjective,Which programming language is best for beginners?,4,D,Python,4
+Q31,subjective,Which programming language is best for beginners?,5,A,Java,1
+Q31,subjective,Which programming language is best for beginners?,5,B,C++,2
+Q31,subjective,Which programming language is best for beginners?,5,C,Python,3
+Q31,subjective,Which programming language is best for beginners?,5,D,JavaScript,4
+Q31,subjective,Which programming language is best for beginners?,6,A,JavaScript,1
+Q31,subjective,Which programming language is best for beginners?,6,B,Python,2
+Q31,subjective,Which programming language is best for beginners?,6,C,C++,3
+Q31,subjective,Which programming language is best for beginners?,6,D,Java,4
+Q31,subjective,Which programming language is best for beginners?,7,A,Python,1
+Q31,subjective,Which programming language is best for beginners?,7,B,C++,2
+Q31,subjective,Which programming language is best for beginners?,7,C,Java,3
+Q31,subjective,Which programming language is best for beginners?,7,D,JavaScript,4
+Q31,subjective,Which programming language is best for beginners?,8,A,Java,1
+Q31,subjective,Which programming language is best for beginners?,8,B,Python,2
+Q31,subjective,Which programming language is best for beginners?,8,C,C++,3
+Q31,subjective,Which programming language is best for beginners?,8,D,JavaScript,4
+Q31,subjective,Which programming language is best for beginners?,9,A,Java,1
+Q31,subjective,Which programming language is best for beginners?,9,B,Python,2
+Q31,subjective,Which programming language is best for beginners?,9,C,C++,3
+Q31,subjective,Which programming language is best for beginners?,9,D,JavaScript,4
+Q31,subjective,Which programming language is best for beginners?,10,A,Python,1
+Q31,subjective,Which programming language is best for beginners?,10,B,Java,2
+Q31,subjective,Which programming language is best for beginners?,10,C,C++,3
+Q31,subjective,Which programming language is best for beginners?,10,D,JavaScript,4
+Q31,subjective,Which programming language is best for beginners?,11,A,JavaScript,1
+Q31,subjective,Which programming language is best for beginners?,11,B,Java,2
+Q31,subjective,Which programming language is best for beginners?,11,C,Python,3
+Q31,subjective,Which programming language is best for beginners?,11,D,C++,4
+Q31,subjective,Which programming language is best for beginners?,12,A,Python,1
+Q31,subjective,Which programming language is best for beginners?,12,B,C++,2
+Q31,subjective,Which programming language is best for beginners?,12,C,JavaScript,3
+Q31,subjective,Which programming language is best for beginners?,12,D,Java,4
+Q32,subjective,What factor matters most for job satisfaction?,1,A,Company culture,1
+Q32,subjective,What factor matters most for job satisfaction?,1,B,Salary,2
+Q32,subjective,What factor matters most for job satisfaction?,1,C,Career growth,3
+Q32,subjective,What factor matters most for job satisfaction?,1,D,Work-life balance,4
+Q32,subjective,What factor matters most for job satisfaction?,2,A,Salary,1
+Q32,subjective,What factor matters most for job satisfaction?,2,B,Work-life balance,2
+Q32,subjective,What factor matters most for job satisfaction?,2,C,Career growth,3
+Q32,subjective,What factor matters most for job satisfaction?,2,D,Company culture,4
+Q32,subjective,What factor matters most for job satisfaction?,3,A,Career growth,1
+Q32,subjective,What factor matters most for job satisfaction?,3,B,Company culture,2
+Q32,subjective,What factor matters most for job satisfaction?,3,C,Work-life balance,3
+Q32,subjective,What factor matters most for job satisfaction?,3,D,Salary,4
+Q32,subjective,What factor matters most for job satisfaction?,4,A,Company culture,1
+Q32,subjective,What factor matters most for job satisfaction?,4,B,Career growth,2
+Q32,subjective,What factor matters most for job satisfaction?,4,C,Salary,3
+Q32,subjective,What factor matters most for job satisfaction?,4,D,Work-life balance,4
+Q32,subjective,What factor matters most for job satisfaction?,5,A,Work-life balance,1
+Q32,subjective,What factor matters most for job satisfaction?,5,B,Career growth,2
+Q32,subjective,What factor matters most for job satisfaction?,5,C,Company culture,3
+Q32,subjective,What factor matters most for job satisfaction?,5,D,Salary,4
+Q32,subjective,What factor matters most for job satisfaction?,6,A,Company culture,1
+Q32,subjective,What factor matters most for job satisfaction?,6,B,Work-life balance,2
+Q32,subjective,What factor matters most for job satisfaction?,6,C,Career growth,3
+Q32,subjective,What factor matters most for job satisfaction?,6,D,Salary,4
+Q32,subjective,What factor matters most for job satisfaction?,7,A,Career growth,1
+Q32,subjective,What factor matters most for job satisfaction?,7,B,Company culture,2
+Q32,subjective,What factor matters most for job satisfaction?,7,C,Salary,3
+Q32,subjective,What factor matters most for job satisfaction?,7,D,Work-life balance,4
+Q32,subjective,What factor matters most for job satisfaction?,8,A,Work-life balance,1
+Q32,subjective,What factor matters most for job satisfaction?,8,B,Career growth,2
+Q32,subjective,What factor matters most for job satisfaction?,8,C,Company culture,3
+Q32,subjective,What factor matters most for job satisfaction?,8,D,Salary,4
+Q32,subjective,What factor matters most for job satisfaction?,9,A,Company culture,1
+Q32,subjective,What factor matters most for job satisfaction?,9,B,Career growth,2
+Q32,subjective,What factor matters most for job satisfaction?,9,C,Salary,3
+Q32,subjective,What factor matters most for job satisfaction?,9,D,Work-life balance,4
+Q32,subjective,What factor matters most for job satisfaction?,10,A,Career growth,1
+Q32,subjective,What factor matters most for job satisfaction?,10,B,Salary,2
+Q32,subjective,What factor matters most for job satisfaction?,10,C,Company culture,3
+Q32,subjective,What factor matters most for job satisfaction?,10,D,Work-life balance,4
+Q32,subjective,What factor matters most for job satisfaction?,11,A,Work-life balance,1
+Q32,subjective,What factor matters most for job satisfaction?,11,B,Career growth,2
+Q32,subjective,What factor matters most for job satisfaction?,11,C,Salary,3
+Q32,subjective,What factor matters most for job satisfaction?,11,D,Company culture,4
+Q32,subjective,What factor matters most for job satisfaction?,12,A,Work-life balance,1
+Q32,subjective,What factor matters most for job satisfaction?,12,B,Career growth,2
+Q32,subjective,What factor matters most for job satisfaction?,12,C,Salary,3
+Q32,subjective,What factor matters most for job satisfaction?,12,D,Company culture,4
+Q33,subjective,Which study method is most effective?,1,A,Watching lectures,1
+Q33,subjective,Which study method is most effective?,1,B,Reading textbooks,2
+Q33,subjective,Which study method is most effective?,1,C,Group discussion,3
+Q33,subjective,Which study method is most effective?,1,D,Practice problems,4
+Q33,subjective,Which study method is most effective?,2,A,Group discussion,1
+Q33,subjective,Which study method is most effective?,2,B,Watching lectures,2
+Q33,subjective,Which study method is most effective?,2,C,Practice problems,3
+Q33,subjective,Which study method is most effective?,2,D,Reading textbooks,4
+Q33,subjective,Which study method is most effective?,3,A,Reading textbooks,1
+Q33,subjective,Which study method is most effective?,3,B,Watching lectures,2
+Q33,subjective,Which study method is most effective?,3,C,Group discussion,3
+Q33,subjective,Which study method is most effective?,3,D,Practice problems,4
+Q33,subjective,Which study method is most effective?,4,A,Reading textbooks,1
+Q33,subjective,Which study method is most effective?,4,B,Watching lectures,2
+Q33,subjective,Which study method is most effective?,4,C,Group discussion,3
+Q33,subjective,Which study method is most effective?,4,D,Practice problems,4
+Q33,subjective,Which study method is most effective?,5,A,Watching lectures,1
+Q33,subjective,Which study method is most effective?,5,B,Group discussion,2
+Q33,subjective,Which study method is most effective?,5,C,Reading textbooks,3
+Q33,subjective,Which study method is most effective?,5,D,Practice problems,4
+Q33,subjective,Which study method is most effective?,6,A,Practice problems,1
+Q33,subjective,Which study method is most effective?,6,B,Reading textbooks,2
+Q33,subjective,Which study method is most effective?,6,C,Watching lectures,3
+Q33,subjective,Which study method is most effective?,6,D,Group discussion,4
+Q33,subjective,Which study method is most effective?,7,A,Reading textbooks,1
+Q33,subjective,Which study method is most effective?,7,B,Group discussion,2
+Q33,subjective,Which study method is most effective?,7,C,Watching lectures,3
+Q33,subjective,Which study method is most effective?,7,D,Practice problems,4
+Q33,subjective,Which study method is most effective?,8,A,Group discussion,1
+Q33,subjective,Which study method is most effective?,8,B,Watching lectures,2
+Q33,subjective,Which study method is most effective?,8,C,Reading textbooks,3
+Q33,subjective,Which study method is most effective?,8,D,Practice problems,4
+Q33,subjective,Which study method is most effective?,9,A,Watching lectures,1
+Q33,subjective,Which study method is most effective?,9,B,Practice problems,2
+Q33,subjective,Which study method is most effective?,9,C,Reading textbooks,3
+Q33,subjective,Which study method is most effective?,9,D,Group discussion,4
+Q33,subjective,Which study method is most effective?,10,A,Group discussion,1
+Q33,subjective,Which study method is most effective?,10,B,Reading textbooks,2
+Q33,subjective,Which study method is most effective?,10,C,Watching lectures,3
+Q33,subjective,Which study method is most effective?,10,D,Practice problems,4
+Q33,subjective,Which study method is most effective?,11,A,Watching lectures,1
+Q33,subjective,Which study method is most effective?,11,B,Practice problems,2
+Q33,subjective,Which study method is most effective?,11,C,Reading textbooks,3
+Q33,subjective,Which study method is most effective?,11,D,Group discussion,4
+Q33,subjective,Which study method is most effective?,12,A,Practice problems,1
+Q33,subjective,Which study method is most effective?,12,B,Watching lectures,2
+Q33,subjective,Which study method is most effective?,12,C,Reading textbooks,3
+Q33,subjective,Which study method is most effective?,12,D,Group discussion,4
+Q34,subjective,Which social media platform is most useful professionally?,1,A,GitHub,1
+Q34,subjective,Which social media platform is most useful professionally?,1,B,Twitter,2
+Q34,subjective,Which social media platform is most useful professionally?,1,C,Reddit,3
+Q34,subjective,Which social media platform is most useful professionally?,1,D,LinkedIn,4
+Q34,subjective,Which social media platform is most useful professionally?,2,A,Reddit,1
+Q34,subjective,Which social media platform is most useful professionally?,2,B,GitHub,2
+Q34,subjective,Which social media platform is most useful professionally?,2,C,LinkedIn,3
+Q34,subjective,Which social media platform is most useful professionally?,2,D,Twitter,4
+Q34,subjective,Which social media platform is most useful professionally?,3,A,LinkedIn,1
+Q34,subjective,Which social media platform is most useful professionally?,3,B,Twitter,2
+Q34,subjective,Which social media platform is most useful professionally?,3,C,Reddit,3
+Q34,subjective,Which social media platform is most useful professionally?,3,D,GitHub,4
+Q34,subjective,Which social media platform is most useful professionally?,4,A,LinkedIn,1
+Q34,subjective,Which social media platform is most useful professionally?,4,B,Twitter,2
+Q34,subjective,Which social media platform is most useful professionally?,4,C,GitHub,3
+Q34,subjective,Which social media platform is most useful professionally?,4,D,Reddit,4
+Q34,subjective,Which social media platform is most useful professionally?,5,A,LinkedIn,1
+Q34,subjective,Which social media platform is most useful professionally?,5,B,Twitter,2
+Q34,subjective,Which social media platform is most useful professionally?,5,C,GitHub,3
+Q34,subjective,Which social media platform is most useful professionally?,5,D,Reddit,4
+Q34,subjective,Which social media platform is most useful professionally?,6,A,Twitter,1
+Q34,subjective,Which social media platform is most useful professionally?,6,B,Reddit,2
+Q34,subjective,Which social media platform is most useful professionally?,6,C,GitHub,3
+Q34,subjective,Which social media platform is most useful professionally?,6,D,LinkedIn,4
+Q34,subjective,Which social media platform is most useful professionally?,7,A,LinkedIn,1
+Q34,subjective,Which social media platform is most useful professionally?,7,B,GitHub,2
+Q34,subjective,Which social media platform is most useful professionally?,7,C,Reddit,3
+Q34,subjective,Which social media platform is most useful professionally?,7,D,Twitter,4
+Q34,subjective,Which social media platform is most useful professionally?,8,A,LinkedIn,1
+Q34,subjective,Which social media platform is most useful professionally?,8,B,GitHub,2
+Q34,subjective,Which social media platform is most useful professionally?,8,C,Reddit,3
+Q34,subjective,Which social media platform is most useful professionally?,8,D,Twitter,4
+Q34,subjective,Which social media platform is most useful professionally?,9,A,LinkedIn,1
+Q34,subjective,Which social media platform is most useful professionally?,9,B,GitHub,2
+Q34,subjective,Which social media platform is most useful professionally?,9,C,Twitter,3
+Q34,subjective,Which social media platform is most useful professionally?,9,D,Reddit,4
+Q34,subjective,Which social media platform is most useful professionally?,10,A,Reddit,1
+Q34,subjective,Which social media platform is most useful professionally?,10,B,GitHub,2
+Q34,subjective,Which social media platform is most useful professionally?,10,C,Twitter,3
+Q34,subjective,Which social media platform is most useful professionally?,10,D,LinkedIn,4
+Q34,subjective,Which social media platform is most useful professionally?,11,A,LinkedIn,1
+Q34,subjective,Which social media platform is most useful professionally?,11,B,Twitter,2
+Q34,subjective,Which social media platform is most useful professionally?,11,C,Reddit,3
+Q34,subjective,Which social media platform is most useful professionally?,11,D,GitHub,4
+Q34,subjective,Which social media platform is most useful professionally?,12,A,Reddit,1
+Q34,subjective,Which social media platform is most useful professionally?,12,B,Twitter,2
+Q34,subjective,Which social media platform is most useful professionally?,12,C,LinkedIn,3
+Q34,subjective,Which social media platform is most useful professionally?,12,D,GitHub,4
+Q35,subjective,What is the best time of day to be productive?,1,A,Midday,1
+Q35,subjective,What is the best time of day to be productive?,1,B,Evening,2
+Q35,subjective,What is the best time of day to be productive?,1,C,Night,3
+Q35,subjective,What is the best time of day to be productive?,1,D,Early morning,4
+Q35,subjective,What is the best time of day to be productive?,2,A,Evening,1
+Q35,subjective,What is the best time of day to be productive?,2,B,Night,2
+Q35,subjective,What is the best time of day to be productive?,2,C,Midday,3
+Q35,subjective,What is the best time of day to be productive?,2,D,Early morning,4
+Q35,subjective,What is the best time of day to be productive?,3,A,Midday,1
+Q35,subjective,What is the best time of day to be productive?,3,B,Night,2
+Q35,subjective,What is the best time of day to be productive?,3,C,Early morning,3
+Q35,subjective,What is the best time of day to be productive?,3,D,Evening,4
+Q35,subjective,What is the best time of day to be productive?,4,A,Midday,1
+Q35,subjective,What is the best time of day to be productive?,4,B,Early morning,2
+Q35,subjective,What is the best time of day to be productive?,4,C,Night,3
+Q35,subjective,What is the best time of day to be productive?,4,D,Evening,4
+Q35,subjective,What is the best time of day to be productive?,5,A,Early morning,1
+Q35,subjective,What is the best time of day to be productive?,5,B,Evening,2
+Q35,subjective,What is the best time of day to be productive?,5,C,Midday,3
+Q35,subjective,What is the best time of day to be productive?,5,D,Night,4
+Q35,subjective,What is the best time of day to be productive?,6,A,Night,1
+Q35,subjective,What is the best time of day to be productive?,6,B,Evening,2
+Q35,subjective,What is the best time of day to be productive?,6,C,Midday,3
+Q35,subjective,What is the best time of day to be productive?,6,D,Early morning,4
+Q35,subjective,What is the best time of day to be productive?,7,A,Midday,1
+Q35,subjective,What is the best time of day to be productive?,7,B,Night,2
+Q35,subjective,What is the best time of day to be productive?,7,C,Early morning,3
+Q35,subjective,What is the best time of day to be productive?,7,D,Evening,4
+Q35,subjective,What is the best time of day to be productive?,8,A,Early morning,1
+Q35,subjective,What is the best time of day to be productive?,8,B,Night,2
+Q35,subjective,What is the best time of day to be productive?,8,C,Evening,3
+Q35,subjective,What is the best time of day to be productive?,8,D,Midday,4
+Q35,subjective,What is the best time of day to be productive?,9,A,Evening,1
+Q35,subjective,What is the best time of day to be productive?,9,B,Night,2
+Q35,subjective,What is the best time of day to be productive?,9,C,Early morning,3
+Q35,subjective,What is the best time of day to be productive?,9,D,Midday,4
+Q35,subjective,What is the best time of day to be productive?,10,A,Night,1
+Q35,subjective,What is the best time of day to be productive?,10,B,Midday,2
+Q35,subjective,What is the best time of day to be productive?,10,C,Early morning,3
+Q35,subjective,What is the best time of day to be productive?,10,D,Evening,4
+Q35,subjective,What is the best time of day to be productive?,11,A,Evening,1
+Q35,subjective,What is the best time of day to be productive?,11,B,Early morning,2
+Q35,subjective,What is the best time of day to be productive?,11,C,Night,3
+Q35,subjective,What is the best time of day to be productive?,11,D,Midday,4
+Q35,subjective,What is the best time of day to be productive?,12,A,Midday,1
+Q35,subjective,What is the best time of day to be productive?,12,B,Night,2
+Q35,subjective,What is the best time of day to be productive?,12,C,Early morning,3
+Q35,subjective,What is the best time of day to be productive?,12,D,Evening,4
+Q36,subjective,Which movie element matters most?,1,A,Story,1
+Q36,subjective,Which movie element matters most?,1,B,Acting,2
+Q36,subjective,Which movie element matters most?,1,C,Music,3
+Q36,subjective,Which movie element matters most?,1,D,Visual effects,4
+Q36,subjective,Which movie element matters most?,2,A,Music,1
+Q36,subjective,Which movie element matters most?,2,B,Story,2
+Q36,subjective,Which movie element matters most?,2,C,Acting,3
+Q36,subjective,Which movie element matters most?,2,D,Visual effects,4
+Q36,subjective,Which movie element matters most?,3,A,Visual effects,1
+Q36,subjective,Which movie element matters most?,3,B,Music,2
+Q36,subjective,Which movie element matters most?,3,C,Story,3
+Q36,subjective,Which movie element matters most?,3,D,Acting,4
+Q36,subjective,Which movie element matters most?,4,A,Acting,1
+Q36,subjective,Which movie element matters most?,4,B,Visual effects,2
+Q36,subjective,Which movie element matters most?,4,C,Music,3
+Q36,subjective,Which movie element matters most?,4,D,Story,4
+Q36,subjective,Which movie element matters most?,5,A,Acting,1
+Q36,subjective,Which movie element matters most?,5,B,Music,2
+Q36,subjective,Which movie element matters most?,5,C,Visual effects,3
+Q36,subjective,Which movie element matters most?,5,D,Story,4
+Q36,subjective,Which movie element matters most?,6,A,Story,1
+Q36,subjective,Which movie element matters most?,6,B,Visual effects,2
+Q36,subjective,Which movie element matters most?,6,C,Acting,3
+Q36,subjective,Which movie element matters most?,6,D,Music,4
+Q36,subjective,Which movie element matters most?,7,A,Music,1
+Q36,subjective,Which movie element matters most?,7,B,Acting,2
+Q36,subjective,Which movie element matters most?,7,C,Story,3
+Q36,subjective,Which movie element matters most?,7,D,Visual effects,4
+Q36,subjective,Which movie element matters most?,8,A,Story,1
+Q36,subjective,Which movie element matters most?,8,B,Acting,2
+Q36,subjective,Which movie element matters most?,8,C,Music,3
+Q36,subjective,Which movie element matters most?,8,D,Visual effects,4
+Q36,subjective,Which movie element matters most?,9,A,Acting,1
+Q36,subjective,Which movie element matters most?,9,B,Visual effects,2
+Q36,subjective,Which movie element matters most?,9,C,Music,3
+Q36,subjective,Which movie element matters most?,9,D,Story,4
+Q36,subjective,Which movie element matters most?,10,A,Music,1
+Q36,subjective,Which movie element matters most?,10,B,Story,2
+Q36,subjective,Which movie element matters most?,10,C,Visual effects,3
+Q36,subjective,Which movie element matters most?,10,D,Acting,4
+Q36,subjective,Which movie element matters most?,11,A,Music,1
+Q36,subjective,Which movie element matters most?,11,B,Visual effects,2
+Q36,subjective,Which movie element matters most?,11,C,Acting,3
+Q36,subjective,Which movie element matters most?,11,D,Story,4
+Q36,subjective,Which movie element matters most?,12,A,Story,1
+Q36,subjective,Which movie element matters most?,12,B,Visual effects,2
+Q36,subjective,Which movie element matters most?,12,C,Acting,3
+Q36,subjective,Which movie element matters most?,12,D,Music,4
+Q37,subjective,What is the most important quality in a leader?,1,A,Experience,1
+Q37,subjective,What is the most important quality in a leader?,1,B,Integrity,2
+Q37,subjective,What is the most important quality in a leader?,1,C,Vision,3
+Q37,subjective,What is the most important quality in a leader?,1,D,Charisma,4
+Q37,subjective,What is the most important quality in a leader?,2,A,Charisma,1
+Q37,subjective,What is the most important quality in a leader?,2,B,Experience,2
+Q37,subjective,What is the most important quality in a leader?,2,C,Vision,3
+Q37,subjective,What is the most important quality in a leader?,2,D,Integrity,4
+Q37,subjective,What is the most important quality in a leader?,3,A,Charisma,1
+Q37,subjective,What is the most important quality in a leader?,3,B,Experience,2
+Q37,subjective,What is the most important quality in a leader?,3,C,Vision,3
+Q37,subjective,What is the most important quality in a leader?,3,D,Integrity,4
+Q37,subjective,What is the most important quality in a leader?,4,A,Vision,1
+Q37,subjective,What is the most important quality in a leader?,4,B,Charisma,2
+Q37,subjective,What is the most important quality in a leader?,4,C,Integrity,3
+Q37,subjective,What is the most important quality in a leader?,4,D,Experience,4
+Q37,subjective,What is the most important quality in a leader?,5,A,Vision,1
+Q37,subjective,What is the most important quality in a leader?,5,B,Integrity,2
+Q37,subjective,What is the most important quality in a leader?,5,C,Experience,3
+Q37,subjective,What is the most important quality in a leader?,5,D,Charisma,4
+Q37,subjective,What is the most important quality in a leader?,6,A,Experience,1
+Q37,subjective,What is the most important quality in a leader?,6,B,Vision,2
+Q37,subjective,What is the most important quality in a leader?,6,C,Charisma,3
+Q37,subjective,What is the most important quality in a leader?,6,D,Integrity,4
+Q37,subjective,What is the most important quality in a leader?,7,A,Experience,1
+Q37,subjective,What is the most important quality in a leader?,7,B,Charisma,2
+Q37,subjective,What is the most important quality in a leader?,7,C,Integrity,3
+Q37,subjective,What is the most important quality in a leader?,7,D,Vision,4
+Q37,subjective,What is the most important quality in a leader?,8,A,Charisma,1
+Q37,subjective,What is the most important quality in a leader?,8,B,Integrity,2
+Q37,subjective,What is the most important quality in a leader?,8,C,Vision,3
+Q37,subjective,What is the most important quality in a leader?,8,D,Experience,4
+Q37,subjective,What is the most important quality in a leader?,9,A,Charisma,1
+Q37,subjective,What is the most important quality in a leader?,9,B,Experience,2
+Q37,subjective,What is the most important quality in a leader?,9,C,Vision,3
+Q37,subjective,What is the most important quality in a leader?,9,D,Integrity,4
+Q37,subjective,What is the most important quality in a leader?,10,A,Experience,1
+Q37,subjective,What is the most important quality in a leader?,10,B,Charisma,2
+Q37,subjective,What is the most important quality in a leader?,10,C,Integrity,3
+Q37,subjective,What is the most important quality in a leader?,10,D,Vision,4
+Q37,subjective,What is the most important quality in a leader?,11,A,Integrity,1
+Q37,subjective,What is the most important quality in a leader?,11,B,Charisma,2
+Q37,subjective,What is the most important quality in a leader?,11,C,Experience,3
+Q37,subjective,What is the most important quality in a leader?,11,D,Vision,4
+Q37,subjective,What is the most important quality in a leader?,12,A,Experience,1
+Q37,subjective,What is the most important quality in a leader?,12,B,Charisma,2
+Q37,subjective,What is the most important quality in a leader?,12,C,Vision,3
+Q37,subjective,What is the most important quality in a leader?,12,D,Integrity,4
+Q38,subjective,Which feature is most important in a smartphone?,1,A,Processing speed,1
+Q38,subjective,Which feature is most important in a smartphone?,1,B,Battery life,2
+Q38,subjective,Which feature is most important in a smartphone?,1,C,Camera quality,3
+Q38,subjective,Which feature is most important in a smartphone?,1,D,Display quality,4
+Q38,subjective,Which feature is most important in a smartphone?,2,A,Display quality,1
+Q38,subjective,Which feature is most important in a smartphone?,2,B,Processing speed,2
+Q38,subjective,Which feature is most important in a smartphone?,2,C,Battery life,3
+Q38,subjective,Which feature is most important in a smartphone?,2,D,Camera quality,4
+Q38,subjective,Which feature is most important in a smartphone?,3,A,Camera quality,1
+Q38,subjective,Which feature is most important in a smartphone?,3,B,Battery life,2
+Q38,subjective,Which feature is most important in a smartphone?,3,C,Processing speed,3
+Q38,subjective,Which feature is most important in a smartphone?,3,D,Display quality,4
+Q38,subjective,Which feature is most important in a smartphone?,4,A,Display quality,1
+Q38,subjective,Which feature is most important in a smartphone?,4,B,Battery life,2
+Q38,subjective,Which feature is most important in a smartphone?,4,C,Camera quality,3
+Q38,subjective,Which feature is most important in a smartphone?,4,D,Processing speed,4
+Q38,subjective,Which feature is most important in a smartphone?,5,A,Processing speed,1
+Q38,subjective,Which feature is most important in a smartphone?,5,B,Display quality,2
+Q38,subjective,Which feature is most important in a smartphone?,5,C,Battery life,3
+Q38,subjective,Which feature is most important in a smartphone?,5,D,Camera quality,4
+Q38,subjective,Which feature is most important in a smartphone?,6,A,Camera quality,1
+Q38,subjective,Which feature is most important in a smartphone?,6,B,Battery life,2
+Q38,subjective,Which feature is most important in a smartphone?,6,C,Processing speed,3
+Q38,subjective,Which feature is most important in a smartphone?,6,D,Display quality,4
+Q38,subjective,Which feature is most important in a smartphone?,7,A,Processing speed,1
+Q38,subjective,Which feature is most important in a smartphone?,7,B,Display quality,2
+Q38,subjective,Which feature is most important in a smartphone?,7,C,Battery life,3
+Q38,subjective,Which feature is most important in a smartphone?,7,D,Camera quality,4
+Q38,subjective,Which feature is most important in a smartphone?,8,A,Camera quality,1
+Q38,subjective,Which feature is most important in a smartphone?,8,B,Processing speed,2
+Q38,subjective,Which feature is most important in a smartphone?,8,C,Display quality,3
+Q38,subjective,Which feature is most important in a smartphone?,8,D,Battery life,4
+Q38,subjective,Which feature is most important in a smartphone?,9,A,Display quality,1
+Q38,subjective,Which feature is most important in a smartphone?,9,B,Processing speed,2
+Q38,subjective,Which feature is most important in a smartphone?,9,C,Battery life,3
+Q38,subjective,Which feature is most important in a smartphone?,9,D,Camera quality,4
+Q38,subjective,Which feature is most important in a smartphone?,10,A,Display quality,1
+Q38,subjective,Which feature is most important in a smartphone?,10,B,Battery life,2
+Q38,subjective,Which feature is most important in a smartphone?,10,C,Camera quality,3
+Q38,subjective,Which feature is most important in a smartphone?,10,D,Processing speed,4
+Q38,subjective,Which feature is most important in a smartphone?,11,A,Display quality,1
+Q38,subjective,Which feature is most important in a smartphone?,11,B,Processing speed,2
+Q38,subjective,Which feature is most important in a smartphone?,11,C,Camera quality,3
+Q38,subjective,Which feature is most important in a smartphone?,11,D,Battery life,4
+Q38,subjective,Which feature is most important in a smartphone?,12,A,Camera quality,1
+Q38,subjective,Which feature is most important in a smartphone?,12,B,Processing speed,2
+Q38,subjective,Which feature is most important in a smartphone?,12,C,Display quality,3
+Q38,subjective,Which feature is most important in a smartphone?,12,D,Battery life,4
+Q39,subjective,What matters most in a friendship?,1,A,Support,1
+Q39,subjective,What matters most in a friendship?,1,B,Time spent,2
+Q39,subjective,What matters most in a friendship?,1,C,Trust,3
+Q39,subjective,What matters most in a friendship?,1,D,Shared interests,4
+Q39,subjective,What matters most in a friendship?,2,A,Time spent,1
+Q39,subjective,What matters most in a friendship?,2,B,Trust,2
+Q39,subjective,What matters most in a friendship?,2,C,Support,3
+Q39,subjective,What matters most in a friendship?,2,D,Shared interests,4
+Q39,subjective,What matters most in a friendship?,3,A,Support,1
+Q39,subjective,What matters most in a friendship?,3,B,Trust,2
+Q39,subjective,What matters most in a friendship?,3,C,Time spent,3
+Q39,subjective,What matters most in a friendship?,3,D,Shared interests,4
+Q39,subjective,What matters most in a friendship?,4,A,Time spent,1
+Q39,subjective,What matters most in a friendship?,4,B,Shared interests,2
+Q39,subjective,What matters most in a friendship?,4,C,Support,3
+Q39,subjective,What matters most in a friendship?,4,D,Trust,4
+Q39,subjective,What matters most in a friendship?,5,A,Trust,1
+Q39,subjective,What matters most in a friendship?,5,B,Shared interests,2
+Q39,subjective,What matters most in a friendship?,5,C,Time spent,3
+Q39,subjective,What matters most in a friendship?,5,D,Support,4
+Q39,subjective,What matters most in a friendship?,6,A,Trust,1
+Q39,subjective,What matters most in a friendship?,6,B,Shared interests,2
+Q39,subjective,What matters most in a friendship?,6,C,Support,3
+Q39,subjective,What matters most in a friendship?,6,D,Time spent,4
+Q39,subjective,What matters most in a friendship?,7,A,Time spent,1
+Q39,subjective,What matters most in a friendship?,7,B,Trust,2
+Q39,subjective,What matters most in a friendship?,7,C,Support,3
+Q39,subjective,What matters most in a friendship?,7,D,Shared interests,4
+Q39,subjective,What matters most in a friendship?,8,A,Trust,1
+Q39,subjective,What matters most in a friendship?,8,B,Time spent,2
+Q39,subjective,What matters most in a friendship?,8,C,Shared interests,3
+Q39,subjective,What matters most in a friendship?,8,D,Support,4
+Q39,subjective,What matters most in a friendship?,9,A,Shared interests,1
+Q39,subjective,What matters most in a friendship?,9,B,Trust,2
+Q39,subjective,What matters most in a friendship?,9,C,Support,3
+Q39,subjective,What matters most in a friendship?,9,D,Time spent,4
+Q39,subjective,What matters most in a friendship?,10,A,Shared interests,1
+Q39,subjective,What matters most in a friendship?,10,B,Trust,2
+Q39,subjective,What matters most in a friendship?,10,C,Support,3
+Q39,subjective,What matters most in a friendship?,10,D,Time spent,4
+Q39,subjective,What matters most in a friendship?,11,A,Trust,1
+Q39,subjective,What matters most in a friendship?,11,B,Support,2
+Q39,subjective,What matters most in a friendship?,11,C,Shared interests,3
+Q39,subjective,What matters most in a friendship?,11,D,Time spent,4
+Q39,subjective,What matters most in a friendship?,12,A,Time spent,1
+Q39,subjective,What matters most in a friendship?,12,B,Shared interests,2
+Q39,subjective,What matters most in a friendship?,12,C,Support,3
+Q39,subjective,What matters most in a friendship?,12,D,Trust,4
+Q40,subjective,Which learning style works best?,1,A,Auditory,1
+Q40,subjective,Which learning style works best?,1,B,Kinesthetic,2
+Q40,subjective,Which learning style works best?,1,C,Visual,3
+Q40,subjective,Which learning style works best?,1,D,Reading/Writing,4
+Q40,subjective,Which learning style works best?,2,A,Reading/Writing,1
+Q40,subjective,Which learning style works best?,2,B,Visual,2
+Q40,subjective,Which learning style works best?,2,C,Auditory,3
+Q40,subjective,Which learning style works best?,2,D,Kinesthetic,4
+Q40,subjective,Which learning style works best?,3,A,Auditory,1
+Q40,subjective,Which learning style works best?,3,B,Visual,2
+Q40,subjective,Which learning style works best?,3,C,Reading/Writing,3
+Q40,subjective,Which learning style works best?,3,D,Kinesthetic,4
+Q40,subjective,Which learning style works best?,4,A,Visual,1
+Q40,subjective,Which learning style works best?,4,B,Auditory,2
+Q40,subjective,Which learning style works best?,4,C,Kinesthetic,3
+Q40,subjective,Which learning style works best?,4,D,Reading/Writing,4
+Q40,subjective,Which learning style works best?,5,A,Reading/Writing,1
+Q40,subjective,Which learning style works best?,5,B,Kinesthetic,2
+Q40,subjective,Which learning style works best?,5,C,Visual,3
+Q40,subjective,Which learning style works best?,5,D,Auditory,4
+Q40,subjective,Which learning style works best?,6,A,Reading/Writing,1
+Q40,subjective,Which learning style works best?,6,B,Kinesthetic,2
+Q40,subjective,Which learning style works best?,6,C,Auditory,3
+Q40,subjective,Which learning style works best?,6,D,Visual,4
+Q40,subjective,Which learning style works best?,7,A,Kinesthetic,1
+Q40,subjective,Which learning style works best?,7,B,Reading/Writing,2
+Q40,subjective,Which learning style works best?,7,C,Visual,3
+Q40,subjective,Which learning style works best?,7,D,Auditory,4
+Q40,subjective,Which learning style works best?,8,A,Reading/Writing,1
+Q40,subjective,Which learning style works best?,8,B,Visual,2
+Q40,subjective,Which learning style works best?,8,C,Auditory,3
+Q40,subjective,Which learning style works best?,8,D,Kinesthetic,4
+Q40,subjective,Which learning style works best?,9,A,Visual,1
+Q40,subjective,Which learning style works best?,9,B,Kinesthetic,2
+Q40,subjective,Which learning style works best?,9,C,Auditory,3
+Q40,subjective,Which learning style works best?,9,D,Reading/Writing,4
+Q40,subjective,Which learning style works best?,10,A,Visual,1
+Q40,subjective,Which learning style works best?,10,B,Reading/Writing,2
+Q40,subjective,Which learning style works best?,10,C,Auditory,3
+Q40,subjective,Which learning style works best?,10,D,Kinesthetic,4
+Q40,subjective,Which learning style works best?,11,A,Kinesthetic,1
+Q40,subjective,Which learning style works best?,11,B,Auditory,2
+Q40,subjective,Which learning style works best?,11,C,Reading/Writing,3
+Q40,subjective,Which learning style works best?,11,D,Visual,4
+Q40,subjective,Which learning style works best?,12,A,Reading/Writing,1
+Q40,subjective,Which learning style works best?,12,B,Kinesthetic,2
+Q40,subjective,Which learning style works best?,12,C,Auditory,3
+Q40,subjective,Which learning style works best?,12,D,Visual,4
+Q41,ethical,Who should receive limited medical treatment first?,1,A,Youngest patient,1
+Q41,ethical,Who should receive limited medical treatment first?,1,B,Highest chance of survival,2
+Q41,ethical,Who should receive limited medical treatment first?,1,C,Sickest patient,3
+Q41,ethical,Who should receive limited medical treatment first?,1,D,First-come first-served,4
+Q41,ethical,Who should receive limited medical treatment first?,2,A,Highest chance of survival,1
+Q41,ethical,Who should receive limited medical treatment first?,2,B,Youngest patient,2
+Q41,ethical,Who should receive limited medical treatment first?,2,C,First-come first-served,3
+Q41,ethical,Who should receive limited medical treatment first?,2,D,Sickest patient,4
+Q41,ethical,Who should receive limited medical treatment first?,3,A,Youngest patient,1
+Q41,ethical,Who should receive limited medical treatment first?,3,B,Highest chance of survival,2
+Q41,ethical,Who should receive limited medical treatment first?,3,C,First-come first-served,3
+Q41,ethical,Who should receive limited medical treatment first?,3,D,Sickest patient,4
+Q41,ethical,Who should receive limited medical treatment first?,4,A,Sickest patient,1
+Q41,ethical,Who should receive limited medical treatment first?,4,B,Highest chance of survival,2
+Q41,ethical,Who should receive limited medical treatment first?,4,C,Youngest patient,3
+Q41,ethical,Who should receive limited medical treatment first?,4,D,First-come first-served,4
+Q41,ethical,Who should receive limited medical treatment first?,5,A,Youngest patient,1
+Q41,ethical,Who should receive limited medical treatment first?,5,B,Sickest patient,2
+Q41,ethical,Who should receive limited medical treatment first?,5,C,First-come first-served,3
+Q41,ethical,Who should receive limited medical treatment first?,5,D,Highest chance of survival,4
+Q41,ethical,Who should receive limited medical treatment first?,6,A,Sickest patient,1
+Q41,ethical,Who should receive limited medical treatment first?,6,B,First-come first-served,2
+Q41,ethical,Who should receive limited medical treatment first?,6,C,Youngest patient,3
+Q41,ethical,Who should receive limited medical treatment first?,6,D,Highest chance of survival,4
+Q41,ethical,Who should receive limited medical treatment first?,7,A,Youngest patient,1
+Q41,ethical,Who should receive limited medical treatment first?,7,B,Sickest patient,2
+Q41,ethical,Who should receive limited medical treatment first?,7,C,Highest chance of survival,3
+Q41,ethical,Who should receive limited medical treatment first?,7,D,First-come first-served,4
+Q41,ethical,Who should receive limited medical treatment first?,8,A,First-come first-served,1
+Q41,ethical,Who should receive limited medical treatment first?,8,B,Highest chance of survival,2
+Q41,ethical,Who should receive limited medical treatment first?,8,C,Sickest patient,3
+Q41,ethical,Who should receive limited medical treatment first?,8,D,Youngest patient,4
+Q41,ethical,Who should receive limited medical treatment first?,9,A,Highest chance of survival,1
+Q41,ethical,Who should receive limited medical treatment first?,9,B,First-come first-served,2
+Q41,ethical,Who should receive limited medical treatment first?,9,C,Youngest patient,3
+Q41,ethical,Who should receive limited medical treatment first?,9,D,Sickest patient,4
+Q41,ethical,Who should receive limited medical treatment first?,10,A,Sickest patient,1
+Q41,ethical,Who should receive limited medical treatment first?,10,B,Highest chance of survival,2
+Q41,ethical,Who should receive limited medical treatment first?,10,C,Youngest patient,3
+Q41,ethical,Who should receive limited medical treatment first?,10,D,First-come first-served,4
+Q41,ethical,Who should receive limited medical treatment first?,11,A,First-come first-served,1
+Q41,ethical,Who should receive limited medical treatment first?,11,B,Highest chance of survival,2
+Q41,ethical,Who should receive limited medical treatment first?,11,C,Youngest patient,3
+Q41,ethical,Who should receive limited medical treatment first?,11,D,Sickest patient,4
+Q41,ethical,Who should receive limited medical treatment first?,12,A,Sickest patient,1
+Q41,ethical,Who should receive limited medical treatment first?,12,B,First-come first-served,2
+Q41,ethical,Who should receive limited medical treatment first?,12,C,Youngest patient,3
+Q41,ethical,Who should receive limited medical treatment first?,12,D,Highest chance of survival,4
+Q42,ethical,Which value should guide content moderation?,1,A,User safety,1
+Q42,ethical,Which value should guide content moderation?,1,B,Freedom of speech,2
+Q42,ethical,Which value should guide content moderation?,1,C,Platform reputation,3
+Q42,ethical,Which value should guide content moderation?,1,D,Legal compliance,4
+Q42,ethical,Which value should guide content moderation?,2,A,User safety,1
+Q42,ethical,Which value should guide content moderation?,2,B,Legal compliance,2
+Q42,ethical,Which value should guide content moderation?,2,C,Freedom of speech,3
+Q42,ethical,Which value should guide content moderation?,2,D,Platform reputation,4
+Q42,ethical,Which value should guide content moderation?,3,A,Platform reputation,1
+Q42,ethical,Which value should guide content moderation?,3,B,Freedom of speech,2
+Q42,ethical,Which value should guide content moderation?,3,C,Legal compliance,3
+Q42,ethical,Which value should guide content moderation?,3,D,User safety,4
+Q42,ethical,Which value should guide content moderation?,4,A,Legal compliance,1
+Q42,ethical,Which value should guide content moderation?,4,B,User safety,2
+Q42,ethical,Which value should guide content moderation?,4,C,Freedom of speech,3
+Q42,ethical,Which value should guide content moderation?,4,D,Platform reputation,4
+Q42,ethical,Which value should guide content moderation?,5,A,User safety,1
+Q42,ethical,Which value should guide content moderation?,5,B,Freedom of speech,2
+Q42,ethical,Which value should guide content moderation?,5,C,Platform reputation,3
+Q42,ethical,Which value should guide content moderation?,5,D,Legal compliance,4
+Q42,ethical,Which value should guide content moderation?,6,A,Freedom of speech,1
+Q42,ethical,Which value should guide content moderation?,6,B,User safety,2
+Q42,ethical,Which value should guide content moderation?,6,C,Legal compliance,3
+Q42,ethical,Which value should guide content moderation?,6,D,Platform reputation,4
+Q42,ethical,Which value should guide content moderation?,7,A,User safety,1
+Q42,ethical,Which value should guide content moderation?,7,B,Legal compliance,2
+Q42,ethical,Which value should guide content moderation?,7,C,Freedom of speech,3
+Q42,ethical,Which value should guide content moderation?,7,D,Platform reputation,4
+Q42,ethical,Which value should guide content moderation?,8,A,Platform reputation,1
+Q42,ethical,Which value should guide content moderation?,8,B,Freedom of speech,2
+Q42,ethical,Which value should guide content moderation?,8,C,User safety,3
+Q42,ethical,Which value should guide content moderation?,8,D,Legal compliance,4
+Q42,ethical,Which value should guide content moderation?,9,A,Freedom of speech,1
+Q42,ethical,Which value should guide content moderation?,9,B,User safety,2
+Q42,ethical,Which value should guide content moderation?,9,C,Platform reputation,3
+Q42,ethical,Which value should guide content moderation?,9,D,Legal compliance,4
+Q42,ethical,Which value should guide content moderation?,10,A,Freedom of speech,1
+Q42,ethical,Which value should guide content moderation?,10,B,Legal compliance,2
+Q42,ethical,Which value should guide content moderation?,10,C,User safety,3
+Q42,ethical,Which value should guide content moderation?,10,D,Platform reputation,4
+Q42,ethical,Which value should guide content moderation?,11,A,User safety,1
+Q42,ethical,Which value should guide content moderation?,11,B,Legal compliance,2
+Q42,ethical,Which value should guide content moderation?,11,C,Freedom of speech,3
+Q42,ethical,Which value should guide content moderation?,11,D,Platform reputation,4
+Q42,ethical,Which value should guide content moderation?,12,A,Legal compliance,1
+Q42,ethical,Which value should guide content moderation?,12,B,Freedom of speech,2
+Q42,ethical,Which value should guide content moderation?,12,C,Platform reputation,3
+Q42,ethical,Which value should guide content moderation?,12,D,User safety,4
+Q43,ethical,What should companies prioritize during layoffs?,1,A,Long-term stability,1
+Q43,ethical,What should companies prioritize during layoffs?,1,B,Protecting profits,2
+Q43,ethical,What should companies prioritize during layoffs?,1,C,Employee well-being,3
+Q43,ethical,What should companies prioritize during layoffs?,1,D,Shareholder expectations,4
+Q43,ethical,What should companies prioritize during layoffs?,2,A,Long-term stability,1
+Q43,ethical,What should companies prioritize during layoffs?,2,B,Shareholder expectations,2
+Q43,ethical,What should companies prioritize during layoffs?,2,C,Employee well-being,3
+Q43,ethical,What should companies prioritize during layoffs?,2,D,Protecting profits,4
+Q43,ethical,What should companies prioritize during layoffs?,3,A,Protecting profits,1
+Q43,ethical,What should companies prioritize during layoffs?,3,B,Long-term stability,2
+Q43,ethical,What should companies prioritize during layoffs?,3,C,Shareholder expectations,3
+Q43,ethical,What should companies prioritize during layoffs?,3,D,Employee well-being,4
+Q43,ethical,What should companies prioritize during layoffs?,4,A,Long-term stability,1
+Q43,ethical,What should companies prioritize during layoffs?,4,B,Protecting profits,2
+Q43,ethical,What should companies prioritize during layoffs?,4,C,Shareholder expectations,3
+Q43,ethical,What should companies prioritize during layoffs?,4,D,Employee well-being,4
+Q43,ethical,What should companies prioritize during layoffs?,5,A,Protecting profits,1
+Q43,ethical,What should companies prioritize during layoffs?,5,B,Long-term stability,2
+Q43,ethical,What should companies prioritize during layoffs?,5,C,Shareholder expectations,3
+Q43,ethical,What should companies prioritize during layoffs?,5,D,Employee well-being,4
+Q43,ethical,What should companies prioritize during layoffs?,6,A,Long-term stability,1
+Q43,ethical,What should companies prioritize during layoffs?,6,B,Shareholder expectations,2
+Q43,ethical,What should companies prioritize during layoffs?,6,C,Employee well-being,3
+Q43,ethical,What should companies prioritize during layoffs?,6,D,Protecting profits,4
+Q43,ethical,What should companies prioritize during layoffs?,7,A,Protecting profits,1
+Q43,ethical,What should companies prioritize during layoffs?,7,B,Employee well-being,2
+Q43,ethical,What should companies prioritize during layoffs?,7,C,Long-term stability,3
+Q43,ethical,What should companies prioritize during layoffs?,7,D,Shareholder expectations,4
+Q43,ethical,What should companies prioritize during layoffs?,8,A,Long-term stability,1
+Q43,ethical,What should companies prioritize during layoffs?,8,B,Protecting profits,2
+Q43,ethical,What should companies prioritize during layoffs?,8,C,Shareholder expectations,3
+Q43,ethical,What should companies prioritize during layoffs?,8,D,Employee well-being,4
+Q43,ethical,What should companies prioritize during layoffs?,9,A,Employee well-being,1
+Q43,ethical,What should companies prioritize during layoffs?,9,B,Shareholder expectations,2
+Q43,ethical,What should companies prioritize during layoffs?,9,C,Protecting profits,3
+Q43,ethical,What should companies prioritize during layoffs?,9,D,Long-term stability,4
+Q43,ethical,What should companies prioritize during layoffs?,10,A,Shareholder expectations,1
+Q43,ethical,What should companies prioritize during layoffs?,10,B,Employee well-being,2
+Q43,ethical,What should companies prioritize during layoffs?,10,C,Protecting profits,3
+Q43,ethical,What should companies prioritize during layoffs?,10,D,Long-term stability,4
+Q43,ethical,What should companies prioritize during layoffs?,11,A,Shareholder expectations,1
+Q43,ethical,What should companies prioritize during layoffs?,11,B,Long-term stability,2
+Q43,ethical,What should companies prioritize during layoffs?,11,C,Protecting profits,3
+Q43,ethical,What should companies prioritize during layoffs?,11,D,Employee well-being,4
+Q43,ethical,What should companies prioritize during layoffs?,12,A,Shareholder expectations,1
+Q43,ethical,What should companies prioritize during layoffs?,12,B,Protecting profits,2
+Q43,ethical,What should companies prioritize during layoffs?,12,C,Employee well-being,3
+Q43,ethical,What should companies prioritize during layoffs?,12,D,Long-term stability,4
+Q44,ethical,Who is responsible for biased AI decisions?,1,A,Data providers,1
+Q44,ethical,Who is responsible for biased AI decisions?,1,B,Model developers,2
+Q44,ethical,Who is responsible for biased AI decisions?,1,C,Deploying company,3
+Q44,ethical,Who is responsible for biased AI decisions?,1,D,End users,4
+Q44,ethical,Who is responsible for biased AI decisions?,2,A,Data providers,1
+Q44,ethical,Who is responsible for biased AI decisions?,2,B,Deploying company,2
+Q44,ethical,Who is responsible for biased AI decisions?,2,C,End users,3
+Q44,ethical,Who is responsible for biased AI decisions?,2,D,Model developers,4
+Q44,ethical,Who is responsible for biased AI decisions?,3,A,Data providers,1
+Q44,ethical,Who is responsible for biased AI decisions?,3,B,End users,2
+Q44,ethical,Who is responsible for biased AI decisions?,3,C,Model developers,3
+Q44,ethical,Who is responsible for biased AI decisions?,3,D,Deploying company,4
+Q44,ethical,Who is responsible for biased AI decisions?,4,A,Data providers,1
+Q44,ethical,Who is responsible for biased AI decisions?,4,B,End users,2
+Q44,ethical,Who is responsible for biased AI decisions?,4,C,Deploying company,3
+Q44,ethical,Who is responsible for biased AI decisions?,4,D,Model developers,4
+Q44,ethical,Who is responsible for biased AI decisions?,5,A,Deploying company,1
+Q44,ethical,Who is responsible for biased AI decisions?,5,B,End users,2
+Q44,ethical,Who is responsible for biased AI decisions?,5,C,Model developers,3
+Q44,ethical,Who is responsible for biased AI decisions?,5,D,Data providers,4
+Q44,ethical,Who is responsible for biased AI decisions?,6,A,Model developers,1
+Q44,ethical,Who is responsible for biased AI decisions?,6,B,Data providers,2
+Q44,ethical,Who is responsible for biased AI decisions?,6,C,End users,3
+Q44,ethical,Who is responsible for biased AI decisions?,6,D,Deploying company,4
+Q44,ethical,Who is responsible for biased AI decisions?,7,A,Data providers,1
+Q44,ethical,Who is responsible for biased AI decisions?,7,B,Deploying company,2
+Q44,ethical,Who is responsible for biased AI decisions?,7,C,End users,3
+Q44,ethical,Who is responsible for biased AI decisions?,7,D,Model developers,4
+Q44,ethical,Who is responsible for biased AI decisions?,8,A,Deploying company,1
+Q44,ethical,Who is responsible for biased AI decisions?,8,B,End users,2
+Q44,ethical,Who is responsible for biased AI decisions?,8,C,Data providers,3
+Q44,ethical,Who is responsible for biased AI decisions?,8,D,Model developers,4
+Q44,ethical,Who is responsible for biased AI decisions?,9,A,Model developers,1
+Q44,ethical,Who is responsible for biased AI decisions?,9,B,Data providers,2
+Q44,ethical,Who is responsible for biased AI decisions?,9,C,End users,3
+Q44,ethical,Who is responsible for biased AI decisions?,9,D,Deploying company,4
+Q44,ethical,Who is responsible for biased AI decisions?,10,A,End users,1
+Q44,ethical,Who is responsible for biased AI decisions?,10,B,Deploying company,2
+Q44,ethical,Who is responsible for biased AI decisions?,10,C,Data providers,3
+Q44,ethical,Who is responsible for biased AI decisions?,10,D,Model developers,4
+Q44,ethical,Who is responsible for biased AI decisions?,11,A,Model developers,1
+Q44,ethical,Who is responsible for biased AI decisions?,11,B,End users,2
+Q44,ethical,Who is responsible for biased AI decisions?,11,C,Data providers,3
+Q44,ethical,Who is responsible for biased AI decisions?,11,D,Deploying company,4
+Q44,ethical,Who is responsible for biased AI decisions?,12,A,End users,1
+Q44,ethical,Who is responsible for biased AI decisions?,12,B,Model developers,2
+Q44,ethical,Who is responsible for biased AI decisions?,12,C,Data providers,3
+Q44,ethical,Who is responsible for biased AI decisions?,12,D,Deploying company,4
+Q45,ethical,What is the most ethical approach to data collection?,1,A,Collect with consent,1
+Q45,ethical,What is the most ethical approach to data collection?,1,B,Allow opt-out,2
+Q45,ethical,What is the most ethical approach to data collection?,1,C,Collect minimal data,3
+Q45,ethical,What is the most ethical approach to data collection?,1,D,Anonymize all data,4
+Q45,ethical,What is the most ethical approach to data collection?,2,A,Anonymize all data,1
+Q45,ethical,What is the most ethical approach to data collection?,2,B,Collect minimal data,2
+Q45,ethical,What is the most ethical approach to data collection?,2,C,Collect with consent,3
+Q45,ethical,What is the most ethical approach to data collection?,2,D,Allow opt-out,4
+Q45,ethical,What is the most ethical approach to data collection?,3,A,Collect minimal data,1
+Q45,ethical,What is the most ethical approach to data collection?,3,B,Anonymize all data,2
+Q45,ethical,What is the most ethical approach to data collection?,3,C,Collect with consent,3
+Q45,ethical,What is the most ethical approach to data collection?,3,D,Allow opt-out,4
+Q45,ethical,What is the most ethical approach to data collection?,4,A,Anonymize all data,1
+Q45,ethical,What is the most ethical approach to data collection?,4,B,Allow opt-out,2
+Q45,ethical,What is the most ethical approach to data collection?,4,C,Collect with consent,3
+Q45,ethical,What is the most ethical approach to data collection?,4,D,Collect minimal data,4
+Q45,ethical,What is the most ethical approach to data collection?,5,A,Collect with consent,1
+Q45,ethical,What is the most ethical approach to data collection?,5,B,Allow opt-out,2
+Q45,ethical,What is the most ethical approach to data collection?,5,C,Collect minimal data,3
+Q45,ethical,What is the most ethical approach to data collection?,5,D,Anonymize all data,4
+Q45,ethical,What is the most ethical approach to data collection?,6,A,Collect with consent,1
+Q45,ethical,What is the most ethical approach to data collection?,6,B,Allow opt-out,2
+Q45,ethical,What is the most ethical approach to data collection?,6,C,Collect minimal data,3
+Q45,ethical,What is the most ethical approach to data collection?,6,D,Anonymize all data,4
+Q45,ethical,What is the most ethical approach to data collection?,7,A,Collect minimal data,1
+Q45,ethical,What is the most ethical approach to data collection?,7,B,Collect with consent,2
+Q45,ethical,What is the most ethical approach to data collection?,7,C,Allow opt-out,3
+Q45,ethical,What is the most ethical approach to data collection?,7,D,Anonymize all data,4
+Q45,ethical,What is the most ethical approach to data collection?,8,A,Collect minimal data,1
+Q45,ethical,What is the most ethical approach to data collection?,8,B,Allow opt-out,2
+Q45,ethical,What is the most ethical approach to data collection?,8,C,Anonymize all data,3
+Q45,ethical,What is the most ethical approach to data collection?,8,D,Collect with consent,4
+Q45,ethical,What is the most ethical approach to data collection?,9,A,Collect with consent,1
+Q45,ethical,What is the most ethical approach to data collection?,9,B,Collect minimal data,2
+Q45,ethical,What is the most ethical approach to data collection?,9,C,Anonymize all data,3
+Q45,ethical,What is the most ethical approach to data collection?,9,D,Allow opt-out,4
+Q45,ethical,What is the most ethical approach to data collection?,10,A,Anonymize all data,1
+Q45,ethical,What is the most ethical approach to data collection?,10,B,Allow opt-out,2
+Q45,ethical,What is the most ethical approach to data collection?,10,C,Collect minimal data,3
+Q45,ethical,What is the most ethical approach to data collection?,10,D,Collect with consent,4
+Q45,ethical,What is the most ethical approach to data collection?,11,A,Anonymize all data,1
+Q45,ethical,What is the most ethical approach to data collection?,11,B,Allow opt-out,2
+Q45,ethical,What is the most ethical approach to data collection?,11,C,Collect with consent,3
+Q45,ethical,What is the most ethical approach to data collection?,11,D,Collect minimal data,4
+Q45,ethical,What is the most ethical approach to data collection?,12,A,Collect with consent,1
+Q45,ethical,What is the most ethical approach to data collection?,12,B,Anonymize all data,2
+Q45,ethical,What is the most ethical approach to data collection?,12,C,Allow opt-out,3
+Q45,ethical,What is the most ethical approach to data collection?,12,D,Collect minimal data,4
+Q46,ethical,Which principle matters most in journalism?,1,A,Accuracy,1
+Q46,ethical,Which principle matters most in journalism?,1,B,Audience engagement,2
+Q46,ethical,Which principle matters most in journalism?,1,C,Speed,3
+Q46,ethical,Which principle matters most in journalism?,1,D,Objectivity,4
+Q46,ethical,Which principle matters most in journalism?,2,A,Objectivity,1
+Q46,ethical,Which principle matters most in journalism?,2,B,Accuracy,2
+Q46,ethical,Which principle matters most in journalism?,2,C,Speed,3
+Q46,ethical,Which principle matters most in journalism?,2,D,Audience engagement,4
+Q46,ethical,Which principle matters most in journalism?,3,A,Accuracy,1
+Q46,ethical,Which principle matters most in journalism?,3,B,Objectivity,2
+Q46,ethical,Which principle matters most in journalism?,3,C,Audience engagement,3
+Q46,ethical,Which principle matters most in journalism?,3,D,Speed,4
+Q46,ethical,Which principle matters most in journalism?,4,A,Audience engagement,1
+Q46,ethical,Which principle matters most in journalism?,4,B,Speed,2
+Q46,ethical,Which principle matters most in journalism?,4,C,Objectivity,3
+Q46,ethical,Which principle matters most in journalism?,4,D,Accuracy,4
+Q46,ethical,Which principle matters most in journalism?,5,A,Audience engagement,1
+Q46,ethical,Which principle matters most in journalism?,5,B,Speed,2
+Q46,ethical,Which principle matters most in journalism?,5,C,Accuracy,3
+Q46,ethical,Which principle matters most in journalism?,5,D,Objectivity,4
+Q46,ethical,Which principle matters most in journalism?,6,A,Accuracy,1
+Q46,ethical,Which principle matters most in journalism?,6,B,Objectivity,2
+Q46,ethical,Which principle matters most in journalism?,6,C,Speed,3
+Q46,ethical,Which principle matters most in journalism?,6,D,Audience engagement,4
+Q46,ethical,Which principle matters most in journalism?,7,A,Objectivity,1
+Q46,ethical,Which principle matters most in journalism?,7,B,Accuracy,2
+Q46,ethical,Which principle matters most in journalism?,7,C,Speed,3
+Q46,ethical,Which principle matters most in journalism?,7,D,Audience engagement,4
+Q46,ethical,Which principle matters most in journalism?,8,A,Accuracy,1
+Q46,ethical,Which principle matters most in journalism?,8,B,Speed,2
+Q46,ethical,Which principle matters most in journalism?,8,C,Objectivity,3
+Q46,ethical,Which principle matters most in journalism?,8,D,Audience engagement,4
+Q46,ethical,Which principle matters most in journalism?,9,A,Accuracy,1
+Q46,ethical,Which principle matters most in journalism?,9,B,Speed,2
+Q46,ethical,Which principle matters most in journalism?,9,C,Audience engagement,3
+Q46,ethical,Which principle matters most in journalism?,9,D,Objectivity,4
+Q46,ethical,Which principle matters most in journalism?,10,A,Audience engagement,1
+Q46,ethical,Which principle matters most in journalism?,10,B,Speed,2
+Q46,ethical,Which principle matters most in journalism?,10,C,Objectivity,3
+Q46,ethical,Which principle matters most in journalism?,10,D,Accuracy,4
+Q46,ethical,Which principle matters most in journalism?,11,A,Objectivity,1
+Q46,ethical,Which principle matters most in journalism?,11,B,Audience engagement,2
+Q46,ethical,Which principle matters most in journalism?,11,C,Speed,3
+Q46,ethical,Which principle matters most in journalism?,11,D,Accuracy,4
+Q46,ethical,Which principle matters most in journalism?,12,A,Audience engagement,1
+Q46,ethical,Which principle matters most in journalism?,12,B,Accuracy,2
+Q46,ethical,Which principle matters most in journalism?,12,C,Speed,3
+Q46,ethical,Which principle matters most in journalism?,12,D,Objectivity,4
+Q47,ethical,How should misinformation be addressed?,1,A,User education,1
+Q47,ethical,How should misinformation be addressed?,1,B,Downranking,2
+Q47,ethical,How should misinformation be addressed?,1,C,Fact-check labels,3
+Q47,ethical,How should misinformation be addressed?,1,D,Content removal,4
+Q47,ethical,How should misinformation be addressed?,2,A,Content removal,1
+Q47,ethical,How should misinformation be addressed?,2,B,User education,2
+Q47,ethical,How should misinformation be addressed?,2,C,Fact-check labels,3
+Q47,ethical,How should misinformation be addressed?,2,D,Downranking,4
+Q47,ethical,How should misinformation be addressed?,3,A,Content removal,1
+Q47,ethical,How should misinformation be addressed?,3,B,User education,2
+Q47,ethical,How should misinformation be addressed?,3,C,Downranking,3
+Q47,ethical,How should misinformation be addressed?,3,D,Fact-check labels,4
+Q47,ethical,How should misinformation be addressed?,4,A,User education,1
+Q47,ethical,How should misinformation be addressed?,4,B,Content removal,2
+Q47,ethical,How should misinformation be addressed?,4,C,Fact-check labels,3
+Q47,ethical,How should misinformation be addressed?,4,D,Downranking,4
+Q47,ethical,How should misinformation be addressed?,5,A,Content removal,1
+Q47,ethical,How should misinformation be addressed?,5,B,Fact-check labels,2
+Q47,ethical,How should misinformation be addressed?,5,C,User education,3
+Q47,ethical,How should misinformation be addressed?,5,D,Downranking,4
+Q47,ethical,How should misinformation be addressed?,6,A,Fact-check labels,1
+Q47,ethical,How should misinformation be addressed?,6,B,Content removal,2
+Q47,ethical,How should misinformation be addressed?,6,C,User education,3
+Q47,ethical,How should misinformation be addressed?,6,D,Downranking,4
+Q47,ethical,How should misinformation be addressed?,7,A,User education,1
+Q47,ethical,How should misinformation be addressed?,7,B,Fact-check labels,2
+Q47,ethical,How should misinformation be addressed?,7,C,Downranking,3
+Q47,ethical,How should misinformation be addressed?,7,D,Content removal,4
+Q47,ethical,How should misinformation be addressed?,8,A,Fact-check labels,1
+Q47,ethical,How should misinformation be addressed?,8,B,Content removal,2
+Q47,ethical,How should misinformation be addressed?,8,C,User education,3
+Q47,ethical,How should misinformation be addressed?,8,D,Downranking,4
+Q47,ethical,How should misinformation be addressed?,9,A,Downranking,1
+Q47,ethical,How should misinformation be addressed?,9,B,Fact-check labels,2
+Q47,ethical,How should misinformation be addressed?,9,C,User education,3
+Q47,ethical,How should misinformation be addressed?,9,D,Content removal,4
+Q47,ethical,How should misinformation be addressed?,10,A,Fact-check labels,1
+Q47,ethical,How should misinformation be addressed?,10,B,Downranking,2
+Q47,ethical,How should misinformation be addressed?,10,C,User education,3
+Q47,ethical,How should misinformation be addressed?,10,D,Content removal,4
+Q47,ethical,How should misinformation be addressed?,11,A,Content removal,1
+Q47,ethical,How should misinformation be addressed?,11,B,User education,2
+Q47,ethical,How should misinformation be addressed?,11,C,Downranking,3
+Q47,ethical,How should misinformation be addressed?,11,D,Fact-check labels,4
+Q47,ethical,How should misinformation be addressed?,12,A,User education,1
+Q47,ethical,How should misinformation be addressed?,12,B,Content removal,2
+Q47,ethical,How should misinformation be addressed?,12,C,Fact-check labels,3
+Q47,ethical,How should misinformation be addressed?,12,D,Downranking,4
+Q48,ethical,How should autonomous vehicles handle accidents?,1,A,Minimize harm,1
+Q48,ethical,How should autonomous vehicles handle accidents?,1,B,Randomize outcomes,2
+Q48,ethical,How should autonomous vehicles handle accidents?,1,C,Follow laws,3
+Q48,ethical,How should autonomous vehicles handle accidents?,1,D,Protect passengers,4
+Q48,ethical,How should autonomous vehicles handle accidents?,2,A,Minimize harm,1
+Q48,ethical,How should autonomous vehicles handle accidents?,2,B,Randomize outcomes,2
+Q48,ethical,How should autonomous vehicles handle accidents?,2,C,Protect passengers,3
+Q48,ethical,How should autonomous vehicles handle accidents?,2,D,Follow laws,4
+Q48,ethical,How should autonomous vehicles handle accidents?,3,A,Protect passengers,1
+Q48,ethical,How should autonomous vehicles handle accidents?,3,B,Randomize outcomes,2
+Q48,ethical,How should autonomous vehicles handle accidents?,3,C,Follow laws,3
+Q48,ethical,How should autonomous vehicles handle accidents?,3,D,Minimize harm,4
+Q48,ethical,How should autonomous vehicles handle accidents?,4,A,Minimize harm,1
+Q48,ethical,How should autonomous vehicles handle accidents?,4,B,Randomize outcomes,2
+Q48,ethical,How should autonomous vehicles handle accidents?,4,C,Protect passengers,3
+Q48,ethical,How should autonomous vehicles handle accidents?,4,D,Follow laws,4
+Q48,ethical,How should autonomous vehicles handle accidents?,5,A,Protect passengers,1
+Q48,ethical,How should autonomous vehicles handle accidents?,5,B,Randomize outcomes,2
+Q48,ethical,How should autonomous vehicles handle accidents?,5,C,Minimize harm,3
+Q48,ethical,How should autonomous vehicles handle accidents?,5,D,Follow laws,4
+Q48,ethical,How should autonomous vehicles handle accidents?,6,A,Protect passengers,1
+Q48,ethical,How should autonomous vehicles handle accidents?,6,B,Randomize outcomes,2
+Q48,ethical,How should autonomous vehicles handle accidents?,6,C,Follow laws,3
+Q48,ethical,How should autonomous vehicles handle accidents?,6,D,Minimize harm,4
+Q48,ethical,How should autonomous vehicles handle accidents?,7,A,Minimize harm,1
+Q48,ethical,How should autonomous vehicles handle accidents?,7,B,Protect passengers,2
+Q48,ethical,How should autonomous vehicles handle accidents?,7,C,Follow laws,3
+Q48,ethical,How should autonomous vehicles handle accidents?,7,D,Randomize outcomes,4
+Q48,ethical,How should autonomous vehicles handle accidents?,8,A,Randomize outcomes,1
+Q48,ethical,How should autonomous vehicles handle accidents?,8,B,Follow laws,2
+Q48,ethical,How should autonomous vehicles handle accidents?,8,C,Protect passengers,3
+Q48,ethical,How should autonomous vehicles handle accidents?,8,D,Minimize harm,4
+Q48,ethical,How should autonomous vehicles handle accidents?,9,A,Follow laws,1
+Q48,ethical,How should autonomous vehicles handle accidents?,9,B,Protect passengers,2
+Q48,ethical,How should autonomous vehicles handle accidents?,9,C,Minimize harm,3
+Q48,ethical,How should autonomous vehicles handle accidents?,9,D,Randomize outcomes,4
+Q48,ethical,How should autonomous vehicles handle accidents?,10,A,Protect passengers,1
+Q48,ethical,How should autonomous vehicles handle accidents?,10,B,Follow laws,2
+Q48,ethical,How should autonomous vehicles handle accidents?,10,C,Minimize harm,3
+Q48,ethical,How should autonomous vehicles handle accidents?,10,D,Randomize outcomes,4
+Q48,ethical,How should autonomous vehicles handle accidents?,11,A,Follow laws,1
+Q48,ethical,How should autonomous vehicles handle accidents?,11,B,Randomize outcomes,2
+Q48,ethical,How should autonomous vehicles handle accidents?,11,C,Minimize harm,3
+Q48,ethical,How should autonomous vehicles handle accidents?,11,D,Protect passengers,4
+Q48,ethical,How should autonomous vehicles handle accidents?,12,A,Minimize harm,1
+Q48,ethical,How should autonomous vehicles handle accidents?,12,B,Randomize outcomes,2
+Q48,ethical,How should autonomous vehicles handle accidents?,12,C,Follow laws,3
+Q48,ethical,How should autonomous vehicles handle accidents?,12,D,Protect passengers,4
+Q49,ethical,What should guide AI deployment?,1,A,Regulation,1
+Q49,ethical,What should guide AI deployment?,1,B,Social impact,2
+Q49,ethical,What should guide AI deployment?,1,C,Market demand,3
+Q49,ethical,What should guide AI deployment?,1,D,Technical capability,4
+Q49,ethical,What should guide AI deployment?,2,A,Social impact,1
+Q49,ethical,What should guide AI deployment?,2,B,Technical capability,2
+Q49,ethical,What should guide AI deployment?,2,C,Regulation,3
+Q49,ethical,What should guide AI deployment?,2,D,Market demand,4
+Q49,ethical,What should guide AI deployment?,3,A,Regulation,1
+Q49,ethical,What should guide AI deployment?,3,B,Technical capability,2
+Q49,ethical,What should guide AI deployment?,3,C,Social impact,3
+Q49,ethical,What should guide AI deployment?,3,D,Market demand,4
+Q49,ethical,What should guide AI deployment?,4,A,Market demand,1
+Q49,ethical,What should guide AI deployment?,4,B,Technical capability,2
+Q49,ethical,What should guide AI deployment?,4,C,Regulation,3
+Q49,ethical,What should guide AI deployment?,4,D,Social impact,4
+Q49,ethical,What should guide AI deployment?,5,A,Social impact,1
+Q49,ethical,What should guide AI deployment?,5,B,Market demand,2
+Q49,ethical,What should guide AI deployment?,5,C,Regulation,3
+Q49,ethical,What should guide AI deployment?,5,D,Technical capability,4
+Q49,ethical,What should guide AI deployment?,6,A,Market demand,1
+Q49,ethical,What should guide AI deployment?,6,B,Technical capability,2
+Q49,ethical,What should guide AI deployment?,6,C,Regulation,3
+Q49,ethical,What should guide AI deployment?,6,D,Social impact,4
+Q49,ethical,What should guide AI deployment?,7,A,Technical capability,1
+Q49,ethical,What should guide AI deployment?,7,B,Social impact,2
+Q49,ethical,What should guide AI deployment?,7,C,Regulation,3
+Q49,ethical,What should guide AI deployment?,7,D,Market demand,4
+Q49,ethical,What should guide AI deployment?,8,A,Social impact,1
+Q49,ethical,What should guide AI deployment?,8,B,Technical capability,2
+Q49,ethical,What should guide AI deployment?,8,C,Market demand,3
+Q49,ethical,What should guide AI deployment?,8,D,Regulation,4
+Q49,ethical,What should guide AI deployment?,9,A,Market demand,1
+Q49,ethical,What should guide AI deployment?,9,B,Social impact,2
+Q49,ethical,What should guide AI deployment?,9,C,Regulation,3
+Q49,ethical,What should guide AI deployment?,9,D,Technical capability,4
+Q49,ethical,What should guide AI deployment?,10,A,Technical capability,1
+Q49,ethical,What should guide AI deployment?,10,B,Social impact,2
+Q49,ethical,What should guide AI deployment?,10,C,Market demand,3
+Q49,ethical,What should guide AI deployment?,10,D,Regulation,4
+Q49,ethical,What should guide AI deployment?,11,A,Market demand,1
+Q49,ethical,What should guide AI deployment?,11,B,Technical capability,2
+Q49,ethical,What should guide AI deployment?,11,C,Social impact,3
+Q49,ethical,What should guide AI deployment?,11,D,Regulation,4
+Q49,ethical,What should guide AI deployment?,12,A,Market demand,1
+Q49,ethical,What should guide AI deployment?,12,B,Technical capability,2
+Q49,ethical,What should guide AI deployment?,12,C,Regulation,3
+Q49,ethical,What should guide AI deployment?,12,D,Social impact,4
+Q50,ethical,What is most important in healthcare allocation?,1,A,Efficiency,1
+Q50,ethical,What is most important in healthcare allocation?,1,B,Cost reduction,2
+Q50,ethical,What is most important in healthcare allocation?,1,C,Equity,3
+Q50,ethical,What is most important in healthcare allocation?,1,D,Innovation,4
+Q50,ethical,What is most important in healthcare allocation?,2,A,Innovation,1
+Q50,ethical,What is most important in healthcare allocation?,2,B,Efficiency,2
+Q50,ethical,What is most important in healthcare allocation?,2,C,Cost reduction,3
+Q50,ethical,What is most important in healthcare allocation?,2,D,Equity,4
+Q50,ethical,What is most important in healthcare allocation?,3,A,Cost reduction,1
+Q50,ethical,What is most important in healthcare allocation?,3,B,Efficiency,2
+Q50,ethical,What is most important in healthcare allocation?,3,C,Innovation,3
+Q50,ethical,What is most important in healthcare allocation?,3,D,Equity,4
+Q50,ethical,What is most important in healthcare allocation?,4,A,Equity,1
+Q50,ethical,What is most important in healthcare allocation?,4,B,Innovation,2
+Q50,ethical,What is most important in healthcare allocation?,4,C,Cost reduction,3
+Q50,ethical,What is most important in healthcare allocation?,4,D,Efficiency,4
+Q50,ethical,What is most important in healthcare allocation?,5,A,Equity,1
+Q50,ethical,What is most important in healthcare allocation?,5,B,Innovation,2
+Q50,ethical,What is most important in healthcare allocation?,5,C,Efficiency,3
+Q50,ethical,What is most important in healthcare allocation?,5,D,Cost reduction,4
+Q50,ethical,What is most important in healthcare allocation?,6,A,Equity,1
+Q50,ethical,What is most important in healthcare allocation?,6,B,Efficiency,2
+Q50,ethical,What is most important in healthcare allocation?,6,C,Innovation,3
+Q50,ethical,What is most important in healthcare allocation?,6,D,Cost reduction,4
+Q50,ethical,What is most important in healthcare allocation?,7,A,Efficiency,1
+Q50,ethical,What is most important in healthcare allocation?,7,B,Equity,2
+Q50,ethical,What is most important in healthcare allocation?,7,C,Innovation,3
+Q50,ethical,What is most important in healthcare allocation?,7,D,Cost reduction,4
+Q50,ethical,What is most important in healthcare allocation?,8,A,Cost reduction,1
+Q50,ethical,What is most important in healthcare allocation?,8,B,Innovation,2
+Q50,ethical,What is most important in healthcare allocation?,8,C,Equity,3
+Q50,ethical,What is most important in healthcare allocation?,8,D,Efficiency,4
+Q50,ethical,What is most important in healthcare allocation?,9,A,Innovation,1
+Q50,ethical,What is most important in healthcare allocation?,9,B,Equity,2
+Q50,ethical,What is most important in healthcare allocation?,9,C,Efficiency,3
+Q50,ethical,What is most important in healthcare allocation?,9,D,Cost reduction,4
+Q50,ethical,What is most important in healthcare allocation?,10,A,Equity,1
+Q50,ethical,What is most important in healthcare allocation?,10,B,Innovation,2
+Q50,ethical,What is most important in healthcare allocation?,10,C,Cost reduction,3
+Q50,ethical,What is most important in healthcare allocation?,10,D,Efficiency,4
+Q50,ethical,What is most important in healthcare allocation?,11,A,Cost reduction,1
+Q50,ethical,What is most important in healthcare allocation?,11,B,Innovation,2
+Q50,ethical,What is most important in healthcare allocation?,11,C,Efficiency,3
+Q50,ethical,What is most important in healthcare allocation?,11,D,Equity,4
+Q50,ethical,What is most important in healthcare allocation?,12,A,Equity,1
+Q50,ethical,What is most important in healthcare allocation?,12,B,Cost reduction,2
+Q50,ethical,What is most important in healthcare allocation?,12,C,Innovation,3
+Q50,ethical,What is most important in healthcare allocation?,12,D,Efficiency,4

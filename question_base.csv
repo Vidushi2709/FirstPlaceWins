@@ -1,0 +1,54 @@
+question_id,task_type,question_text,opt_1,opt_2,opt_3,opt_4
+Q01,objective_high,What is the capital of Australia?,Sydney,Melbourne,Canberra,Perth
+Q02,objective_high,Which planet is known as the Red Planet?,Venus,Mars,Jupiter,Saturn
+Q03,objective_high,What does HTTP stand for?,HyperText Transfer Protocol,High Text Transmission Process,Hyperlink Transfer Program,Host Text Transport Protocol
+Q04,objective_high,Which gas do plants primarily absorb during photosynthesis?,Oxygen,Carbon dioxide,Nitrogen,Hydrogen
+Q05,objective_high,Who wrote the play Romeo and Juliet?,William Shakespeare,Christopher Marlowe,Jane Austen,Charles Dickens
+Q06,objective_high,What is the chemical symbol for gold?,Au,Ag,Fe,Go
+Q07,objective_high,Which continent is the Sahara Desert located on?,Asia,Africa,Australia,South America
+Q08,objective_high,What is the largest mammal on Earth?,African elephant,Blue whale,Giraffe,Hippopotamus
+Q09,objective_high,How many degrees are in a right angle?,45,90,120,180
+Q10,objective_high,Which language is primarily used for Android app development?,Java,Swift,Kotlin,Ruby
+Q11,objective_high,What is the boiling point of water at sea level?,90°C,100°C,110°C,120°C
+Q12,objective_high,Which organ pumps blood through the body?,Liver,Lungs,Heart,Kidneys
+Q13,objective_high,What is the hardest natural substance?,Iron,Diamond,Quartz,Granite
+Q14,objective_high,Who painted the Mona Lisa?,Michelangelo,Van Gogh,Da Vinci,Picasso
+Q15,objective_high,What is the square root of 144?,10,11,12,13
+Q16,objective_high,Which element has atomic number 1?,Helium,Oxygen,Hydrogen,Carbon
+Q17,objective_high,What is the largest ocean?,Atlantic,Indian,Arctic,Pacific
+Q18,objective_high,What year did World War II end?,1943,1944,1945,1946
+Q19,objective_high,Which device measures temperature?,Barometer,Thermometer,Hygrometer,Anemometer
+Q20,objective_high,Which country is home to the Great Barrier Reef?,USA,South Africa,Australia,Indonesia
+
+Q21,objective_low,Which factor most directly influences climate sensitivity?,Cloud feedbacks,Volcanic activity,Earth’s orbit,Solar flares
+Q22,objective_low,What most limits neural network generalization?,Model depth,Overfitting,Training time,Hardware speed
+Q23,objective_low,Which factor most affects battery degradation?,Charge cycles,Screen brightness,Processor speed,App usage
+Q24,objective_low,What contributes most to inflation in the short term?,Money supply,Consumer confidence,Productivity gains,Population growth
+Q25,objective_low,What most improves model robustness?,More data,Regularization,Ensembling,Faster optimization
+Q26,objective_low,What primarily determines internet latency?,Distance to server,Browser type,Screen resolution,Keyboard speed
+Q27,objective_low,What factor most affects CPU performance?,Clock speed,Cache size,Core count,Instruction set
+Q28,objective_low,What drives protein folding?,Hydrogen bonds,Hydrophobic effects,Ionic charges,Van der Waals forces
+Q29,objective_low,What limits Moore’s Law today?,Economic cost,Quantum tunneling,Chip design,Software inefficiency
+Q30,objective_low,What affects memory recall most?,Repetition,Emotion,Context,Sleep
+
+Q31,subjective,Which programming language is best for beginners?,Python,Java,C++,JavaScript
+Q32,subjective,What factor matters most for job satisfaction?,Salary,Work-life balance,Company culture,Career growth
+Q33,subjective,Which study method is most effective?,Practice problems,Watching lectures,Reading textbooks,Group discussion
+Q34,subjective,Which social media platform is most useful professionally?,LinkedIn,Twitter,GitHub,Reddit
+Q35,subjective,What is the best time of day to be productive?,Early morning,Midday,Evening,Night
+Q36,subjective,Which movie element matters most?,Story,Acting,Visual effects,Music
+Q37,subjective,What is the most important quality in a leader?,Integrity,Vision,Experience,Charisma
+Q38,subjective,Which feature is most important in a smartphone?,Camera quality,Battery life,Processing speed,Display quality
+Q39,subjective,What matters most in a friendship?,Trust,Shared interests,Time spent,Support
+Q40,subjective,Which learning style works best?,Visual,Auditory,Reading/Writing,Kinesthetic
+
+Q41,ethical,Who should receive limited medical treatment first?,Youngest patient,Sickest patient,Highest chance of survival,First-come first-served
+Q42,ethical,Which value should guide content moderation?,Freedom of speech,User safety,Legal compliance,Platform reputation
+Q43,ethical,What should companies prioritize during layoffs?,Protecting profits,Employee well-being,Long-term stability,Shareholder expectations
+Q44,ethical,Who is responsible for biased AI decisions?,Model developers,Deploying company,Data providers,End users
+Q45,ethical,What is the most ethical approach to data collection?,Collect minimal data,Collect with consent,Anonymize all data,Allow opt-out
+Q46,ethical,Which principle matters most in journalism?,Accuracy,Speed,Objectivity,Audience engagement
+Q47,ethical,How should misinformation be addressed?,Content removal,Fact-check labels,Downranking,User education
+Q48,ethical,How should autonomous vehicles handle accidents?,Minimize harm,Protect passengers,Follow laws,Randomize outcomes
+Q49,ethical,What should guide AI deployment?,Technical capability,Social impact,Market demand,Regulation
+Q50,ethical,What is most important in healthcare allocation?,Efficiency,Equity,Cost reduction,Innovation

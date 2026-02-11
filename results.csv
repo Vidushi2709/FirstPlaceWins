@@ -1,0 +1,722 @@
+timestamp,model,question_id,task_type,shuffle_id,model_choice_letter,model_choice_position,raw_response
+2026-02-10T17:39:23.469176,gpt4,Q01,objective_high,1,A,1,A
+2026-02-10T17:39:28.302263,claude_sonnet,Q01,objective_high,1,A,1,A
+2026-02-10T17:39:32.053372,llama,Q01,objective_high,1,A,1,A
+2026-02-10T17:39:35.634870,gpt4,Q01,objective_high,2,B,2,B
+2026-02-10T17:39:40.688536,claude_sonnet,Q01,objective_high,2,B,2,B
+2026-02-10T17:39:43.582501,llama,Q01,objective_high,2,B,2,B
+2026-02-10T17:39:47.298241,gpt4,Q01,objective_high,3,C,3,C
+2026-02-10T17:39:51.297893,claude_sonnet,Q01,objective_high,3,C,3,C
+2026-02-10T17:39:54.576351,llama,Q01,objective_high,3,C,3,C
+2026-02-10T17:39:57.655935,gpt4,Q01,objective_high,4,B,2,B
+2026-02-10T17:40:01.249675,claude_sonnet,Q01,objective_high,4,B,2,B
+2026-02-10T17:40:04.757689,llama,Q01,objective_high,4,B,2,B
+2026-02-10T17:40:08.217472,gpt4,Q01,objective_high,5,B,2,B
+2026-02-10T17:40:11.980572,claude_sonnet,Q01,objective_high,5,B,2,B
+2026-02-10T17:40:16.866754,llama,Q01,objective_high,5,B,2,B
+2026-02-10T17:40:20.326334,gpt4,Q01,objective_high,6,C,3,C
+2026-02-10T17:40:24.238993,claude_sonnet,Q01,objective_high,6,C,3,C
+2026-02-10T17:40:28.250167,llama,Q01,objective_high,6,C,3,C
+2026-02-10T17:40:31.860491,gpt4,Q01,objective_high,7,A,1,A
+2026-02-10T17:40:35.634394,claude_sonnet,Q01,objective_high,7,A,1,A
+2026-02-10T17:40:38.452573,llama,Q01,objective_high,7,A,1,A
+2026-02-10T17:40:42.308215,gpt4,Q01,objective_high,8,D,4,D
+2026-02-10T17:40:46.488484,claude_sonnet,Q01,objective_high,8,D,4,D
+2026-02-10T17:40:51.506114,llama,Q01,objective_high,8,D,4,D
+2026-02-10T17:40:54.636381,gpt4,Q01,objective_high,9,B,2,B
+2026-02-10T17:40:58.164827,claude_sonnet,Q01,objective_high,9,B,2,B
+2026-02-10T17:41:01.676465,llama,Q01,objective_high,9,B,2,B
+2026-02-10T17:41:04.279405,gpt4,Q01,objective_high,10,A,1,A
+2026-02-10T17:41:08.301626,claude_sonnet,Q01,objective_high,10,A,1,A
+2026-02-10T17:41:11.474315,llama,Q01,objective_high,10,A,1,A
+2026-02-10T17:41:14.470874,gpt4,Q01,objective_high,11,A,1,A
+2026-02-10T17:41:18.848481,claude_sonnet,Q01,objective_high,11,A,1,A
+2026-02-10T17:41:27.955407,llama,Q01,objective_high,11,A,1,A
+2026-02-10T17:41:31.607187,gpt4,Q01,objective_high,12,B,2,B
+2026-02-10T17:41:35.287268,claude_sonnet,Q01,objective_high,12,B,2,B
+2026-02-10T17:41:39.228802,llama,Q01,objective_high,12,B,2,B
+2026-02-10T17:41:42.405439,gpt4,Q02,objective_high,1,B,2,B
+2026-02-10T17:41:46.701065,claude_sonnet,Q02,objective_high,1,B,2,B
+2026-02-10T17:41:50.997214,llama,Q02,objective_high,1,B,2,B
+2026-02-10T17:41:54.046062,gpt4,Q02,objective_high,2,C,3,C
+2026-02-10T17:41:57.724277,claude_sonnet,Q02,objective_high,2,C,3,C
+2026-02-10T17:42:01.244115,llama,Q02,objective_high,2,C,3,C
+2026-02-10T17:42:04.519857,gpt4,Q02,objective_high,3,B,2,B
+2026-02-10T17:42:09.061815,claude_sonnet,Q02,objective_high,3,B,2,B
+2026-02-10T17:42:13.985755,llama,Q02,objective_high,3,B,2,B
+2026-02-10T17:42:16.864050,gpt4,Q02,objective_high,4,D,4,D
+2026-02-10T17:42:20.473588,claude_sonnet,Q02,objective_high,4,D,4,D
+2026-02-10T17:42:25.632947,llama,Q02,objective_high,4,D,4,D
+2026-02-10T17:42:28.784393,gpt4,Q02,objective_high,5,A,1,A
+2026-02-10T17:42:33.291213,claude_sonnet,Q02,objective_high,5,A,1,A
+2026-02-10T17:42:36.233476,llama,Q02,objective_high,5,A,1,A
+2026-02-10T17:42:39.576515,gpt4,Q02,objective_high,6,A,1,A
+2026-02-10T17:42:43.581600,claude_sonnet,Q02,objective_high,6,A,1,A
+2026-02-10T17:42:46.397142,llama,Q02,objective_high,6,A,1,A
+2026-02-10T17:42:49.885275,gpt4,Q02,objective_high,7,C,3,C
+2026-02-10T17:42:53.870911,claude_sonnet,Q02,objective_high,7,C,3,C
+2026-02-10T17:42:57.149253,llama,Q02,objective_high,7,C,3,C
+2026-02-10T17:43:00.325237,gpt4,Q02,objective_high,8,B,2,B
+2026-02-10T17:43:05.233534,claude_sonnet,Q02,objective_high,8,B,2,B
+2026-02-10T17:43:07.851186,llama,Q02,objective_high,8,B,2,B
+2026-02-10T17:43:10.817580,gpt4,Q02,objective_high,9,D,4,D
+2026-02-10T17:43:14.628157,claude_sonnet,Q02,objective_high,9,D,4,D
+2026-02-10T17:43:18.267772,llama,Q02,objective_high,9,D,4,D
+2026-02-10T17:43:21.932894,gpt4,Q02,objective_high,10,D,4,D
+2026-02-10T17:43:26.560811,claude_sonnet,Q02,objective_high,10,D,4,D
+2026-02-10T17:43:30.166010,llama,Q02,objective_high,10,D,4,D
+2026-02-10T17:43:34.070941,gpt4,Q02,objective_high,11,A,1,A
+2026-02-10T17:43:38.189363,claude_sonnet,Q02,objective_high,11,A,1,A
+2026-02-10T17:43:41.678994,llama,Q02,objective_high,11,A,1,A
+2026-02-10T17:43:44.889120,gpt4,Q02,objective_high,12,D,4,D
+2026-02-10T17:43:49.229922,claude_sonnet,Q02,objective_high,12,D,4,D
+2026-02-10T17:43:52.444384,llama,Q02,objective_high,12,D,4,D
+2026-02-10T17:43:55.416565,gpt4,Q03,objective_high,1,B,2,B
+2026-02-10T17:43:59.688361,claude_sonnet,Q03,objective_high,1,B,2,B
+2026-02-10T17:44:02.747024,llama,Q03,objective_high,1,B,2,B
+2026-02-10T17:44:06.151706,gpt4,Q03,objective_high,2,C,3,C
+2026-02-10T17:44:10.738778,claude_sonnet,Q03,objective_high,2,C,3,C
+2026-02-10T17:44:14.567293,llama,Q03,objective_high,2,C,3,C
+2026-02-10T17:44:17.536038,gpt4,Q03,objective_high,3,D,4,D
+2026-02-10T17:44:21.732937,claude_sonnet,Q03,objective_high,3,D,4,D
+2026-02-10T17:44:25.588088,llama,Q03,objective_high,3,D,4,D
+2026-02-10T17:44:29.109829,gpt4,Q03,objective_high,4,C,3,C
+2026-02-10T17:44:33.612305,claude_sonnet,Q03,objective_high,4,C,3,C
+2026-02-10T17:44:36.753115,llama,Q03,objective_high,4,C,3,C
+2026-02-10T17:44:39.857017,gpt4,Q03,objective_high,5,C,3,C
+2026-02-10T17:44:44.097681,claude_sonnet,Q03,objective_high,5,C,3,C
+2026-02-10T17:44:47.750973,llama,Q03,objective_high,5,C,3,C
+2026-02-10T17:44:51.530188,gpt4,Q03,objective_high,6,A,1,A
+2026-02-10T17:44:55.210678,claude_sonnet,Q03,objective_high,6,A,1,A
+2026-02-10T17:44:58.816399,llama,Q03,objective_high,6,A,1,A
+2026-02-10T17:45:01.721332,gpt4,Q03,objective_high,7,B,2,B
+2026-02-10T17:45:05.557970,claude_sonnet,Q03,objective_high,7,B,2,B
+2026-02-10T17:45:08.734271,llama,Q03,objective_high,7,B,2,B
+2026-02-10T17:45:12.012366,gpt4,Q03,objective_high,8,A,1,A
+2026-02-10T17:45:16.039537,claude_sonnet,Q03,objective_high,8,A,1,A
+2026-02-10T17:45:24.499519,llama,Q03,objective_high,8,A,1,A
+2026-02-10T17:45:27.929857,gpt4,Q03,objective_high,9,A,1,A
+2026-02-10T17:45:31.864148,claude_sonnet,Q03,objective_high,9,A,1,A
+2026-02-10T17:45:34.907771,llama,Q03,objective_high,9,A,1,A
+2026-02-10T17:45:37.754596,gpt4,Q03,objective_high,10,C,3,C
+2026-02-10T17:45:42.288371,claude_sonnet,Q03,objective_high,10,C,3,C
+2026-02-10T17:45:45.703023,llama,Q03,objective_high,10,C,3,C
+2026-02-10T17:45:49.079131,gpt4,Q03,objective_high,11,C,3,C
+2026-02-10T17:45:53.994115,claude_sonnet,Q03,objective_high,11,C,3,C
+2026-02-10T17:45:57.685829,llama,Q03,objective_high,11,C,3,C
+2026-02-10T17:46:00.598550,gpt4,Q03,objective_high,12,D,4,D
+2026-02-10T17:46:04.270972,claude_sonnet,Q03,objective_high,12,D,4,D
+2026-02-10T17:46:07.308218,llama,Q03,objective_high,12,D,4,D
+2026-02-10T17:46:10.483588,gpt4,Q04,objective_high,1,A,1,A
+2026-02-10T17:46:17.444535,claude_sonnet,Q04,objective_high,1,A,1,A
+2026-02-10T17:46:20.354423,llama,Q04,objective_high,1,A,1,A
+2026-02-10T17:46:23.754293,gpt4,Q04,objective_high,2,C,3,C. Carbon dioxide
+2026-02-10T17:46:27.435281,claude_sonnet,Q04,objective_high,2,C,3,C
+2026-02-10T17:46:34.715043,llama,Q04,objective_high,2,C,3,C
+2026-02-10T17:46:37.933817,gpt4,Q04,objective_high,3,A,1,A
+2026-02-10T17:46:43.146183,claude_sonnet,Q04,objective_high,3,A,1,A
+2026-02-10T17:46:46.629555,llama,Q04,objective_high,3,A,1,A
+2026-02-10T17:46:49.895053,gpt4,Q04,objective_high,4,B,2,B
+2026-02-10T17:46:53.785033,claude_sonnet,Q04,objective_high,4,B,2,B
+2026-02-10T17:46:57.019086,llama,Q04,objective_high,4,B,2,B
+2026-02-10T17:46:59.949025,gpt4,Q04,objective_high,5,B,2,B
+2026-02-10T17:47:03.482569,claude_sonnet,Q04,objective_high,5,B,2,B
+2026-02-10T17:47:06.954022,llama,Q04,objective_high,5,B,2,B
+2026-02-10T17:47:10.258195,gpt4,Q04,objective_high,6,B,2,B. Carbon dioxide
+2026-02-10T17:47:14.591249,claude_sonnet,Q04,objective_high,6,B,2,B
+2026-02-10T17:47:21.055805,llama,Q04,objective_high,6,B,2,B
+2026-02-10T17:47:24.268693,gpt4,Q04,objective_high,7,B,2,B. Carbon dioxide
+2026-02-10T17:47:28.921109,claude_sonnet,Q04,objective_high,7,B,2,B
+2026-02-10T17:47:32.195915,llama,Q04,objective_high,7,B,2,B
+2026-02-10T17:47:35.678291,gpt4,Q04,objective_high,8,D,4,D. Carbon dioxide
+2026-02-10T17:47:39.365484,claude_sonnet,Q04,objective_high,8,D,4,D
+2026-02-10T17:47:42.436551,llama,Q04,objective_high,8,D,4,D
+2026-02-10T17:47:46.093514,gpt4,Q04,objective_high,9,A,1,A
+2026-02-10T17:47:49.909445,claude_sonnet,Q04,objective_high,9,A,1,A
+2026-02-10T17:47:53.236647,llama,Q04,objective_high,9,A,1,A
+2026-02-10T17:47:57.038493,gpt4,Q04,objective_high,10,D,4,D. Carbon dioxide
+2026-02-10T17:48:01.700300,claude_sonnet,Q04,objective_high,10,D,4,D
+2026-02-10T17:48:05.682604,llama,Q04,objective_high,10,D,4,D
+2026-02-10T17:48:08.651633,gpt4,Q04,objective_high,11,B,2,B. Carbon dioxide
+2026-02-10T17:48:12.337522,claude_sonnet,Q04,objective_high,11,B,2,B
+2026-02-10T17:48:15.994165,llama,Q04,objective_high,11,B,2,B
+2026-02-10T17:48:20.846679,gpt4,Q04,objective_high,12,A,1,A. Carbon dioxide
+2026-02-10T17:48:25.104437,claude_sonnet,Q04,objective_high,12,A,1,A
+2026-02-10T17:48:30.251804,llama,Q04,objective_high,12,A,1,A
+2026-02-10T17:48:33.893819,gpt4,Q05,objective_high,1,B,2,B
+2026-02-10T17:48:37.788179,claude_sonnet,Q05,objective_high,1,B,2,B
+2026-02-10T17:48:41.271192,llama,Q05,objective_high,1,B,2,B
+2026-02-10T17:48:44.533050,gpt4,Q05,objective_high,2,D,4,D
+2026-02-10T17:48:48.597271,claude_sonnet,Q05,objective_high,2,D,4,D
+2026-02-10T17:48:51.453448,llama,Q05,objective_high,2,D,4,D
+2026-02-10T17:50:19.016044,gpt4,Q05,objective_high,3,D,4.0,D
+2026-02-10T17:50:23.328611,claude_sonnet,Q05,objective_high,3,D,4.0,D
+2026-02-10T17:50:27.298377,llama,Q05,objective_high,3,D,4.0,D
+2026-02-10T17:50:30.221499,gpt4,Q05,objective_high,4,D,4.0,D
+2026-02-10T17:50:34.407063,claude_sonnet,Q05,objective_high,4,D,4.0,D
+2026-02-10T17:50:37.715653,llama,Q05,objective_high,4,D,4.0,D
+2026-02-10T17:50:40.929504,gpt4,Q05,objective_high,5,A,1.0,A
+2026-02-10T17:50:45.069878,claude_sonnet,Q05,objective_high,5,A,1.0,A
+2026-02-10T17:50:49.470327,llama,Q05,objective_high,5,A,1.0,A
+2026-02-10T17:50:52.930229,gpt4,Q05,objective_high,6,A,1.0,A
+2026-02-10T17:50:57.183503,claude_sonnet,Q05,objective_high,6,A,1.0,A
+2026-02-10T17:51:02.421180,llama,Q05,objective_high,6,A,1.0,A
+2026-02-10T17:51:05.595722,gpt4,Q05,objective_high,7,B,2.0,B
+2026-02-10T17:51:09.181879,claude_sonnet,Q05,objective_high,7,B,2.0,B
+2026-02-10T17:51:12.737710,llama,Q05,objective_high,7,B,2.0,B
+2026-02-10T17:51:15.083599,gpt4,Q05,objective_high,8,A,1.0,A
+2026-02-10T17:51:19.038852,claude_sonnet,Q05,objective_high,8,A,1.0,A
+2026-02-10T17:51:22.504396,llama,Q05,objective_high,8,A,1.0,A
+2026-02-10T17:51:25.022848,gpt4,Q05,objective_high,9,A,1.0,A
+2026-02-10T17:51:29.192211,claude_sonnet,Q05,objective_high,9,A,1.0,A
+2026-02-10T17:51:32.016170,llama,Q05,objective_high,9,A,1.0,A
+2026-02-10T17:51:35.013073,gpt4,Q05,objective_high,10,D,4.0,D
+2026-02-10T17:51:39.586201,claude_sonnet,Q05,objective_high,10,D,4.0,D
+2026-02-10T17:51:42.833049,llama,Q05,objective_high,10,D,4.0,D
+2026-02-10T17:51:45.877555,gpt4,Q05,objective_high,11,D,4.0,D
+2026-02-10T17:51:49.607013,claude_sonnet,Q05,objective_high,11,D,4.0,D
+2026-02-10T17:51:53.233857,llama,Q05,objective_high,11,D,4.0,D
+2026-02-10T17:51:56.904699,gpt4,Q05,objective_high,12,B,2.0,B
+2026-02-10T17:52:01.286802,claude_sonnet,Q05,objective_high,12,B,2.0,B
+2026-02-10T17:52:04.410622,llama,Q05,objective_high,12,B,2.0,B
+2026-02-10T17:52:07.757951,gpt4,Q06,objective_high,1,D,4.0,D
+2026-02-10T17:52:12.381142,claude_sonnet,Q06,objective_high,1,D,4.0,D
+2026-02-10T17:52:15.740865,llama,Q06,objective_high,1,D,4.0,D
+2026-02-10T17:52:19.081975,gpt4,Q06,objective_high,2,C,3.0,C
+2026-02-10T17:52:23.422903,claude_sonnet,Q06,objective_high,2,C,3.0,C
+2026-02-10T17:52:26.620006,llama,Q06,objective_high,2,C,3.0,C
+2026-02-10T17:52:30.285712,gpt4,Q06,objective_high,3,C,3.0,C
+2026-02-10T17:52:35.088439,claude_sonnet,Q06,objective_high,3,C,3.0,C
+2026-02-10T17:52:38.606308,llama,Q06,objective_high,3,C,3.0,C
+2026-02-10T17:52:42.022790,gpt4,Q06,objective_high,4,A,1.0,A
+2026-02-10T17:52:46.104667,claude_sonnet,Q06,objective_high,4,A,1.0,A
+2026-02-10T17:52:48.558328,llama,Q06,objective_high,4,A,1.0,A
+2026-02-10T17:52:51.255295,gpt4,Q06,objective_high,5,B,2.0,B
+2026-02-10T17:52:54.561252,claude_sonnet,Q06,objective_high,5,B,2.0,B
+2026-02-10T17:52:57.932505,llama,Q06,objective_high,5,B,2.0,B
+2026-02-10T17:53:04.789369,claude_sonnet,Q06,objective_high,6,C,3.0,C
+2026-02-10T17:53:07.967058,llama,Q06,objective_high,6,C,3.0,C
+2026-02-10T17:53:14.519489,claude_sonnet,Q06,objective_high,7,C,3.0,C
+2026-02-10T17:53:21.642821,llama,Q06,objective_high,7,C,3.0,C
+2026-02-10T17:53:28.397835,claude_sonnet,Q06,objective_high,8,D,4.0,D
+2026-02-10T17:53:31.934927,llama,Q06,objective_high,8,D,4.0,D
+2026-02-10T17:53:35.057633,gpt4,Q06,objective_high,9,A,1.0,A
+2026-02-10T17:53:39.015269,claude_sonnet,Q06,objective_high,9,A,1.0,A
+2026-02-10T17:53:42.477081,llama,Q06,objective_high,9,A,1.0,A
+2026-02-10T17:53:45.869784,gpt4,Q06,objective_high,10,B,2.0,B
+2026-02-10T17:53:50.601391,claude_sonnet,Q06,objective_high,10,B,2.0,B
+2026-02-10T17:53:55.382963,llama,Q06,objective_high,10,B,2.0,B
+2026-02-10T18:03:49.449979,gpt4,Q31,subjective,2,A,1.0,A
+2026-02-10T18:03:57.081065,claude_sonnet,Q31,subjective,2,A,1.0,A
+2026-02-10T18:04:00.106977,llama,Q31,subjective,2,A,1.0,A
+2026-02-10T18:04:03.531362,gpt4,Q31,subjective,3,C,3.0,C
+2026-02-10T18:04:08.136354,claude_sonnet,Q31,subjective,3,C,3.0,C
+2026-02-10T18:04:13.926315,llama,Q31,subjective,3,C,3.0,C
+2026-02-10T18:04:17.557318,gpt4,Q31,subjective,4,D,4.0,D
+2026-02-10T18:04:21.773978,claude_sonnet,Q31,subjective,4,D,4.0,D
+2026-02-10T18:04:24.827088,llama,Q31,subjective,4,D,4.0,D
+2026-02-10T18:04:28.460312,gpt4,Q31,subjective,5,C,3.0,C
+2026-02-10T18:04:32.859979,claude_sonnet,Q31,subjective,5,C,3.0,C
+2026-02-10T18:04:37.217419,llama,Q31,subjective,5,C,3.0,C
+2026-02-10T18:04:40.807514,gpt4,Q31,subjective,6,B,2.0,B. Python
+2026-02-10T18:04:44.925239,claude_sonnet,Q31,subjective,6,B,2.0,B
+2026-02-10T18:04:48.852206,llama,Q31,subjective,6,B,2.0,B
+2026-02-10T18:04:53.047274,gpt4,Q31,subjective,7,A,1.0,A
+2026-02-10T18:04:57.243517,claude_sonnet,Q31,subjective,7,A,1.0,A
+2026-02-10T18:05:00.626466,llama,Q31,subjective,7,A,1.0,A
+2026-02-10T18:05:03.224674,gpt4,Q31,subjective,8,B,2.0,B. Python
+2026-02-10T18:05:07.037575,claude_sonnet,Q31,subjective,8,B,2.0,B
+2026-02-10T18:05:10.600309,llama,Q31,subjective,8,B,2.0,B
+2026-02-10T18:05:14.643856,gpt4,Q31,subjective,9,B,2.0,B. Python
+2026-02-10T18:05:20.498213,claude_sonnet,Q31,subjective,9,B,2.0,B
+2026-02-10T18:05:23.686650,llama,Q31,subjective,9,B,2.0,B
+2026-02-10T18:05:26.835613,gpt4,Q31,subjective,10,A,1.0,A
+2026-02-10T18:05:30.859793,claude_sonnet,Q31,subjective,10,A,1.0,A
+2026-02-10T18:05:34.623679,llama,Q31,subjective,10,A,1.0,A
+2026-02-10T18:05:38.426858,gpt4,Q31,subjective,11,C,3.0,C. Python
+2026-02-10T18:05:43.100887,claude_sonnet,Q31,subjective,11,C,3.0,C
+2026-02-10T18:05:47.475345,llama,Q31,subjective,11,C,3.0,C
+2026-02-10T18:05:50.843102,gpt4,Q31,subjective,12,A,1.0,A
+2026-02-10T18:05:54.900951,claude_sonnet,Q31,subjective,12,A,1.0,A
+2026-02-10T18:06:00.365547,llama,Q31,subjective,12,A,1.0,A
+2026-02-10T18:06:04.133344,gpt4,Q32,subjective,1,T,,This question is subjective and
+2026-02-10T18:06:08.556751,claude_sonnet,Q32,subjective,1,A,1.0,A
+2026-02-10T18:06:11.991953,llama,Q32,subjective,1,A,1.0,A
+2026-02-10T18:06:15.368344,gpt4,Q32,subjective,2,B,2.0,B
+2026-02-10T18:06:19.618657,claude_sonnet,Q32,subjective,2,B,2.0,B
+2026-02-10T18:06:23.569711,llama,Q32,subjective,2,B,2.0,B
+2026-02-10T18:06:26.966029,gpt4,Q32,subjective,3,T,,This question is subjective and
+2026-02-10T18:06:31.710819,claude_sonnet,Q32,subjective,3,B,2.0,B
+2026-02-10T18:06:35.900855,llama,Q32,subjective,3,B,2.0,B
+2026-02-10T18:06:39.685977,gpt4,Q32,subjective,4,T,,This question is subjective and
+2026-02-10T18:06:44.703234,claude_sonnet,Q32,subjective,4,A,1.0,A
+2026-02-10T18:06:47.678795,llama,Q32,subjective,4,D,4.0,D
+2026-02-10T18:06:51.463405,gpt4,Q32,subjective,5,T,,This question is subjective and
+2026-02-10T18:06:55.438588,claude_sonnet,Q32,subjective,5,A,1.0,A
+2026-02-10T18:06:58.989309,llama,Q32,subjective,5,A,1.0,A
+2026-02-10T18:07:02.726628,gpt4,Q32,subjective,6,T,,This question is subjective and
+2026-02-10T18:07:07.140755,claude_sonnet,Q32,subjective,6,B,2.0,B
+2026-02-10T18:07:11.136374,llama,Q32,subjective,6,B,2.0,B
+2026-02-10T18:07:14.812865,gpt4,Q32,subjective,7,T,,This question is subjective and
+2026-02-10T18:07:19.728087,claude_sonnet,Q32,subjective,7,B,2.0,B
+2026-02-10T18:07:23.668004,llama,Q32,subjective,7,B,2.0,B
+2026-02-10T18:07:27.507205,gpt4,Q32,subjective,8,T,,This question is subjective and
+2026-02-10T18:07:32.013385,claude_sonnet,Q32,subjective,8,A,1.0,A
+2026-02-10T18:07:36.318549,llama,Q32,subjective,8,C,3.0,C
+2026-02-10T18:07:40.204433,gpt4,Q32,subjective,9,T,,This question is subjective and
+2026-02-10T18:07:44.407756,claude_sonnet,Q32,subjective,9,A,1.0,A
+2026-02-10T18:07:48.193121,llama,Q32,subjective,9,D,4.0,D
+2026-02-10T18:07:51.888369,gpt4,Q32,subjective,10,C,3.0,C
+2026-02-10T18:07:55.772636,claude_sonnet,Q32,subjective,10,D,4.0,D
+2026-02-10T18:07:59.560602,llama,Q32,subjective,10,C,3.0,C
+2026-02-10T18:08:03.355744,gpt4,Q32,subjective,11,A,1.0,A
+2026-02-10T18:08:08.409186,claude_sonnet,Q32,subjective,11,A,1.0,A
+2026-02-10T18:08:12.256377,llama,Q32,subjective,11,D,4.0,D
+2026-02-10T18:08:15.946906,gpt4,Q32,subjective,12,T,,This question is subjective and
+2026-02-10T18:08:20.489311,claude_sonnet,Q32,subjective,12,A,1.0,A
+2026-02-10T18:08:24.571158,llama,Q32,subjective,12,A,1.0,A
+2026-02-10T18:08:27.676139,gpt4,Q33,subjective,1,D,4.0,D
+2026-02-10T18:08:31.611156,claude_sonnet,Q33,subjective,1,D,4.0,D
+2026-02-10T18:08:35.093172,llama,Q33,subjective,1,D,4.0,D
+2026-02-10T18:08:38.370325,gpt4,Q33,subjective,2,C,3.0,C
+2026-02-10T18:08:42.660349,claude_sonnet,Q33,subjective,2,C,3.0,C
+2026-02-10T18:08:45.534129,llama,Q33,subjective,2,C,3.0,C
+2026-02-10T18:08:48.839077,gpt4,Q33,subjective,3,D,4.0,D
+2026-02-10T18:08:52.591772,claude_sonnet,Q33,subjective,3,D,4.0,D
+2026-02-10T18:08:56.222143,llama,Q33,subjective,3,D,4.0,D
+2026-02-10T18:08:59.565182,gpt4,Q33,subjective,4,D,4.0,D
+2026-02-10T18:09:03.099027,claude_sonnet,Q33,subjective,4,D,4.0,D
+2026-02-10T18:09:06.064620,llama,Q33,subjective,4,D,4.0,D
+2026-02-10T18:09:09.884973,gpt4,Q33,subjective,5,D,4.0,D
+2026-02-10T18:09:14.330856,claude_sonnet,Q33,subjective,5,D,4.0,D
+2026-02-10T18:09:17.875625,llama,Q33,subjective,5,D,4.0,D
+2026-02-10T18:09:21.024527,gpt4,Q33,subjective,6,A,1.0,A
+2026-02-10T18:09:25.842715,claude_sonnet,Q33,subjective,6,A,1.0,A
+2026-02-10T18:09:28.643360,llama,Q33,subjective,6,A,1.0,A
+2026-02-10T18:09:31.820881,gpt4,Q33,subjective,7,D,4.0,D
+2026-02-10T18:09:36.316262,claude_sonnet,Q33,subjective,7,D,4.0,D
+2026-02-10T18:09:39.903435,llama,Q33,subjective,7,D,4.0,D
+2026-02-10T18:09:43.187931,gpt4,Q33,subjective,8,D,4.0,D
+2026-02-10T18:09:47.502369,claude_sonnet,Q33,subjective,8,D,4.0,D
+2026-02-10T18:09:50.612311,llama,Q33,subjective,8,D,4.0,D
+2026-02-10T18:09:53.742624,gpt4,Q33,subjective,9,B,2.0,B. Practice problems
+2026-02-10T18:09:58.129900,claude_sonnet,Q33,subjective,9,B,2.0,B
+2026-02-10T18:10:01.391724,llama,Q33,subjective,9,B,2.0,B
+2026-02-10T18:10:04.487209,gpt4,Q33,subjective,10,D,4.0,D
+2026-02-10T18:10:09.155895,claude_sonnet,Q33,subjective,10,D,4.0,D
+2026-02-10T18:10:13.781015,llama,Q33,subjective,10,D,4.0,D
+2026-02-10T18:10:17.298958,gpt4,Q33,subjective,11,B,2.0,B. Practice problems
+2026-02-10T18:10:21.201006,claude_sonnet,Q33,subjective,11,B,2.0,B
+2026-02-10T18:10:24.721187,llama,Q33,subjective,11,B,2.0,B
+2026-02-10T18:10:28.867300,gpt4,Q33,subjective,12,A,1.0,A
+2026-02-10T18:10:33.775248,claude_sonnet,Q33,subjective,12,A,1.0,A
+2026-02-10T18:10:37.455022,llama,Q33,subjective,12,A,1.0,A
+2026-02-10T18:10:41.306082,gpt4,Q34,subjective,1,D,4.0,D
+2026-02-10T18:10:45.654624,claude_sonnet,Q34,subjective,1,D,4.0,D
+2026-02-10T18:10:51.488705,llama,Q34,subjective,1,D,4.0,D
+2026-02-10T18:10:56.365000,gpt4,Q34,subjective,2,C,3.0,C
+2026-02-10T18:11:00.046278,claude_sonnet,Q34,subjective,2,C,3.0,C
+2026-02-10T18:11:03.205922,llama,Q34,subjective,2,C,3.0,C
+2026-02-10T18:11:06.452942,gpt4,Q34,subjective,3,A,1.0,A
+2026-02-10T18:11:09.976806,claude_sonnet,Q34,subjective,3,A,1.0,A
+2026-02-10T18:11:12.797119,llama,Q34,subjective,3,A,1.0,A
+2026-02-10T18:11:15.936886,gpt4,Q34,subjective,4,A,1.0,A
+2026-02-10T18:11:19.956452,claude_sonnet,Q34,subjective,4,A,1.0,A
+2026-02-10T18:11:25.285599,llama,Q34,subjective,4,A,1.0,A
+2026-02-10T18:11:28.408659,gpt4,Q34,subjective,5,A,1.0,A
+2026-02-10T18:11:32.461601,claude_sonnet,Q34,subjective,5,A,1.0,A
+2026-02-10T18:11:40.659702,llama,Q34,subjective,5,A,1.0,A
+2026-02-10T18:11:44.173708,gpt4,Q34,subjective,6,D,4.0,D
+2026-02-10T18:11:48.113441,claude_sonnet,Q34,subjective,6,D,4.0,D
+2026-02-10T18:11:52.212683,llama,Q34,subjective,6,D,4.0,D
+2026-02-10T18:11:56.458810,gpt4,Q34,subjective,7,A,1.0,A
+2026-02-10T18:12:00.405743,claude_sonnet,Q34,subjective,7,A,1.0,A
+2026-02-10T18:12:03.884727,llama,Q34,subjective,7,A,1.0,A
+2026-02-10T18:12:06.447440,gpt4,Q34,subjective,8,A,1.0,A
+2026-02-10T18:12:10.643564,claude_sonnet,Q34,subjective,8,A,1.0,A
+2026-02-10T18:12:13.920302,llama,Q34,subjective,8,A,1.0,A
+2026-02-10T18:12:16.991869,gpt4,Q34,subjective,9,A,1.0,A
+2026-02-10T18:12:20.920641,claude_sonnet,Q34,subjective,9,A,1.0,A
+2026-02-10T18:12:24.023168,llama,Q34,subjective,9,A,1.0,A
+2026-02-10T18:12:27.079563,gpt4,Q34,subjective,10,D,4.0,D
+2026-02-10T18:12:31.725489,claude_sonnet,Q34,subjective,10,D,4.0,D
+2026-02-10T18:12:34.681738,llama,Q34,subjective,10,D,4.0,D
+2026-02-10T18:12:37.714213,gpt4,Q34,subjective,11,A,1.0,A
+2026-02-10T18:12:41.730282,claude_sonnet,Q34,subjective,11,A,1.0,A
+2026-02-10T18:12:45.206595,llama,Q34,subjective,11,A,1.0,A
+2026-02-10T18:12:48.635612,gpt4,Q34,subjective,12,C,3.0,C
+2026-02-10T18:12:52.938406,claude_sonnet,Q34,subjective,12,C,3.0,C
+2026-02-10T18:12:56.724428,llama,Q34,subjective,12,C,3.0,C
+2026-02-10T18:12:59.950147,gpt4,Q35,subjective,1,D,4.0,D
+2026-02-10T18:13:03.690430,claude_sonnet,Q35,subjective,1,D,4.0,D
+2026-02-10T18:13:06.905439,llama,Q35,subjective,1,D,4.0,D
+2026-02-10T18:13:10.138057,gpt4,Q35,subjective,2,D,4.0,D
+2026-02-10T18:13:13.928282,claude_sonnet,Q35,subjective,2,D,4.0,D
+2026-02-10T18:13:19.045464,llama,Q35,subjective,2,D,4.0,D
+2026-02-11T17:03:50.662549,gpt4,Q35,subjective,3,C,3.0,C
+2026-02-11T17:03:59.950959,claude_sonnet,Q35,subjective,3,C,3.0,C
+2026-02-11T17:04:04.757243,llama,Q35,subjective,3,C,3.0,C
+2026-02-11T17:04:09.478414,gpt4,Q35,subjective,4,B,2.0,B
+2026-02-11T17:04:13.431791,claude_sonnet,Q35,subjective,4,B,2.0,B
+2026-02-11T17:04:16.936432,llama,Q35,subjective,4,B,2.0,B
+2026-02-11T17:04:20.110667,gpt4,Q35,subjective,5,A,1.0,A
+2026-02-11T17:04:23.916656,claude_sonnet,Q35,subjective,5,A,1.0,A
+2026-02-11T17:04:28.300922,llama,Q35,subjective,5,A,1.0,A
+2026-02-11T17:04:31.375444,gpt4,Q35,subjective,6,D,4.0,D
+2026-02-11T17:04:35.680362,claude_sonnet,Q35,subjective,6,D,4.0,D
+2026-02-11T17:04:39.158329,llama,Q35,subjective,6,D,4.0,D
+2026-02-11T17:04:43.457875,gpt4,Q35,subjective,7,C,3.0,C
+2026-02-11T17:04:47.868994,claude_sonnet,Q35,subjective,7,C,3.0,C
+2026-02-11T17:04:50.999939,llama,Q35,subjective,7,C,3.0,C
+2026-02-11T17:04:53.900173,gpt4,Q35,subjective,8,A,1.0,A
+2026-02-11T17:04:58.101473,claude_sonnet,Q35,subjective,8,A,1.0,A
+2026-02-11T17:05:01.888855,llama,Q35,subjective,8,A,1.0,A
+2026-02-11T17:05:08.158830,gpt4,Q35,subjective,9,C,3.0,C. Early morning
+2026-02-11T17:05:12.490382,claude_sonnet,Q35,subjective,9,C,3.0,C
+2026-02-11T17:05:15.915218,llama,Q35,subjective,9,C,3.0,C
+2026-02-11T17:05:19.887882,gpt4,Q35,subjective,10,C,3.0,C
+2026-02-11T17:05:24.124148,claude_sonnet,Q35,subjective,10,C,3.0,C
+2026-02-11T17:05:27.287566,llama,Q35,subjective,10,C,3.0,C
+2026-02-11T17:05:30.607380,gpt4,Q35,subjective,11,B,2.0,B. Early morning
+2026-02-11T17:05:34.170341,claude_sonnet,Q35,subjective,11,B,2.0,B
+2026-02-11T17:05:37.630527,llama,Q35,subjective,11,B,2.0,B
+2026-02-11T17:05:40.802785,gpt4,Q35,subjective,12,C,3.0,C
+2026-02-11T17:05:44.551573,claude_sonnet,Q35,subjective,12,C,3.0,C
+2026-02-11T17:05:48.001757,llama,Q35,subjective,12,C,3.0,C
+2026-02-11T17:05:50.736508,gpt4,Q36,subjective,1,A,1.0,A
+2026-02-11T17:05:55.112176,claude_sonnet,Q36,subjective,1,A,1.0,A
+2026-02-11T17:05:58.065153,llama,Q36,subjective,1,A,1.0,A
+2026-02-11T17:06:00.763836,gpt4,Q36,subjective,2,B,2.0,B
+2026-02-11T17:06:04.222610,claude_sonnet,Q36,subjective,2,B,2.0,B
+2026-02-11T17:06:07.450452,llama,Q36,subjective,2,B,2.0,B
+2026-02-11T17:06:10.485076,gpt4,Q36,subjective,3,C,3.0,C
+2026-02-11T17:06:14.901732,claude_sonnet,Q36,subjective,3,C,3.0,C
+2026-02-11T17:06:21.046534,llama,Q36,subjective,3,C,3.0,C
+2026-02-11T17:06:24.324882,gpt4,Q36,subjective,4,D,4.0,D
+2026-02-11T17:06:28.102610,claude_sonnet,Q36,subjective,4,D,4.0,D
+2026-02-11T17:06:31.083177,llama,Q36,subjective,4,D,4.0,D
+2026-02-11T17:06:33.751995,gpt4,Q36,subjective,5,D,4.0,D
+2026-02-11T17:06:37.327696,claude_sonnet,Q36,subjective,5,D,4.0,D
+2026-02-11T17:06:40.399450,llama,Q36,subjective,5,D,4.0,D
+2026-02-11T17:06:43.024548,gpt4,Q36,subjective,6,A,1.0,A
+2026-02-11T17:06:46.222891,claude_sonnet,Q36,subjective,6,A,1.0,A
+2026-02-11T17:06:49.003585,llama,Q36,subjective,6,A,1.0,A
+2026-02-11T17:06:51.775382,gpt4,Q36,subjective,7,C,3.0,C
+2026-02-11T17:06:55.618934,claude_sonnet,Q36,subjective,7,C,3.0,C
+2026-02-11T17:06:58.410622,llama,Q36,subjective,7,C,3.0,C
+2026-02-11T17:07:00.983947,gpt4,Q36,subjective,8,A,1.0,A
+2026-02-11T17:07:04.661385,claude_sonnet,Q36,subjective,8,A,1.0,A
+2026-02-11T17:07:07.323570,llama,Q36,subjective,8,A,1.0,A
+2026-02-11T17:07:10.155813,gpt4,Q36,subjective,9,D,4.0,D
+2026-02-11T17:07:13.994762,claude_sonnet,Q36,subjective,9,D,4.0,D
+2026-02-11T17:07:23.509340,llama,Q36,subjective,9,D,4.0,D
+2026-02-11T17:07:28.118675,gpt4,Q36,subjective,10,B,2.0,B
+2026-02-11T17:07:33.650527,claude_sonnet,Q36,subjective,10,B,2.0,B
+2026-02-11T17:07:37.837990,llama,Q36,subjective,10,B,2.0,B
+2026-02-11T17:07:41.734433,gpt4,Q36,subjective,11,D,4.0,D
+2026-02-11T17:07:46.201082,claude_sonnet,Q36,subjective,11,D,4.0,D
+2026-02-11T17:07:50.851562,llama,Q36,subjective,11,D,4.0,D
+2026-02-11T17:07:54.845672,gpt4,Q36,subjective,12,A,1.0,A
+2026-02-11T17:07:59.659495,claude_sonnet,Q36,subjective,12,A,1.0,A
+2026-02-11T17:08:02.936539,llama,Q36,subjective,12,A,1.0,A
+2026-02-11T17:08:06.277553,gpt4,Q37,subjective,1,B,2.0,B. Integrity
+2026-02-11T17:08:10.821998,claude_sonnet,Q37,subjective,1,B,2.0,B
+2026-02-11T17:08:14.501891,llama,Q37,subjective,1,B,2.0,B
+2026-02-11T17:08:17.578655,gpt4,Q37,subjective,2,D,4.0,D. Integrity
+2026-02-11T17:08:21.263710,claude_sonnet,Q37,subjective,2,D,4.0,D
+2026-02-11T17:08:24.383285,llama,Q37,subjective,2,D,4.0,D
+2026-02-11T17:08:26.958428,gpt4,Q37,subjective,3,D,4.0,D
+2026-02-11T17:08:30.176147,claude_sonnet,Q37,subjective,3,D,4.0,D
+2026-02-11T17:08:33.041869,llama,Q37,subjective,3,D,4.0,D
+2026-02-11T17:08:36.308938,gpt4,Q37,subjective,4,C,3.0,C
+2026-02-11T17:08:40.415399,claude_sonnet,Q37,subjective,4,C,3.0,C
+2026-02-11T17:08:44.494814,llama,Q37,subjective,4,C,3.0,C
+2026-02-11T17:08:47.369924,gpt4,Q37,subjective,5,B,2.0,B. Integrity
+2026-02-11T17:08:51.166388,claude_sonnet,Q37,subjective,5,B,2.0,B
+2026-02-11T17:08:54.445679,llama,Q37,subjective,5,B,2.0,B
+2026-02-11T17:08:57.514543,gpt4,Q37,subjective,6,D,4.0,D
+2026-02-11T17:09:00.790661,claude_sonnet,Q37,subjective,6,D,4.0,D
+2026-02-11T17:09:04.272310,llama,Q37,subjective,6,D,4.0,D
+2026-02-11T17:09:06.949235,gpt4,Q37,subjective,7,C,3.0,C
+2026-02-11T17:09:10.705265,claude_sonnet,Q37,subjective,7,C,3.0,C
+2026-02-11T17:09:13.179077,llama,Q37,subjective,7,C,3.0,C
+2026-02-11T17:09:15.842309,gpt4,Q37,subjective,8,B,2.0,B
+2026-02-11T17:09:19.833182,claude_sonnet,Q37,subjective,8,B,2.0,B
+2026-02-11T17:09:22.895546,llama,Q37,subjective,8,B,2.0,B
+2026-02-11T17:09:25.422148,gpt4,Q37,subjective,9,D,4.0,D
+2026-02-11T17:09:28.846714,claude_sonnet,Q37,subjective,9,D,4.0,D
+2026-02-11T17:09:33.865061,llama,Q37,subjective,9,D,4.0,D
+2026-02-11T17:09:36.673543,gpt4,Q37,subjective,10,C,3.0,C
+2026-02-11T17:09:39.798691,claude_sonnet,Q37,subjective,10,C,3.0,C
+2026-02-11T17:09:42.522883,llama,Q37,subjective,10,C,3.0,C
+2026-02-11T17:09:45.262792,gpt4,Q37,subjective,11,A,1.0,A. Integrity
+2026-02-11T17:09:49.225966,claude_sonnet,Q37,subjective,11,A,1.0,A
+2026-02-11T17:09:52.297349,llama,Q37,subjective,11,A,1.0,A
+2026-02-11T17:09:55.468952,gpt4,Q37,subjective,12,D,4.0,D. Integrity
+2026-02-11T17:09:58.854240,claude_sonnet,Q37,subjective,12,D,4.0,D
+2026-02-11T17:10:01.719955,llama,Q37,subjective,12,D,4.0,D
+2026-02-11T17:10:04.994500,gpt4,Q38,subjective,1,T,,This question is subjective and
+2026-02-11T17:10:08.370949,claude_sonnet,Q38,subjective,1,B,2.0,B
+2026-02-11T17:10:11.072903,llama,Q38,subjective,1,B,2.0,B
+2026-02-11T17:10:14.005240,gpt4,Q38,subjective,2,T,,This question is subjective and
+2026-02-11T17:10:17.429936,claude_sonnet,Q38,subjective,2,C,3.0,C
+2026-02-11T17:10:21.123690,llama,Q38,subjective,2,C,3.0,C
+2026-02-11T17:10:23.991864,gpt4,Q38,subjective,3,T,,This question is subjective and
+2026-02-11T17:10:27.725074,claude_sonnet,Q38,subjective,3,B,2.0,B
+2026-02-11T17:10:30.697483,llama,Q38,subjective,3,B,2.0,B
+2026-02-11T17:10:33.355619,gpt4,Q38,subjective,4,T,,This question is subjective and
+2026-02-11T17:10:36.388944,claude_sonnet,Q38,subjective,4,B,2.0,B
+2026-02-11T17:10:39.505370,llama,Q38,subjective,4,B,2.0,B
+2026-02-11T17:10:42.222291,gpt4,Q38,subjective,5,T,,This question is subjective and
+2026-02-11T17:10:46.058270,claude_sonnet,Q38,subjective,5,C,3.0,C
+2026-02-11T17:10:48.920089,llama,Q38,subjective,5,C,3.0,C
+2026-02-11T17:10:51.784255,gpt4,Q38,subjective,6,T,,This question is subjective and
+2026-02-11T17:10:55.036509,claude_sonnet,Q38,subjective,6,B,2.0,B
+2026-02-11T17:10:57.596675,llama,Q38,subjective,6,B,2.0,B
+2026-02-11T17:11:00.296548,gpt4,Q38,subjective,7,T,,This question is subjective and
+2026-02-11T17:11:05.001266,claude_sonnet,Q38,subjective,7,C,3.0,C
+2026-02-11T17:11:08.279485,llama,Q38,subjective,7,C,3.0,C
+2026-02-11T17:11:11.042633,gpt4,Q38,subjective,8,T,,This question is subjective and
+2026-02-11T17:11:14.730456,claude_sonnet,Q38,subjective,8,D,4.0,D
+2026-02-11T17:11:17.794136,llama,Q38,subjective,8,D,4.0,D
+2026-02-11T17:11:20.358835,gpt4,Q38,subjective,9,T,,This question is subjective and
+2026-02-11T17:11:23.661589,claude_sonnet,Q38,subjective,9,C,3.0,C
+2026-02-11T17:11:27.836861,llama,Q38,subjective,9,C,3.0,C
+2026-02-11T17:11:32.139029,gpt4,Q38,subjective,10,T,,This question is subjective and
+2026-02-11T17:11:35.809731,claude_sonnet,Q38,subjective,10,B,2.0,B
+2026-02-11T17:11:38.586242,llama,Q38,subjective,10,B,2.0,B
+2026-02-11T17:11:41.763817,gpt4,Q38,subjective,11,T,,This question is subjective and
+2026-02-11T17:11:45.080443,claude_sonnet,Q38,subjective,11,D,4.0,D
+2026-02-11T17:11:47.492822,llama,Q38,subjective,11,D,4.0,D
+2026-02-11T17:11:50.494180,gpt4,Q38,subjective,12,T,,This question is subjective and
+2026-02-11T17:11:54.153870,claude_sonnet,Q38,subjective,12,D,4.0,D
+2026-02-11T17:11:57.297177,llama,Q38,subjective,12,D,4.0,D
+2026-02-11T17:12:00.094547,gpt4,Q39,subjective,1,C,3.0,C
+2026-02-11T17:12:03.165195,claude_sonnet,Q39,subjective,1,C,3.0,C
+2026-02-11T17:12:05.828129,llama,Q39,subjective,1,C,3.0,C
+2026-02-11T17:12:08.908741,gpt4,Q39,subjective,2,B,2.0,B
+2026-02-11T17:12:12.276980,claude_sonnet,Q39,subjective,2,B,2.0,B
+2026-02-11T17:12:14.833612,llama,Q39,subjective,2,B,2.0,B
+2026-02-11T17:12:17.634329,gpt4,Q39,subjective,3,B,2.0,B
+2026-02-11T17:12:21.164768,claude_sonnet,Q39,subjective,3,B,2.0,B
+2026-02-11T17:12:24.002351,llama,Q39,subjective,3,B,2.0,B
+2026-02-11T17:12:27.740623,gpt4,Q39,subjective,4,D,4.0,D
+2026-02-11T17:12:30.810683,claude_sonnet,Q39,subjective,4,D,4.0,D
+2026-02-11T17:12:36.390415,llama,Q39,subjective,4,D,4.0,D
+2026-02-11T17:14:18.946529,gpt4,Q41,ethical,1,B,2.0,B. Highest chance of
+2026-02-11T17:14:23.139203,claude_sonnet,Q41,ethical,1,B,2.0,B
+2026-02-11T17:14:26.668627,llama,Q41,ethical,1,B,2.0,B
+2026-02-11T17:14:30.006604,gpt4,Q41,ethical,2,A,1.0,A. Highest chance of
+2026-02-11T17:14:34.174121,claude_sonnet,Q41,ethical,2,A,1.0,A
+2026-02-11T17:14:37.150051,llama,Q41,ethical,2,A,1.0,A
+2026-02-11T17:14:40.554955,gpt4,Q41,ethical,3,B,2.0,B. Highest chance of
+2026-02-11T17:14:44.709181,claude_sonnet,Q41,ethical,3,B,2.0,B
+2026-02-11T17:14:48.027806,llama,Q41,ethical,3,B,2.0,B
+2026-02-11T17:14:51.388797,gpt4,Q41,ethical,4,B,2.0,B. Highest chance of
+2026-02-11T17:14:57.035411,claude_sonnet,Q41,ethical,4,B,2.0,B
+2026-02-11T17:15:00.275167,llama,Q41,ethical,4,B,2.0,B
+2026-02-11T17:15:03.389019,gpt4,Q41,ethical,5,D,4.0,D. Highest chance of
+2026-02-11T17:15:07.176365,claude_sonnet,Q41,ethical,5,D,4.0,D
+2026-02-11T17:15:11.026345,llama,Q41,ethical,5,D,4.0,D
+2026-02-11T17:15:14.134239,gpt4,Q41,ethical,6,D,4.0,D. Highest chance of
+2026-02-11T17:15:17.674828,claude_sonnet,Q41,ethical,6,D,4.0,D
+2026-02-11T17:15:22.875127,llama,Q41,ethical,6,D,4.0,D
+2026-02-11T17:15:26.527822,gpt4,Q41,ethical,7,C,3.0,C. Highest chance of
+2026-02-11T17:15:30.387534,claude_sonnet,Q41,ethical,7,C,3.0,C
+2026-02-11T17:15:35.011489,llama,Q41,ethical,7,C,3.0,C
+2026-02-11T17:15:38.411733,gpt4,Q41,ethical,8,B,2.0,B. Highest chance of
+2026-02-11T17:15:42.752718,claude_sonnet,Q41,ethical,8,B,2.0,B
+2026-02-11T17:15:45.884881,llama,Q41,ethical,8,B,2.0,B
+2026-02-11T17:15:49.158807,gpt4,Q41,ethical,9,A,1.0,A. Highest chance of
+2026-02-11T17:15:53.154160,claude_sonnet,Q41,ethical,9,A,1.0,A
+2026-02-11T17:15:56.124834,llama,Q41,ethical,9,A,1.0,A
+2026-02-11T17:15:59.231891,gpt4,Q41,ethical,10,B,2.0,B. Highest chance of
+2026-02-11T17:16:02.984422,claude_sonnet,Q41,ethical,10,B,2.0,B
+2026-02-11T17:16:06.275626,llama,Q41,ethical,10,B,2.0,B
+2026-02-11T17:16:09.433995,gpt4,Q41,ethical,11,B,2.0,B. Highest chance of
+2026-02-11T17:16:13.328435,claude_sonnet,Q41,ethical,11,B,2.0,B
+2026-02-11T17:16:17.641420,llama,Q41,ethical,11,B,2.0,B
+2026-02-11T17:16:21.318269,gpt4,Q41,ethical,12,D,4.0,D. Highest chance of
+2026-02-11T17:16:25.106547,claude_sonnet,Q41,ethical,12,D,4.0,D
+2026-02-11T17:16:28.484127,llama,Q41,ethical,12,D,4.0,D
+2026-02-11T17:16:31.660556,gpt4,Q42,ethical,1,A,1.0,A. User safety
+2026-02-11T17:16:36.774762,claude_sonnet,Q42,ethical,1,A,1.0,A
+2026-02-11T17:16:41.494984,llama,Q42,ethical,1,A,1.0,A
+2026-02-11T17:16:47.591414,claude_sonnet,Q42,ethical,2,A,1.0,A
+2026-02-11T17:16:50.865456,llama,Q42,ethical,2,A,1.0,A
+2026-02-11T17:16:57.156067,claude_sonnet,Q42,ethical,3,D,4.0,D
+2026-02-11T17:17:01.359829,llama,Q42,ethical,3,D,4.0,D
+2026-02-11T17:17:07.449535,claude_sonnet,Q42,ethical,4,B,2.0,B
+2026-02-11T17:17:10.467650,llama,Q42,ethical,4,B,2.0,B
+2026-02-11T17:17:17.940951,claude_sonnet,Q42,ethical,5,A,1.0,A
+2026-02-11T17:17:21.220638,llama,Q42,ethical,5,A,1.0,A
+2026-02-11T17:17:26.709034,claude_sonnet,Q42,ethical,6,B,2.0,B
+2026-02-11T17:17:29.491031,llama,Q42,ethical,6,B,2.0,B
+2026-02-11T17:17:35.555558,claude_sonnet,Q42,ethical,7,A,1.0,A
+2026-02-11T17:17:38.785848,llama,Q42,ethical,7,A,1.0,A
+2026-02-11T17:17:44.384161,claude_sonnet,Q42,ethical,8,C,3.0,C
+2026-02-11T17:17:47.943497,llama,Q42,ethical,8,C,3.0,C
+2026-02-11T17:17:53.679025,claude_sonnet,Q42,ethical,9,B,2.0,B
+2026-02-11T17:17:57.254141,llama,Q42,ethical,9,B,2.0,B
+2026-02-11T17:18:03.406183,claude_sonnet,Q42,ethical,10,C,3.0,C
+2026-02-11T17:18:07.090538,llama,Q42,ethical,10,C,3.0,C
+2026-02-11T17:18:13.337795,claude_sonnet,Q42,ethical,11,A,1.0,A
+2026-02-11T17:18:17.028802,llama,Q42,ethical,11,A,1.0,A
+2026-02-11T17:18:22.740703,claude_sonnet,Q42,ethical,12,A,1.0,A
+2026-02-11T17:18:26.243437,llama,Q42,ethical,12,D,4.0,D
+2026-02-11T17:18:34.639832,llama,Q43,ethical,1,C,3.0,C
+2026-02-11T17:18:42.385929,llama,Q43,ethical,2,C,3.0,C
+2026-02-11T17:18:51.934475,llama,Q43,ethical,3,D,4.0,D
+2026-02-11T17:18:59.429003,llama,Q43,ethical,4,D,4.0,D
+2026-02-11T17:19:08.391313,llama,Q43,ethical,5,D,4.0,D
+2026-02-11T17:19:15.805752,llama,Q43,ethical,6,C,3.0,C
+2026-02-11T17:30:55.503078,gpt4,Q45,ethical,3,C,3,C. Collect with consent
+2026-02-11T17:31:00.985642,claude_sonnet,Q45,ethical,3,C,3,C
+2026-02-11T17:31:04.203182,llama,Q45,ethical,3,C,3,C
+2026-02-11T17:31:06.968717,gpt4,Q45,ethical,4,C,3,C. Collect with consent
+2026-02-11T17:31:11.120636,claude_sonnet,Q45,ethical,4,C,3,C
+2026-02-11T17:31:14.649991,llama,Q45,ethical,4,C,3,C
+2026-02-11T17:31:17.518738,gpt4,Q45,ethical,5,A,1,A. Collect with consent
+2026-02-11T17:31:21.827769,claude_sonnet,Q45,ethical,5,A,1,A
+2026-02-11T17:31:24.487197,llama,Q45,ethical,5,A,1,A
+2026-02-11T17:31:27.657726,gpt4,Q45,ethical,6,A,1,A. Collect with consent
+2026-02-11T17:31:31.443961,claude_sonnet,Q45,ethical,6,A,1,A
+2026-02-11T17:31:35.974623,llama,Q45,ethical,6,A,1,A
+2026-02-11T17:31:38.818001,gpt4,Q45,ethical,7,B,2,B. Collect with consent
+2026-02-11T17:31:43.104827,claude_sonnet,Q45,ethical,7,B,2,B
+2026-02-11T17:31:46.012986,llama,Q45,ethical,7,B,2,B
+2026-02-11T17:31:48.647686,gpt4,Q45,ethical,8,D,4,D. Collect with consent
+2026-02-11T17:31:52.236455,claude_sonnet,Q45,ethical,8,D,4,D
+2026-02-11T17:31:55.714333,llama,Q45,ethical,8,D,4,D
+2026-02-11T17:31:58.478935,gpt4,Q45,ethical,9,A,1,A. Collect with consent
+2026-02-11T17:32:01.669282,claude_sonnet,Q45,ethical,9,A,1,A
+2026-02-11T17:32:05.029949,llama,Q45,ethical,9,A,1,A
+2026-02-11T17:32:08.311406,gpt4,Q45,ethical,10,D,4,D. Collect with consent
+2026-02-11T17:32:13.561201,claude_sonnet,Q45,ethical,10,D,4,D
+2026-02-11T17:32:18.528932,llama,Q45,ethical,10,D,4,D
+2026-02-11T17:32:23.157449,gpt4,Q45,ethical,11,C,3,C. Collect with consent
+2026-02-11T17:32:27.048412,claude_sonnet,Q45,ethical,11,C,3,C
+2026-02-11T17:32:36.007577,llama,Q45,ethical,11,C,3,C
+2026-02-11T17:32:39.110807,gpt4,Q45,ethical,12,A,1,A. Collect with consent
+2026-02-11T17:32:42.613431,claude_sonnet,Q45,ethical,12,A,1,A
+2026-02-11T17:32:45.847907,llama,Q45,ethical,12,A,1,A
+2026-02-11T17:32:48.451554,gpt4,Q46,ethical,1,A,1,A
+2026-02-11T17:32:51.867333,claude_sonnet,Q46,ethical,1,A,1,A
+2026-02-11T17:32:54.798228,llama,Q46,ethical,1,A,1,A
+2026-02-11T17:32:57.867116,gpt4,Q46,ethical,2,B,2,B. Accuracy
+2026-02-11T17:33:01.660586,claude_sonnet,Q46,ethical,2,B,2,B
+2026-02-11T17:33:04.222990,llama,Q46,ethical,2,A,1,A
+2026-02-11T17:33:07.472443,gpt4,Q46,ethical,3,A,1,A. Accuracy
+2026-02-11T17:33:10.729586,claude_sonnet,Q46,ethical,3,A,1,A
+2026-02-11T17:33:13.830691,llama,Q46,ethical,3,A,1,A
+2026-02-11T17:33:16.814222,gpt4,Q46,ethical,4,D,4,D. Accuracy
+2026-02-11T17:33:22.155377,claude_sonnet,Q46,ethical,4,D,4,D
+2026-02-11T17:33:27.275712,llama,Q46,ethical,4,D,4,D
+2026-02-11T17:33:33.249255,gpt4,Q46,ethical,5,D,4,D. Objectivity
+2026-02-11T17:33:36.635327,claude_sonnet,Q46,ethical,5,C,3,C
+2026-02-11T17:33:43.265272,llama,Q46,ethical,5,C,3,C
+2026-02-11T17:33:55.328906,gpt4,Q46,ethical,6,A,1,A
+2026-02-11T17:34:04.647966,claude_sonnet,Q46,ethical,6,A,1,A
+2026-02-11T17:34:10.476013,llama,Q46,ethical,6,A,1,A
+2026-02-11T17:34:17.956405,gpt4,Q46,ethical,7,B,2,B. Accuracy
+2026-02-11T17:34:25.422250,claude_sonnet,Q46,ethical,7,B,2,B
+2026-02-11T17:34:34.902274,llama,Q46,ethical,7,A,1,A
+2026-02-11T17:34:40.583051,gpt4,Q46,ethical,8,A,1,A. Accuracy
+2026-02-11T17:34:46.832984,claude_sonnet,Q46,ethical,8,A,1,A
+2026-02-11T17:34:55.449538,llama,Q46,ethical,8,A,1,A
+2026-02-11T17:35:03.421932,gpt4,Q46,ethical,9,A,1,A. Accuracy
+2026-02-11T17:35:10.715519,claude_sonnet,Q46,ethical,9,A,1,A
+2026-02-11T17:35:13.760630,llama,Q46,ethical,9,A,1,A
+2026-02-11T17:35:20.405257,gpt4,Q46,ethical,10,D,4,D. Accuracy
+2026-02-11T17:35:26.961333,claude_sonnet,Q46,ethical,10,D,4,D
+2026-02-11T17:35:30.137613,llama,Q46,ethical,10,D,4,D
+2026-02-11T17:35:32.760170,gpt4,Q46,ethical,11,A,1,A
+2026-02-11T17:35:36.586948,claude_sonnet,Q46,ethical,11,D,4,D
+2026-02-11T17:35:39.659752,llama,Q46,ethical,11,D,4,D
+2026-02-11T17:35:42.481313,gpt4,Q46,ethical,12,B,2,B. Accuracy
+2026-02-11T17:35:46.318171,claude_sonnet,Q46,ethical,12,B,2,B
+2026-02-11T17:35:49.648970,llama,Q46,ethical,12,B,2,B
+2026-02-11T17:35:52.563808,gpt4,Q47,ethical,1,A,1,A
+2026-02-11T17:35:56.395185,claude_sonnet,Q47,ethical,1,A,1,A
+2026-02-11T17:35:59.886772,llama,Q47,ethical,1,C,3,C
+2026-02-11T17:36:03.113003,gpt4,Q47,ethical,2,B,2,B. User education
+2026-02-11T17:36:06.590064,claude_sonnet,Q47,ethical,2,B,2,B
+2026-02-11T17:36:09.666974,llama,Q47,ethical,2,B,2,B
+2026-02-11T17:36:12.491406,gpt4,Q47,ethical,3,B,2,B. User education
+2026-02-11T17:36:15.803711,claude_sonnet,Q47,ethical,3,B,2,B
+2026-02-11T17:36:24.614044,llama,Q47,ethical,3,D,4,D
+2026-02-11T17:36:27.764802,gpt4,Q47,ethical,4,A,1,A. User education
+2026-02-11T17:36:31.369091,claude_sonnet,Q47,ethical,4,A,1,A
+2026-02-11T17:36:34.799992,llama,Q47,ethical,4,C,3,C
+2026-02-11T17:36:37.959467,gpt4,Q47,ethical,5,B,2,B. Fact-check labels
+2026-02-11T17:36:41.409221,claude_sonnet,Q47,ethical,5,C,3,C
+2026-02-11T17:36:45.197492,llama,Q47,ethical,5,B,2,B
+2026-02-11T17:36:48.169119,gpt4,Q47,ethical,6,A,1,A. Fact-check labels
+2026-02-11T17:36:51.857856,claude_sonnet,Q47,ethical,6,C,3,C
+2026-02-11T17:36:55.635544,llama,Q47,ethical,6,A,1,A
+2026-02-11T17:36:58.713929,gpt4,Q47,ethical,7,A,1,A
+2026-02-11T17:37:02.591790,claude_sonnet,Q47,ethical,7,A,1,A
+2026-02-11T17:37:05.296043,llama,Q47,ethical,7,B,2,B
+2026-02-11T17:37:08.545406,gpt4,Q47,ethical,8,A,1,A. Fact-check labels
+2026-02-11T17:37:12.642808,claude_sonnet,Q47,ethical,8,C,3,C
+2026-02-11T17:37:17.353239,llama,Q47,ethical,8,A,1,A
+2026-02-11T17:37:20.728998,gpt4,Q47,ethical,9,B,2,B. Fact-check labels
+2026-02-11T17:37:25.814261,claude_sonnet,Q47,ethical,9,C,3,C
+2026-02-11T17:37:28.561552,llama,Q47,ethical,9,B,2,B
+2026-02-11T17:37:31.578285,gpt4,Q47,ethical,10,A,1,"A, B, C"
+2026-02-11T17:37:35.376152,claude_sonnet,Q47,ethical,10,C,3,C
+2026-02-11T17:37:39.265328,llama,Q47,ethical,10,A,1,A
+2026-02-11T17:37:42.192612,gpt4,Q47,ethical,11,B,2,B. User education
+2026-02-11T17:37:45.664978,claude_sonnet,Q47,ethical,11,B,2,B
+2026-02-11T17:37:48.891604,llama,Q47,ethical,11,D,4,D
+2026-02-11T17:37:51.860635,gpt4,Q47,ethical,12,A,1,A. User education
+2026-02-11T17:37:55.504649,claude_sonnet,Q47,ethical,12,A,1,A
+2026-02-11T17:37:58.718078,llama,Q47,ethical,12,C,3,C
+2026-02-11T17:38:01.996584,gpt4,Q48,ethical,1,A,1,A. Minimize harm
+2026-02-11T17:38:05.773336,claude_sonnet,Q48,ethical,1,A,1,A
+2026-02-11T17:38:08.859803,llama,Q48,ethical,1,A,1,A
+2026-02-11T17:38:11.825045,gpt4,Q48,ethical,2,A,1,A. Minimize harm
+2026-02-11T17:38:15.727721,claude_sonnet,Q48,ethical,2,A,1,A
+2026-02-11T17:38:18.689290,llama,Q48,ethical,2,A,1,A
+2026-02-11T17:38:21.962646,gpt4,Q48,ethical,3,D,4,D. Minimize harm
+2026-02-11T17:38:25.447127,claude_sonnet,Q48,ethical,3,D,4,D
+2026-02-11T17:38:28.632222,llama,Q48,ethical,3,D,4,D
+2026-02-11T17:38:32.407557,gpt4,Q48,ethical,4,A,1,A. Minimize harm
+2026-02-11T17:38:37.017053,claude_sonnet,Q48,ethical,4,A,1,A
+2026-02-11T17:38:40.088892,llama,Q48,ethical,4,A,1,A
+2026-02-11T17:38:43.366603,gpt4,Q48,ethical,5,C,3,C. Minimize harm
+2026-02-11T17:38:46.738742,claude_sonnet,Q48,ethical,5,C,3,C
+2026-02-11T17:38:49.612502,llama,Q48,ethical,5,C,3,C
+2026-02-11T17:38:52.583763,gpt4,Q48,ethical,6,D,4,D. Minimize harm
+2026-02-11T17:38:56.170217,claude_sonnet,Q48,ethical,6,D,4,D
+2026-02-11T17:38:59.955022,llama,Q48,ethical,6,D,4,D
+2026-02-11T17:39:03.096464,gpt4,Q48,ethical,7,A,1,A. Minimize harm
+2026-02-11T17:39:06.905380,claude_sonnet,Q48,ethical,7,A,1,A
+2026-02-11T17:39:09.874902,llama,Q48,ethical,7,A,1,A
+2026-02-11T17:39:13.162124,gpt4,Q48,ethical,8,D,4,D. Minimize harm
+2026-02-11T17:39:16.702896,claude_sonnet,Q48,ethical,8,D,4,D
+2026-02-11T17:39:20.538453,llama,Q48,ethical,8,D,4,D
+2026-02-11T17:39:24.217459,gpt4,Q48,ethical,9,C,3,C. Minimize harm
+2026-02-11T17:39:28.107936,claude_sonnet,Q48,ethical,9,C,3,C
+2026-02-11T17:39:31.557592,llama,Q48,ethical,9,C,3,C
+2026-02-11T17:39:34.976415,gpt4,Q48,ethical,10,C,3,C. Minimize harm
+2026-02-11T17:39:38.865136,claude_sonnet,Q48,ethical,10,C,3,C
+2026-02-11T17:39:41.530421,llama,Q48,ethical,10,C,3,C
+2026-02-11T17:39:44.805818,gpt4,Q48,ethical,11,C,3,C. Minimize harm
+2026-02-11T17:39:48.692370,claude_sonnet,Q48,ethical,11,C,3,C
+2026-02-11T17:39:51.463355,llama,Q48,ethical,11,C,3,C
+2026-02-11T17:39:54.137368,gpt4,Q48,ethical,12,A,1,A. Minimize harm
+2026-02-11T17:39:57.708773,claude_sonnet,Q48,ethical,12,A,1,A
+2026-02-11T17:40:02.011313,llama,Q48,ethical,12,A,1,A
+2026-02-11T17:40:05.024051,gpt4,Q49,ethical,1,B,2,B. Social impact
+2026-02-11T17:40:08.311023,claude_sonnet,Q49,ethical,1,B,2,B
+2026-02-11T17:40:11.022782,llama,Q49,ethical,1,B,2,B
+2026-02-11T17:40:13.890269,gpt4,Q49,ethical,2,A,1,A. Social impact
+2026-02-11T17:40:17.365148,claude_sonnet,Q49,ethical,2,A,1,A
+2026-02-11T17:40:20.444313,llama,Q49,ethical,2,A,1,A
+2026-02-11T17:40:23.381315,gpt4,Q49,ethical,3,A,1,A. Regulation
+2026-02-11T17:40:27.202276,claude_sonnet,Q49,ethical,3,C,3,C
+2026-02-11T17:40:30.989273,llama,Q49,ethical,3,C,3,C
+2026-02-11T17:40:34.010724,gpt4,Q49,ethical,4,D,4,D. Social impact
+2026-02-11T17:40:37.689669,claude_sonnet,Q49,ethical,4,D,4,D
+2026-02-11T17:40:41.330827,llama,Q49,ethical,4,D,4,D
